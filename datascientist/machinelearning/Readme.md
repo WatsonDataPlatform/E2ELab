@@ -1,6 +1,6 @@
 #Data Scientist 
 #Part 2 - Create Resolution..
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSE2E2.png">](https://github.com/ibmdataworks/datafirst/tree/master/datascientist/machinelearning/)
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/media/DSE2E2.png">](https://github.com/WatsonDataPlatform/E2ELab/tree/master/datascientist/machinelearning/)
 
  In this lab we will explore how a data scientist utilizes DSX and IBM
  Bluemix cloud services to easily analyze data using machine learning
@@ -28,18 +28,18 @@
 
     a.  **Using Decision Tree**: **DSX Notebooks**, **Brunel**, **R** 
     
-    ![Decision Tree Lab Flow] (https://raw.githubusercontent.com/ibmdataworks/datafirst/master/datascientist/machinelearning/doc/media/Decision-Tree-Lab-Flow.jpg "Decision Tree Lab Flow")
+    ![Decision Tree Lab Flow] (https://raw.githubusercontent.com/WatsonDataPlatform/E2ELab/master/datascientist/machinelearning/doc/media/Decision-Tree-Lab-Flow.jpg "Decision Tree Lab Flow")
 
     b.  **Using Association Rules**: **DSX RStudio** 
     
-    ![Association Rules Lab Flow] (https://raw.githubusercontent.com/ibmdataworks/datafirst/master/datascientist/machinelearning/doc/media/Association-Rules-Lab-Flow.jpg "Association Rules Lab Flow")
+    ![Association Rules Lab Flow] (https://raw.githubusercontent.com/WatsonDataPlatform/E2ELab/master/datascientist/machinelearning/doc/media/Association-Rules-Lab-Flow.jpg "Association Rules Lab Flow")
 
 
 ##Before you start. Get on DSX, Download Files. 
 
 1.  Download Lab-DSX-ML.zip archive from the github.com location below and extract the data file (transactions.csv) to your laptop:
 
-    > <https://github.com/ibmdataworks/datafirst/tree/master/datascientist/machinelearning/archive>
+    > <https://github.com/WatsonDataPlatform/E2ELab/tree/master/datascientist/machinelearning/archive>
     
     Here is the content of the downloaded archive:
     
@@ -56,7 +56,7 @@
         -   RStudio-apriori-demo-installation.R – R code for installing software packages for the machine learning lab (association rules)
 
 2.  Login to your IBM DSX account at:  <http://datascience.ibm.com/>
-> NOTE: If you don’t have a DSX account then get started by [following these directions](https://github.com/ibmdataworks/datafirst/tree/master/datascientist#step-1-get-on-ibm-data-science-experience-dsx)
+> NOTE: If you don’t have a DSX account then get started by [following these directions](https://github.com/WatsonDataPlatform/E2ELab/tree/master/datascientist#step-1-get-on-ibm-data-science-experience-dsx)
 >
 3.  A quick outline of the procedures:
 
@@ -114,13 +114,13 @@ Use the Object Storage Service that is created for your account. You can
 alternatively create a new Object Storage Service by following these
 instructions:
 
-1.  In DSX, go to user profile settings ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/User-Profile-in-DSX.png)
+1.  In DSX, go to user profile settings ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/User-Profile-in-DSX.png)
 
-2.  Go to manage Bluemix account ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Manage-bluemix-account.png)
+2.  Go to manage Bluemix account ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Manage-bluemix-account.png)
 
 3.  From the Bluemix dashboard catalog menu search for “Object Storage”
 
-4.  Click on the Object Storage Icon ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/ObjectStorage.png)
+4.  Click on the Object Storage Icon ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/ObjectStorage.png)
 
 5.  Choose the default pre-filled values in the fields (optionally rename the “Service name:” to DS\_DSX\_ML\_ObjectStorage), select the “Free Pricing Plan” and click “Create” at the bottom of the page.
 
@@ -142,27 +142,27 @@ alternatively create a new Apache Spark Service by following these
 instructions (if you are already in the UI managing Bluemix account,
 please start from the step 3):
 
-1.  In DSX, go to user profile settings ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/User-Profile-in-DSX.png)
+1.  In DSX, go to user profile settings ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/User-Profile-in-DSX.png)
 
-2.  Go to manage Bluemix account ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Manage-bluemix-account.png)
+2.  Go to manage Bluemix account ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Manage-bluemix-account.png)
 
 3.  From the Bluemix dashboard catalog menu search for “Apache Spark”
 
-4.  Click on the Apache Spark Service Icon ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/apache-spark-service.png)
+4.  Click on the Apache Spark Service Icon ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/apache-spark-service.png)
 
 5.  Choose the default pre-filled values in the fields (optionally rename the “Service name:” to DS\_DSX\_ML\_Spark), select the needed  “Pricing Plan” and click “Create” at the bottom of the page.
 
-6.  Ensure that your service is up and running – the page that you are transferred after creating the service shows the status of the service (this is highlighted with the red rectangle) ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Bluemix-verifying-that-the-service-is-running.jpg)
+6.  Ensure that your service is up and running – the page that you are transferred after creating the service shows the status of the service (this is highlighted with the red rectangle) ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Bluemix-verifying-that-the-service-is-running.jpg)
 
 7.  Connect your Apache Spark service to your Object Storage service:
 
     a.  Click on “NOTEBOOKS” button (it is highlighted in the green rectangle on the previous snapshot)
 
-    b.  Click on Object Storage tab (it is highlighted with the red rectangle): ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage.jpg)
+    b.  Click on Object Storage tab (it is highlighted with the red rectangle): ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage.jpg)
 
-    c.  Click on “Add Object Storage”: ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage-adding-storage.jpg)
+    c.  Click on “Add Object Storage”: ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage-adding-storage.jpg)
 
-    d.  In the new screen, switch to Bluemix and select the Object Storage service and the container that you provisioned for this lab: ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage-confirming.jpg)
+    d.  In the new screen, switch to Bluemix and select the Object Storage service and the container that you provisioned for this lab: ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage-confirming.jpg)
 
     e.  Click on “Select”: the provisioning of Apache Spark Service for DSX has been finished
 
@@ -176,24 +176,24 @@ please start from the step 3):
 
 Please use a default project for this lab:
 
-1. From DSX, select DSX data science context (the button to click on is highlighted with the red rectangle): ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/DSX-domain-button-highlighted.png)
+1. From DSX, select DSX data science context (the button to click on is highlighted with the red rectangle): ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/DSX-domain-button-highlighted.png)
 
-2. Click on the menu icon ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Left-bar-menu-button.png) on the home page of DSX in Data Science context
+2. Click on the menu icon ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Left-bar-menu-button.png) on the home page of DSX in Data Science context
 
 3. Select Projects > Default project in the open tool bar: the project management page for "Default project" will be shown
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Default-project-management.png)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Default-project-management.png)
 
 4. Select "add data assets" (it is highlighted with a red rectangle in the previous image). "Find and add data" menu will be open, where you need to select the "transactions.csv" from the provisioned Object Storage service and select "Apply":
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Adding-data-assets-to-default-project.png)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Adding-data-assets-to-default-project.png)
 
 5. The transactions file is now added to the assets of the default project:
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Transactions-as-data-assets-in-default-project.png)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Transactions-as-data-assets-in-default-project.png)
 
 6. Click on "Settings" tab to add the provisioned Apache Spark service to the project:
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Project-settings-page.png)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Project-settings-page.png)
 
 7. Click "Add" after selecting the Apache Spark service:
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Adding-Spark-service-to-project.png)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Adding-Spark-service-to-project.png)
 
 8. The default project settings page will have the provisioned Spark service in "Spark service" section
 
@@ -202,27 +202,27 @@ Please use a default project for this lab:
 1.  From the default project page, the tab "Notebooks" (or "Overview") click "add notebook"
 
 2.  In the next screen named “Create Notebook”, switch to “From File” tab, name the notebook “ML Lab Installation”, and choose the notebook file on your disk from the archive: ml-lab-installation.ipynb; alternatively you can switch to “From  URL” tab and use the following “Notebook URL”:
-> https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/labs/ml-lab-installation.ipynb
+> https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/labs/ml-lab-installation.ipynb
 
  >NOTE: you can get to this page from the home page of DSX by clicking on "Start", please choose the default pre-filled values in the fields (Project: Default project, Spark Service: the service that you provisioned for this lab)
 
 3. Click on Create Notebook
 
 4. When DSX loads the notebook, choose to Trust this Notebook to run with your Privileges in the menu "Notebook info"
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Notebook-info-privileges.png)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Notebook-info-privileges.png)
 
 4.  Save the current state by clicking on File &gt; Save Version from the menu
 
 5.  Return back to the project overview page (or DSX home page)
 
-6.  Load the second notebook “Machine Learning with DSX - Lab” (from the file machine-learning-with-DSX-lab.ipynb, or from URL https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/labs/machine-learning-with-DSX-lab.ipynb ) by following the same steps 1-5 as above
+6.  Load the second notebook “Machine Learning with DSX - Lab” (from the file machine-learning-with-DSX-lab.ipynb, or from URL https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/labs/machine-learning-with-DSX-lab.ipynb ) by following the same steps 1-5 as above
 
 #Step 5. Switch to the Provisioned Source Data Repository in DSX Lab Notebook
 
 This step allows to avoid overloading the default Object Storage service
 by switching to the provisioned Object Storage service.
 
-1.  From the loaded notebook “Machine Learning with DSX Lab” click on "Find and add data": ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Selecting-Data-Sources.jpg)
+1.  From the loaded notebook “Machine Learning with DSX Lab” click on "Find and add data": ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Selecting-Data-Sources.jpg)
 
 2.  The expanded "Find and add data" would show transact.csv under “Files” section
 
@@ -231,20 +231,20 @@ by switching to the provisioned Object Storage service.
     a.  Place your cursor to the cell with the default getObjectStorageFileWithCredentials implementation
     b.  Create an empty code cell just above the code cell with the default getObjectStorageFileWithCredentials by clicking on the following menu items: “Insert” &gt; “Insert Cell Above” and place your cursor into the new cell
 
-    ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-inserting-cell.jpg)
+    ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-inserting-cell.jpg)
 
     c.  Clicking on “Insert to code” on Transactions.csv will show the options to insert the code: choose “insert base DataFrame” :
 
- ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Inserting-code-into-notebook.jpg)
+ ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Inserting-code-into-notebook.jpg)
 
-    d.  Here is a similar code that will be inserted into your new cell: ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-the-code-inserted.jpg)
+    d.  Here is a similar code that will be inserted into your new cell: ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-the-code-inserted.jpg)
 
     e.  Replace the existing implementation of getObjectStorageFileWithCredentials (starts with “&lt;- function” and finishes with the end of block “}”) with the generated code in the new cell for getObjectStorageFileWithCredentials\_&lt;unique sequence&gt;; Here is the example of the highlighted code that needs to be replaced:
-     ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-highlighted-code.jpg)
+     ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-highlighted-code.jpg)
 
      Take the new code (highlighted with the green rectangle) and place instead of the old code (highlighted with the red rectangle):
 
-     ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-code-replacement.jpg)
+     ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-code-replacement.jpg)
 
     f.  Remove the cell with the newly generated code after replacing the default implementation of getObjectStorageFileWithCredentials
 
@@ -257,12 +257,12 @@ by switching to the provisioned Object Storage service.
 
 2.  Open “ML Lab Installation” notebook by clicking on the name of the notebook
 
-3.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Execute-section.png) or by using the menu Cell&gt; Run Cells
+3.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Execute-section.png) or by using the menu Cell&gt; Run Cells
 
 4.  Ensure that there are no installation failures before proceeding to the lab
 
 5.  Stop the kernel (File &gt; Stop Kernel) and go back to the list of notebooks in the default project by navigating to the side bar menu Projects > Default Project:
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/DSX-side-toolbar.jpg)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/DSX-side-toolbar.jpg)
 
 >NOTE: the software packages installation may take a few minutes, but it
 >needs to be done only once per account
@@ -273,7 +273,7 @@ by switching to the provisioned Object Storage service.
 
 2.  Open “Machine Learning with DSX - Lab” notebook in the list by clicking on the name of the notebook
 
-3.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Execute-section.png) or by using the menu Cell&gt; Run Cells. The lab covers the following actions:
+3.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Execute-section.png) or by using the menu Cell&gt; Run Cells. The lab covers the following actions:
 
     a.  Declaring the libraries used in the lab
 
@@ -302,17 +302,17 @@ by switching to the provisioned Object Storage service.
 #Step 7. Association Rules Lab Installation
 
 1.  Select DSX data science context (please use the highlighted item to get to this menu):
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/DSX-domain-button-highlighted.png)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/DSX-domain-button-highlighted.png)
 
-2.  Click on the menu icon ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Left-bar-menu-button.png) on the home page of DSX in Data Science context
+2.  Click on the menu icon ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Left-bar-menu-button.png) on the home page of DSX in Data Science context
 
 3.  Select RStudio in the open tool bar: RStudio session starts
-![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/DSX-side-toolbar.jpg)
+![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/DSX-side-toolbar.jpg)
 
 #Step 8. Importing Source Code and Data for Machine Learning Lab in RStudio
 
 1.  In “Files” tab use “New folder” to create 2 folders in the user’s home directory - data and demo (please do not mix it with the “File” menu item in the main menu and locate “Files” in the frame depicted here):
-> ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/RStudio-Files-tab.jpg)
+> ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-Files-tab.jpg)
 
 2.  Using “Upload” button upload transactions.csv into the data folder and RStudio-apriori-demo-installation.R, RStudio-apriori-demo.R into the demo folder
 
@@ -320,26 +320,26 @@ by switching to the provisioned Object Storage service.
 #Step 9. Installing Software Libraries and Packages
 
 1.  Double-click on the name of the file RStudio-apriori-demo-installation.R: RStudio will open the source code:
- > ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/RStudio-Source-code.jpg)
+ > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-Source-code.jpg)
 
 2.  Rename ~/.Rprofile to ~/old.Rprofile: check the file .Rprofile and click "Rename", change the name to old.Rprofile
- > ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Renaming-rprofile.png)
+ > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Renaming-rprofile.png)
 
 3.  Quit the current session and start the new one:
 
     a. Select Session>Quit Session:
     
- > ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Session-menu.png)
+ > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Session-menu.png)
  
     b. Select "Don't Save": 
     
- > ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Quitting-R-session.png)
+ > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Quitting-R-session.png)
 
     c. After the old session has been finished, start a new session:
     
- > ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/Starting-a-new-R-session.png)
+ > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Starting-a-new-R-session.png)
     
-4.  Run the code in RStudio-apriori-demo-installation.R using the Run button ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/RStudio-running-source-code.png): please decline the options to update any packages while installing the new packages
+4.  Run the code in RStudio-apriori-demo-installation.R using the Run button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-running-source-code.png): please decline the options to update any packages while installing the new packages
 
 5.  Check point: ensure that all packages install without errors
 
@@ -355,7 +355,7 @@ by switching to the provisioned Object Storage service.
 
 1.  Click on the name of the file RStudio-apriori-demo.R: RStudio will open the source code
 
-2.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/machinelearning/doc/media/RStudio-running-source-code.png) . The lab covers the following actions:
+2.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-running-source-code.png) . The lab covers the following actions:
 
     a.  Declaring the libraries used in the lab
 
