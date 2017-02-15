@@ -58,18 +58,12 @@ The dashDB service is provisioned along with sample database and lab exercise wi
 
   d.	Use the project name "IA_project", give any description you want and click "Create"
 
-3.	Create a connection
-
-  a.	Click on "Connections" in the right side of the screen
-
-  b.	Check the DashDB box and click "Apply"
-
 ---
 #Step 3. Load Notebook and Perform Analysis
 
 1. Click on "add notebooks"
 
-<img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/createnew.png" width="250"> 
+<img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/createnew.png" width="750"> 
  
 2. Type ‘IA_Lab_Notebook’ as Notebook name, click on ‘from URL’ link and specify:  https://raw.githubusercontent.com/WatsonDataPlatform/E2ELab/master/datascientist/interactive-analytics/DSX_IA_Lab.ipynb
 
