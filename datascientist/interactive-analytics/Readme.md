@@ -99,7 +99,7 @@ The dashDB service is provisioned along with sample database and lab exercise wi
 
   b.	Click on ‘Insert Code’  to insert credentials for the data source ‘dashDB’
 
-    ![insert to code](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/addSource.gif)
+    ![insert to code](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/addSource.png)
 
   c.	Rename the inserted array variable ‘credentials_1’  to ‘credentials’
 
