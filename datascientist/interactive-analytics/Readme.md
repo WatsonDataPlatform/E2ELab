@@ -35,6 +35,7 @@ The dashDB service is provisioned along with sample database and lab exercise wi
 1.	Login to IBM Data Science Experience @ http://datascience.ibm.com/
 
 2.	Create a new project
+
         You may have to come back to creating a project a few times if you need to 
         create a Spark service and an ObjectStore repository.
 
@@ -73,14 +74,12 @@ The dashDB service is provisioned along with sample database and lab exercise wi
   
 1. Once the notebook is created, add dashDB as a data asset for the project
 
-<img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/adddataassets.png" width="250"> 
+  a.	Click on the '1001' icon (upper right corner), then Connections -> project page
 
-  a.	Now click on the '1001' icon then Connections -> New Connection
+	Note that it opens a new tab that you'll close when done.
   
 
-<img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/newaddconnection.png" width="250"> 
-
-  b.	Key in ‘dashDB’ as connection name
+  b.	Select the "connections" -> "create connection", then key in ‘dashDB’ as connection name
 
   c.	From drop down list of ‘Target Service Instance’ select ‘DS_Sales_DataStore’, the dashDb service you provisioned in Bluemix.
 
@@ -88,15 +87,11 @@ The dashDB service is provisioned along with sample database and lab exercise wi
 
   e.	Click ‘Create’.
 
-1.	Go back to your default project (using the menu on the top left) to open your Notebook and add the data source
+  f.	Close this tab to return to your notebook
 
-  a.	Open your notebook in the project in 'Edit' mode using the pencil icon
- 
-  <img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/editnotebook.png" width="250"> 
 
-  b. 	Click on the '1001' icon to add a data source and click Connections to insert your DashDB connection
+1.	Back to the notebook with the connections tab open
 
-  <img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/addconnectionNotebook.png" width="250"> 
 
 1.	From the Notebook, connect to the sample sales database in dashDB
 
