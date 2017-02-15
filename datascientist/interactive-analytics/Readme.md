@@ -21,7 +21,7 @@ Lab Video: https://youtu.be/sHm4IHHZq2w
 
   a.	From the Bluemix catalog menu search for “dashdb”
 
-  b.	Click on the dashDB Icon
+  b.	Click on the "dashDB for Analytics" Icon
 
   c.	Accept the default values and rename “Service name:” to ‘DS_Sales_DataStore’
 
@@ -30,37 +30,54 @@ Lab Video: https://youtu.be/sHm4IHHZq2w
 The dashDB service is provisioned along with sample database and lab exercise will use the sample database.
 
 ---
-#Step 2. Provision Spark Service in Data Science Experience
+#Step 2. Create a project and a connection to DashDB
 
 1.	Login to IBM Data Science Experience @ http://datascience.ibm.com/
 
-2.	Create a new Notebook
+2.	Create a new project
+        You may have to come back to creating a project a few times if you need to 
+        create a Spark service and an ObjectStore repository.
 
-  a.	Click on ‘Start a Notebook”
+  a.	Click on the "+" sign in the upper right of the screen and select "Create project”
 
-    ![start notebook](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/dsxIntro.gif)
+    ![start project](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/dsxCreateProject.png)
 
-    b.	If this is your first Notebook, you will see a message that you need Spark service. Click on ‘Create a Spark Service here’ link in the message to provision Spark Service.
+  b.	If, under "Spark Service", you see "No Spark instances found.", click on:
+	"Create a new IBM Analytics for Apache Spark instance"
+	- Give the service named "IA_Lab_Spark" and click on "Create Instance".
+	- Click on the "CXD" logo in the upper left of your screen to go back
+	  to creating a new project
+           
+  c.	If, under "Storage Type" you see: "No object storage instances found",
+	click on: "Create a new instance"
+	- Select the free plan and click on "Buy IBM Object Storage",
+	  then give it a name such as "IA_Lab_ObjectStorage"
+	- Click on Add a container names "IA_project"
+	- Click on the "CXD" logo in the upper left of your screen to go back
+	  to creating a new project
 
-    c. 	Type ‘IA_Lab_Spark’ as the Spark service name and accept defaults (Personal plan for Spark service, New Object Storage with free plan).
+  d.	Use the project name "IA_project", give any description you want and click "Create"
 
-    d.	Click ‘Create Instance’ to create Spark Service.
+3.	Create a connection
+
+  a.	Click on "Connections" in the right side of the screen
+
+  b.	Check the DashDB box and click "Apply"
 
 ---
 #Step 3. Load Notebook and Perform Analysis
 
-1. At the top of the screen click the plus-sign icon to create a notebook.
+1. Click on "add notebooks"
 
 <img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/createnew.png" width="250"> 
  
 2. Type ‘IA_Lab_Notebook’ as Notebook name, click on ‘from URL’ link and specify:  https://raw.githubusercontent.com/WatsonDataPlatform/E2ELab/master/datascientist/interactive-analytics/DSX_IA_Lab.ipynb
 
- ![start notebook](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/createNotebook.gif)
+ ![start notebook](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/createNotebook.png)
 
-  a.	 Select ‘Trust this Notebook to run with your Privileges’ and click on ‘Create Notebook’
+  a.	 Click on ‘Create Notebook’
   
- ![trust notebook](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/sparkService.gif)
-1. Once notebook is created, add dashDB as a data asset for the project
+1. Once the notebook is created, add dashDB as a data asset for the project
 
 <img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/adddataassets.png" width="250"> 
 
