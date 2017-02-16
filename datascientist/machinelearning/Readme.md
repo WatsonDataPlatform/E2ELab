@@ -67,14 +67,16 @@
 
         ii. Provision an Apache Spark service to run notebooks on
 
-        iii. Load the sample notebooks with the
+        iii. Create a project
+
+        iv. Load the sample notebooks with the
             lab (machine-learning-with-DSX-lab.ipynb) and the
             installation of the software
             packages (ml-lab-installation.ipynb) needed for the lab;
 
-        iv. Run the code in the notebook with the installation sequence
+        v. Run the code in the notebook with the installation sequence
 
-        v.  Run the code in the notebook with the lab
+        vi.  Run the code in the notebook with the lab
 
     b.  Association rules lab (based on RStudio):
 
@@ -110,13 +112,12 @@
 
 ###Initializing Source Data Repository: Object Storage Service
 
-Use the Object Storage Service that is created for your account. You can
-alternatively create a new Object Storage Service by following these
-instructions:
+Use the Object Storage Service if there is already one  created for your account. You can
+alternatively create a new Object Storage Service by following these instructions:
 
-1.  In DSX, go to user profile settings ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/User-Profile-in-DSX.png)
+1.  In DSX, go to user profile settings ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/User-Profile-in-DSX.png) (upper right of the screen)
 
-2.  Go to manage Bluemix account ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Manage-bluemix-account.png)
+2.  Go to manage Bluemix account ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Manage-bluemix-account.png) (in a new tab)
 
 3.  From the Bluemix dashboard catalog menu search for “Object Storage”
 
@@ -124,16 +125,7 @@ instructions:
 
 5.  Choose the default pre-filled values in the fields (optionally rename the “Service name:” to DS\_DSX\_ML\_ObjectStorage), select the “Free Pricing Plan” and click “Create” at the bottom of the page.
 
-6.  Click on “Actions-&gt;Add Container” and enter “notebooks" as the container name.
-> NOTE: Once a new container is created, you get this message "There are
-> no files in the container you selected. Add files or view Object
-> Storage documentation."
-
-7.  Click on “Add files”.
-
-8.  Select and add the files previously downloaded (transactions.csv) to this Container.
-> NOTE: Your data files are now moved to the Object Storage into the
-> Bluemix.
+6.  Scroll down and click on the name of the service.
 
 #Step 2. Initializing Apache Spark: Apache Spark Service
 
@@ -142,7 +134,7 @@ alternatively create a new Apache Spark Service by following these
 instructions (if you are already in the UI managing Bluemix account,
 please start from the step 3):
 
-1.  In DSX, go to user profile settings ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/User-Profile-in-DSX.png)
+1.  In DSX, go to user profile settings ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/User-Profile-in-DSX.png) (upper right of the screen)
 
 2.  Go to manage Bluemix account ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Manage-bluemix-account.png)
 
@@ -152,21 +144,7 @@ please start from the step 3):
 
 5.  Choose the default pre-filled values in the fields (optionally rename the “Service name:” to DS\_DSX\_ML\_Spark), select the needed  “Pricing Plan” and click “Create” at the bottom of the page.
 
-6.  Ensure that your service is up and running – the page that you are transferred after creating the service shows the status of the service (this is highlighted with the red rectangle) ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Bluemix-verifying-that-the-service-is-running.jpg)
-
-7.  Connect your Apache Spark service to your Object Storage service:
-
-    a.  Click on “NOTEBOOKS” button (it is highlighted in the green rectangle on the previous snapshot)
-
-    b.  Click on Object Storage tab (it is highlighted with the red rectangle): ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage.jpg)
-
-    c.  Click on “Add Object Storage”: ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage-adding-storage.jpg)
-
-    d.  In the new screen, switch to Bluemix and select the Object Storage service and the container that you provisioned for this lab: ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Bluemix-connecting-spark-to-object-storage-confirming.jpg)
-
-    e.  Click on “Select”: the provisioning of Apache Spark Service for DSX has been finished
-
-8.  Switch back to the tab with DSX in your browser
+8.  Close the Bluemix tab and return to the Data Science Experience screen
 
 > NOTE: a more detailed instructions or alternative approaches on
 > setting up an Apache Spark service can be found at
@@ -174,32 +152,20 @@ please start from the step 3):
 
 #Step 3. Preparing a Project 
 
-Please use a default project for this lab:
+1. Click on the DSX logo in the upper left of the screen
 
-1. From DSX, select DSX data science context (the button to click on is highlighted with the red rectangle): ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/DSX-domain-button-highlighted.png)
+2. Click on the "+" in the upper right of the screen and select "Create project"
 
-2. Click on the menu icon ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Left-bar-menu-button.png) on the home page of DSX in Data Science context
+3. Give the project a name of your choosing, for example, "Default project".
 
-3. Select Projects > Default project in the open tool bar: the project management page for "Default project" will be shown
-![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Default-project-management.png)
-
-4. Select "add data assets" (it is highlighted with a red rectangle in the previous image). "Find and add data" menu will be open, where you need to select the "transactions.csv" from the provisioned Object Storage service and select "Apply":
-![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Adding-data-assets-to-default-project.png)
+4. On the right side of the screen, drop the file transactions.csv into the dotted box outline and then click "Apply" (click "Apply" a second time in the pop-up box)
 
 5. The transactions file is now added to the assets of the default project:
 ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Transactions-as-data-assets-in-default-project.png)
 
-6. Click on "Settings" tab to add the provisioned Apache Spark service to the project:
-![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Project-settings-page.png)
-
-7. Click "Add" after selecting the Apache Spark service:
-![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Adding-Spark-service-to-project.png)
-
-8. The default project settings page will have the provisioned Spark service in "Spark service" section
-
 #Step 4. Importing Notebooks for Machine Learning Lab
 
-1.  From the default project page, the tab "Notebooks" (or "Overview") click "add notebook"
+1.  From the default project page, click "add notebook"
 
 2.  In the next screen named “Create Notebook”, switch to “From File” tab, name the notebook “ML Lab Installation”, and choose the notebook file on your disk from the archive: ml-lab-installation.ipynb; alternatively you can switch to “From  URL” tab and use the following “Notebook URL”:
 > https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/labs/ml-lab-installation.ipynb
@@ -211,20 +177,20 @@ Please use a default project for this lab:
 4. When DSX loads the notebook, choose to Trust this Notebook to run with your Privileges in the menu "Notebook info"
 ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Notebook-info-privileges.png)
 
-4.  Save the current state by clicking on File &gt; Save Version from the menu
+4.  Save the current state by clicking on File &gt; "Save Version" from the menu
 
-5.  Return back to the project overview page (or DSX home page)
+5.  Return back to the project overview page by clicking on the project name (upper left)
 
-6.  Load the second notebook “Machine Learning with DSX - Lab” (from the file machine-learning-with-DSX-lab.ipynb, or from URL https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/labs/machine-learning-with-DSX-lab.ipynb ) by following the same steps 1-5 as above
+6.  Load the second notebook “Machine Learning with DSX - Lab” (from the file machine-learning-with-DSX-lab.ipynb, or from URL https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/labs/machine-learning-with-DSX-lab.ipynb ) by following the same steps 1-4 as above
 
 #Step 5. Switch to the Provisioned Source Data Repository in DSX Lab Notebook
 
 This step allows to avoid overloading the default Object Storage service
 by switching to the provisioned Object Storage service.
 
-1.  From the loaded notebook “Machine Learning with DSX Lab” click on "Find and add data": ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Selecting-Data-Sources.jpg)
+1.  From the loaded notebook “Machine Learning with DSX Lab” click on the "Find and add data" icon: ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Selecting-Data-Sources.png)
 
-2.  The expanded "Find and add data" would show transact.csv under “Files” section
+2.  The expanded "Find and add data" would show transactions.csv under “Files” section
 
 3.  Identify the cell with the implementation of getObjectStorageFileWithCredentials and replace the code to use your provisioned Object Storage service:
 
@@ -233,7 +199,7 @@ by switching to the provisioned Object Storage service.
 
     ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Replacing-the-object-storage-service-inserting-cell.jpg)
 
-    c.  Clicking on “Insert to code” on Transactions.csv will show the options to insert the code: choose “insert base DataFrame” :
+    c.  Clicking on “Insert to code” on Transactions.csv will show the options to insert the code: choose “Insert R DataFrame” :
 
  ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Inserting-code-into-notebook.jpg)
 
@@ -250,12 +216,13 @@ by switching to the provisioned Object Storage service.
 
     g.  Check point: after the modifications, the section code should still define a data frame variable df which is used in the notebook; the modifications should be done only for replacing  getObjectStorageFileWithCredentials with the newly generated code for the new Object Storage service
 
+    h. Save your changes (file -&gt;Save)
 
 #Step 6. Installing Software Libraries and Packages
 
-1.  From the DSX home page go to “ML Lab Installation” in “My Recent Notebooks” section
+1.  click on the name of your project (upper left)
 
-2.  Open “ML Lab Installation” notebook by clicking on the name of the notebook
+2.  Open “ML Lab Installation” notebook by clicking on the pencil icon at the far right of the notebook name
 
 3.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Execute-section.png) or by using the menu Cell&gt; Run Cells
 
@@ -269,9 +236,9 @@ by switching to the provisioned Object Storage service.
 
 #Step 6. Running Decision Tree Lab 
 
-1.  From the DSX home page go to “Machine Learning with DSX - Lab” in “My Recent Notebooks” section
+1.  Click on your project name
 
-2.  Open “Machine Learning with DSX - Lab” notebook in the list by clicking on the name of the notebook
+2.  Open “Machine Learning with DSX - Lab”  by clicking on the pencil icon at the far right of the notebook name 
 
 3.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Execute-section.png) or by using the menu Cell&gt; Run Cells. The lab covers the following actions:
 
