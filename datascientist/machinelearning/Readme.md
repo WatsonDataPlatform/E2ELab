@@ -158,6 +158,8 @@ please start from the step 3):
 
 3. Give the project a name of your choosing, for example, "Default project".
 
+> NOTE: make sure that the target container is names "notebooks".
+
 4. On the right side of the screen, drop the file transactions.csv into the dotted box outline and then click "Apply" (click "Apply" a second time in the pop-up box)
 
 5. The transactions file is now added to the assets of the default project:
@@ -268,17 +270,14 @@ by switching to the provisioned Object Storage service.
 
 #Step 7. Association Rules Lab Installation
 
-1.  Select DSX data science context (please use the highlighted item to get to this menu):
-![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/DSX-domain-button-highlighted.png)
+1.  Click on the menu icon ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Left-bar-menu-button.png) on the home page of DSX in Data Science context
 
-2.  Click on the menu icon ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Left-bar-menu-button.png) on the home page of DSX in Data Science context
-
-3.  Select RStudio in the open tool bar: RStudio session starts
+2.  Select RStudio in the open tool bar: RStudio session starts
 ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/DSX-side-toolbar.jpg)
 
 #Step 8. Importing Source Code and Data for Machine Learning Lab in RStudio
 
-1.  In “Files” tab use “New folder” to create 2 folders in the user’s home directory - data and demo (please do not mix it with the “File” menu item in the main menu and locate “Files” in the frame depicted here):
+1.  In “Files” tab (lower right window) use “New folder” to create 2 folders in the user’s home directory - data and demo (please do not mix it with the “File” menu item in the main menu and locate “Files” in the frame depicted here):
 > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-Files-tab.jpg)
 
 2.  Using “Upload” button upload transactions.csv into the data folder and RStudio-apriori-demo-installation.R, RStudio-apriori-demo.R into the demo folder
@@ -298,15 +297,11 @@ by switching to the provisioned Object Storage service.
     
  > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Session-menu.png)
  
-    b. Select "Don't Save": 
-    
- > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Quitting-R-session.png)
-
-    c. After the old session has been finished, start a new session:
+    b. After the old session has been finished, start a new session:
     
  > ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/Starting-a-new-R-session.png)
     
-4.  Run the code in RStudio-apriori-demo-installation.R using the Run button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-running-source-code.png): please decline the options to update any packages while installing the new packages
+4.  Run the code in RStudio-apriori-demo-installation.R by highlighting each command and click the Run button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-running-source-code.png): please decline the options to update any packages while installing the new packages
 
 5.  Check point: ensure that all packages install without errors
 
@@ -322,7 +317,7 @@ by switching to the provisioned Object Storage service.
 
 1.  Click on the name of the file RStudio-apriori-demo.R: RStudio will open the source code
 
-2.  Execute every code section in the order in which the sections appear by clicking on the button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-running-source-code.png) . The lab covers the following actions:
+2.  Execute every code section by highlighting all lines of code and then clicking on the button ![](https://github.com/WatsonDataPlatform/E2ELab/blob/master/datascientist/machinelearning/doc/media/RStudio-running-source-code.png) . The lab covers the following actions:
 
     a.  Declaring the libraries used in the lab
 
