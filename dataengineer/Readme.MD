@@ -1,7 +1,7 @@
 #Hands on Lab - Data Engineer - IBM Bluemix Data Connect
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DEE2E.png">](https://github.com/ibmdataworks/datafirst/tree/master/dataengineer)
 
-As a Data Engineer, you need to cleanse, organize, standardize, tranform and move data at scale.
+As a Data Engineer, you may need to cleanse, organize, standardize, tranform and move data at scale.
 Perform hands-on exercises and in a few clicks you can standardize, transform, and move sales and customer data into a relational data warehouse.
 
 Setting up an enterprise level data movement infrastructure and then ingesting that data from a secure environment to a cloud repository can be challenging. As a Data Engineer, you need a simple point and click solution to move, discover, cleanse, standardize and transform data to support analytic applications. IBM Cloud Solutions with its DataWorks Forge as-a-Service solves this challenge by seamlessly connecting, transforming and ingesting the data into the secure IBM Cloud.
