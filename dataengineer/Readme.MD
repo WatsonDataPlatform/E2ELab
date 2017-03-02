@@ -27,7 +27,7 @@ This lab will demonstrate the following capabilities of the service:
 Lab Components: IBM Bluemix Data Connect
 ========================================
 
-1.  **Source Data Repository**: **Object Storage Service**
+1.  **Source Data**: **Great Outdoors Customer Orders Excel File**
 
  > NOTE: This usually is the data hosted in a secure enterprise environment that could be securely retrieved through a network tunnel using the BlueMix Secure gateway. Since getting access to a data hosted in an enterprise infrastructure can be a compliance and privacy issue for this lab, we will be using sample datasets hosted in the IBM Object Storage that would be used as a source data set.
 
