@@ -51,7 +51,7 @@ Before You Begin
 [http://www.ibm.com/cloud-computing/bluemix/](http://www.ibm.com/cloud-computing/bluemix/%20) or <https://console.ng.bluemix.net/registration/>
 
 
-#Step 1. Get on BlueMix.
+#Step 1. Login to Bluemix
 
 > NOTE: If you already have a Bluemix account then skip this steps:
 
