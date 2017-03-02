@@ -22,9 +22,24 @@ This lab will demonstrate how a data engineer can utilize the following capabili
 
 ##Before You Begin
 
-1.  Download the Great Outdoor Customer Orders Excel file from the github.com location below and save the file to a location of your choice on your workstation:
+> This lab will be done exclusively from the web using Bluemix, IBM’s Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It will also use an Excel file that you will you use as your source data. Perform the following steps before you proceed any further:
+
+1. Download the Great Outdoor Customer Orders Excel file from the github.com location below and save the file to a location of your choice on your workstation:
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.xlsx
+
+2. You will need a Bluemix account. If you don't have one, click on the URL below to create one:
+
+  > https://console.ng.bluemix.net/registration/?target=%2Fdashboard%2Fapps
+  > Fill in all information and then click on the Create Account button
+
+3. You will need a Watson Analytics account. If you don't have one, click on the URL below to create one.
+
+  > https://watson.analytics.ibmcloud.com/product
+  > Click on the “TRY IT FOR FREE” button
+
+Register for a Bluemix Account - 
+ > 
 
 ##Workflow
 
@@ -59,10 +74,6 @@ Step |	Description
 ###Step 1. Prepare Your Bluemix Environment
 
 1.  Log in to your IBM Bluemix account <https://console.ng.bluemix.net/login?state=/home/onboard/>
-
-> NOTE: If you don’t have a Bluemix account then get started for free by registering using the URL
-
-[http://www.ibm.com/cloud-computing/bluemix/](http://www.ibm.com/cloud-computing/bluemix/%20) or <https://console.ng.bluemix.net/registration/>
 
 > NOTE: If you already have a Bluemix account then skip these steps:
 
