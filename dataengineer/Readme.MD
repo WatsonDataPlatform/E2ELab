@@ -11,30 +11,16 @@ It saves time and resources by reducing the effort to provision trusted data and
 
 This lab will demonstrate the following capabilities of the Data Connect service:
 
-* Creating and Working with IBM Watson Data Platform services
+* Creating and Working with an IBM Bluemix Data Connect service
 *	Creating and Working with Bluemix Data Connect Connections
 *	Visualizing and Understanding Data Quality and Content
 *	Transforming and Standardizing Data
 *	Saving, Executing and Monitoring Data Activities
-* Analyzing the data activity results with Watson Analytics
+* Persiting the data activity results into Watson Analytics
 
  > In this lab we will explore how a data engineer can utilize Data Connect to easily access, ingest, inspect and transform data and then persist the data to Watson Analytics for immediate analytical insights.
 
-Overview
-========
-
-This lab will be done exclusively from the IBM Cloud using the IBM Bluemix Data Connect server and Watson Analytics.
-
-1.  **Source Data Store**: **Great Outdoors Customer Orders Excel File**
-
- > NOTE: Data can be hosted on-premies or in the cloud and securely retrieved through a network tunnel using the Bluemix Secure gateway. Since getting access to a data hosted in an enterprise infrastructure can be a compliance and privacy issue for this lab, we will be using sample datasets hosted in the IBM Object Storage that would be used as a source data set.
-
-2.  **Target Data Repository**: **Watson Analytics**
-
-3.  **Transform and Refine**: **Data Connect Service**
-
-Before You Begin
-================
+##Before You Begin
 
 1.  Download the Great Outdoor Customer Orders Excel file from the github.com location below and save the file to a location of your choice on your workstation:
 
@@ -46,11 +32,37 @@ Before You Begin
 
 [http://www.ibm.com/cloud-computing/bluemix/](http://www.ibm.com/cloud-computing/bluemix/%20) or <https://console.ng.bluemix.net/registration/>
 
+##Workflow
 
-#Step 1. Login to Bluemix
+###Step 1: Prepare Your Bluemix Environment
 
-> NOTE: If you already have a Bluemix account then skip this steps:
+Step | Description
+------------ | -------------
+1 | Login to Bluemix
+2	| Create a Bluemix Space
+3	| Create a Data Connect Service
 
+###Step 2: Create Data Connect Connections
+
+Step |	Description
+------------ | -------------
+ 1	| Create a Watson Analytics Connection
+ 
+###Step 3: Refine and Copy Results to Watson Analytics
+
+Step |	Description
+------------ | -------------
+1	| Add the Source Data File
+2	| Access the Source Data File
+3	| Review Data Quality and Content
+4	| Transform the Data
+5	| Review History
+8	| Complete the Activity
+9	| Validate the Results
+
+###Step 1. Prepare Your Bluemix Environment
+
+> NOTE: If you already have a Bluemix account then skip these steps:
 
 1.  Go to [www.bluemix.net](https://www.bluemix.net)
 
