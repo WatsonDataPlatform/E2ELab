@@ -19,26 +19,21 @@ This lab will demonstrate the following capabilities of the service:
 *	Copying Data from a Source to a Target Data Source
 *	Executing and Monitoring Data Activities
 *	Analyzing data activity results with Watson Analytics
- >
- > The intuitive and efficient Data Connect service, with its wide collection of data store connectors, ingests and pepares the data to the IBM cloud with ease and confidence.
- >
+
  > In this lab we will explore how a data engineer utilizes Data Connect and Watson Analytics to easily host, connect, ingest and persist enterprise data for immediate analytical insights.
 
-Lab Cloud Services
-==================
+Hands on Lab Services
+=====================
 
-Bluemix Data Connect
-Watson Analytics
+IBM Bluemix Data Connect and Watson Analytics
 
 1.  **Source Data**: **Great Outdoors Customer Orders Excel File**
 
  > NOTE: This usually is the data hosted in a secure enterprise environment that could be securely retrieved through a network tunnel using the BlueMix Secure gateway. Since getting access to a data hosted in an enterprise infrastructure can be a compliance and privacy issue for this lab, we will be using sample datasets hosted in the IBM Object Storage that would be used as a source data set.
 
-2.  **Target Data Repository**: **dashDB Service**
+2.  **Target Data Repository**: **Watson Analytics**
 
-3.  **Transform and Migrate**: **DataWorks Service**
-
-<img src="./media/image1.png" width="69" height="68" />
+3.  **Transform and Refine**: **Data Connect Service**
 
 Before You Begin
 ================
