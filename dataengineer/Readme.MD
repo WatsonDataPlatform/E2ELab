@@ -1,7 +1,9 @@
 #Hands on Lab - Data Engineer
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DEE2E.png">](https://github.com/ibmdataworks/datafirst/tree/master/dataengineer)
 
-As a Data Engineer, you are constantly challenged with the daunting task of delivering quality, trusted data to those who need it when they need it. Time is always of the essence and you need to be able to quickly and easily find, access, combine, cleanse, standardize and prepare the data and then deliver it for support of analytical and application use cases. The IBM Bluemix Data Connect service, an intergral part of the Watson Data Platform, help solves these challenges.
+As a Data Engineer, you are constantly challenged with the daunting task of delivering quality, trusted data to those who need it when they need it. Time is always of the essence, so you need the ablity to quickly and easily find, access, combine, cleanse, standardize and prepare the data and then deliver it to target environments in support of analytical and application use cases. 
+
+The IBM Bluemix Data Connect service, an intergral part of the Watson Data Platform, help solves these challenges.
 
 Bluemix Data Connect is a fully managed, self-service, data preparation and integration service which enables you to easily put data to work. It provides instant access to your data wherever it resides, on the cloud or on-premises. You can blend data together from multiple relevant data sources to create powerful insights and then transform the data by refining and cleansing it, using a robust catalog of transformation operations and then deliver it with confidence to one of many supported cloud or on-premises targets.
 
@@ -25,12 +27,6 @@ This lab will demonstrate the following capabilities of the Data Connect service
 1.  Download the Great Outdoor Customer Orders Excel file from the github.com location below and save the file to a location of your choice on your workstation:
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.xlsx
-
-2.  Log in to your IBM Bluemix account <https://console.ng.bluemix.net/login?state=/home/onboard/>
-
-> NOTE: If you don’t have a Bluemix account then get started for free by registering using the URL
-
-[http://www.ibm.com/cloud-computing/bluemix/](http://www.ibm.com/cloud-computing/bluemix/%20) or <https://console.ng.bluemix.net/registration/>
 
 ##Workflow
 
@@ -63,6 +59,12 @@ Step |	Description
 9	| Validate the Results
 
 ###Step 1. Prepare Your Bluemix Environment
+
+1.  Log in to your IBM Bluemix account <https://console.ng.bluemix.net/login?state=/home/onboard/>
+
+> NOTE: If you don’t have a Bluemix account then get started for free by registering using the URL
+
+[http://www.ibm.com/cloud-computing/bluemix/](http://www.ibm.com/cloud-computing/bluemix/%20) or <https://console.ng.bluemix.net/registration/>
 
 > NOTE: If you already have a Bluemix account then skip these steps:
 
