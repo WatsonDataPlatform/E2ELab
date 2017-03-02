@@ -8,10 +8,10 @@ Setting up an enterprise level data movement infrastructure and then ingesting t
  >
  > The intuitive and efficient Data Connect service, with its wide collection of data store connectors, ingests and pepares the data to the IBM cloud with ease and confidence.
  >
- > In this lab we will explore how a data engineer utilizes Data Connect and other IBM Bluemix cloud services to easily host, connect, ingest and persist enterprise data on to the cloud.
+ > In this lab we will explore how a data engineer utilizes Data Connect and Watson Analytics to easily host, connect, ingest and persist enterprise data for immediate analytical insights.
 
-Lab Components: IBM Bluemix Data Connect (formerly DataWorks)
-===============================================
+Lab Components: IBM Bluemix Data Connect
+========================================
 
 1.  **Source Data Repository**: **Object Storage Service**
 
