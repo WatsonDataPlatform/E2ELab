@@ -9,18 +9,16 @@ Bluemix Data Connect is a fully managed, self-service, data preparation and inte
 
 Data Connect is fully managed by IBM in the cloud, so you can sleep better at night, with Pay-as-you-go and subscription pricing options to get started quickly. It’s powered by Spark for a speedy and responsive experience and can easily integrate data across different platforms and is seamlessly integrated with Watson Analytics. Bluemix Data Connect empowers non-technical and technical users to simply put data to work.
 
-With Data Connect, Data Engineers can enable self-service data access to end users using elastic deployment through the cloud and delver the data faster while maintaining important controls such as data governance and security. This allows them to break free from routine data requests and focus on additional value for an organization such as implementing and enforcing corporate standards, security, data governance and complex requirements.
+With Data Connect, Data Engineers can enable self-service data access to end users using elastic deployment through the cloud and delver the data faster while maintaining important controls such as data governance and security. This allows them to break free from routine data requests and focus on additional value for an organization such as implementing and enforcing corporate standards, security, data governance and complex requirements. Data Connect saves time and resources by reducing the effort to provision trusted data and make it fit for use.
 
-Data Connect saves time and resources by reducing the effort to provision trusted data and make it fit for use.
+This lab will demonstrate how a data engineer can utilize the following capabilities of the Data Connect service: 
 
-This lab will demonstrate the following capabilities of the Data Connect service: 
-
-* Creating and Working with an IBM Bluemix Data Connect service
+* Creating and Working with the Bluemix Data Connect service
 *	Creating and Working with Bluemix Data Connect Connections
 *	Visualizing and Understanding Data Quality and Content
 *	Transforming and Standardizing Data
-*	Saving, Executing and Monitoring a Data Activity
-* Persiting data activity results into Watson Analytics
+*	Executing and Monitoring Data Activities
+* Persiting data into the Watson Analytics repository
 
 ##Before You Begin
 
