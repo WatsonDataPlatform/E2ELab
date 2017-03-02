@@ -34,6 +34,8 @@ This lab will demonstrate the following capabilities of the Data Connect service
 
 ##Workflow
 
+> On the following pages are a series of steps required to complete this lab sucessfully. Each step outlines an easy to follow work flow to instruct and demonstrate the capabilities of the Data Connect service. It has been designed as a serial process and it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+
 ###Step 1: Prepare Your Bluemix Environment
 
 Step | Description
