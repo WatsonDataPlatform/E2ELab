@@ -11,14 +11,14 @@ It saves time and resources by reducing the effort to provision trusted data and
 
 This lab will demonstrate the following capabilities of the service:
 
-•	Creating and Working with IBM Watson Data Platform services
-•	Creating and Working with Bluemix Data Connect Connections
-•	Visualizing and Understanding Data Quality and Content
-•	Identifying and Resolving Data Quality Exceptions
-•	Transforming and Standardizing Data
-•	Copying Data from a Source to a Target Data Source
-•	Executing and Monitoring Data Activities
-•	Analyzing data activity results with Watson Analytics
+*	Creating and Working with IBM Watson Data Platform services
+*	Creating and Working with Bluemix Data Connect Connections
+*	Visualizing and Understanding Data Quality and Content
+*	Identifying and Resolving Data Quality Exceptions
+*	Transforming and Standardizing Data
+*	Copying Data from a Source to a Target Data Source
+*	Executing and Monitoring Data Activities
+*	Analyzing data activity results with Watson Analytics
  >
  > The intuitive and efficient Data Connect service, with its wide collection of data store connectors, ingests and pepares the data to the IBM cloud with ease and confidence.
  >
@@ -27,8 +27,8 @@ This lab will demonstrate the following capabilities of the service:
 Lab Cloud Services
 ==================
 
-**Bluemix Data Connect**
-**Watson Analytics**
+Bluemix Data Connect
+Watson Analytics
 
 1.  **Source Data**: **Great Outdoors Customer Orders Excel File**
 
