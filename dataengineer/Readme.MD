@@ -76,8 +76,8 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step2-image-2.png"/>
 
-1.	**Enter** “Watson Data Platform” for the space name, or whatever you prefer.
-1. **Select** the “Create” button.
+2.	**Enter** “Watson Data Platform” for the space name, or whatever you prefer.
+3. **Select** the “Create” button.
 
 <img src="./media/Step2-image-3.png"/>
 
