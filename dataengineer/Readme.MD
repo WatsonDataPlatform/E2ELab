@@ -68,7 +68,6 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 1.	Select the "Log In" button on the toolbar or in the “Ready to start?” section or in the top right hand corner of the Bluemix home page and login to your Bluemix account using your Bluemix ID and password.
 
-
 ##Step 2: Create a Bluemix Space
 
 ##Step 3: Create a Data Connect Service
