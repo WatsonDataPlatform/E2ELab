@@ -9,20 +9,20 @@ Data engineers can enable self-service data access to end users using elastic de
 
 It saves time and resources by reducing the effort to provision trusted data and make it fit for use.
 
-This lab will demonstrate the following capabilities of the service:
+This lab will demonstrate the following capabilities of the Data Connect service:
 
-*	Creating and Working with IBM Watson Data Platform services
+* Creating and Working with IBM Watson Data Platform services
 *	Creating and Working with Bluemix Data Connect Connections
 *	Visualizing and Understanding Data Quality and Content
 *	Identifying and Resolving Data Quality Exceptions
 *	Transforming and Standardizing Data
 *	Copying Data from a Source to a Target Data Source
 *	Executing and Monitoring Data Activities
-*	Analyzing data activity results with Watson Analytics
+* Analyzing data activity results with Watson Analytics
 
- > In this lab we will explore how a data engineer utilizes Data Connect and Watson Analytics to easily host, connect, ingest and persist enterprise data for immediate analytical insights.
+ > In this lab we will explore how a data engineer can utilize Data Connect to easily access, ingest and transform data and then persist the data for immediate analytical insights within Watson Analytics.
 
-Hands on Lab Services
+Hands on Lab Overview
 =====================
 
 IBM Bluemix Data Connect and Watson Analytics
