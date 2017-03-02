@@ -102,4 +102,5 @@ Your space will be created and Bluemix will switch you to the new space. You sho
 
 ##Step 11: Validate the Results
 
+
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
