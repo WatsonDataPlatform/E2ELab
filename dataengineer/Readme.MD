@@ -1,13 +1,17 @@
-#Hands on Lab - Data Engineer - IBM Bluemix Data Connect
+#Hands on Lab - Data Engineer
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DEE2E.png">](https://github.com/ibmdataworks/datafirst/tree/master/dataengineer)
+
+Setting up an enterprise grade data preparation and movement infrastructure and accessing data from a secure environment to a cloud repository can be quite challenging, to say the least. As a Data Engineer, time is of the essence and you need a simple point and click solution to discover, access, cleanse, standardize and transform data to support analytic application use cases. The Watson Data Platform's Data Connect, fully managed as-a-Service solves this challenge.
 
 Bluemix Data Connect is a fully managed, self-service, data preparation and integration service which enables you to easily put data to work. It provides instant access to your data wherever it resides, on the cloud or on-premises. You can blend data together from multiple relevant data sources to create powerful insights and then transform the data by refining and cleansing it, using a robust catalog of transformation operations and then deliver it with confidence to one of many supported cloud or on-premises targets.
 
-It is fully managed by IBM, so you can sleep better at night, with Pay-as-you-go and subscription pricing options to get started quickly. It’s powered by Spark for a speedy and responsive experience and can easily integrate data across different platforms and is seamlessly integrated with Watson Analytics. Bluemix Data Connect empowers non-technical and technical users to simply put data to work. 
+It is fully managed by IBM, so you can sleep better at night, with Pay-as-you-go and subscription pricing options to get started quickly. It’s powered by Spark for a speedy and responsive experience and can easily integrate data across different platforms and is seamlessly integrated with Watson Analytics. Bluemix Data Connect empowers non-technical and technical users to simply put data to work.
 
-Data engineers can enable self-service data access to end users using elastic deployment through the cloud and delver the data faster while maintaining important controls such as data governance and security. This allows them to break free from routine data requests and focus on additional value for an organization such as implementing and enforcing corporate standards, security, data governance and complex requirements.
+Data Engineers can enable self-service data access to end users using elastic deployment through the cloud and delver the data faster while maintaining important controls such as data governance and security. This allows them to break free from routine data requests and focus on additional value for an organization such as implementing and enforcing corporate standards, security, data governance and complex requirements.
 
-It saves time and resources by reducing the effort to provision trusted data and make it fit for use.
+Data Connect saves time and resources by reducing the effort to provision trusted data and make it fit for use.
+
+ > In this lab we will explore how a data engineer utilizes Data Connect to easily host, connect, ingest and persist enterprise data on to the cloud.
 
 This lab will demonstrate the following capabilities of the Data Connect service:
 
