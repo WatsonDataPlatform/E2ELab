@@ -62,7 +62,12 @@ Step | Description
 
 ##Step 1: Login to Bluemix
 
-1.  Log in to your IBM Bluemix account <https://console.ng.bluemix.net/login?state=/home/onboard/>
+Using your preferred web browser, go to URL https://console.ng.bluemix.net 
+
+<img src="./media/Step-1-image-1.png"/>
+
+1.	Select the "Log In" button on the toolbar or in the “Ready to start?” section or in the top right hand corner of the Bluemix home page and login to your Bluemix account using your Bluemix ID and password.
+
 
 ##Step 2: Create a Bluemix Space
 
@@ -85,6 +90,3 @@ Step | Description
 ##Step 11: Validate the Results
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
-
-***End of Lab***
-
