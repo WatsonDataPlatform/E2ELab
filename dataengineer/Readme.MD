@@ -4,14 +4,11 @@
 As a Data Engineer, you may need to cleanse, organize, standardize, tranform and move data at scale.
 Perform hands-on exercises and in a few clicks you can standardize, transform, and move sales and customer data into a relational data warehouse.
 
-Setting up an enterprise level data movement infrastructure and then ingesting that data from a secure environment to a cloud repository can be challenging. As a Data Engineer, you need a simple point and click solution to move, discover, cleanse, standardize and transform data to support analytic applications. IBM Cloud Solutions with its DataWorks Forge as-a-Service solves this challenge by seamlessly connecting, transforming and ingesting the data into the secure IBM Cloud.
+Setting up an enterprise level data movement infrastructure and then ingesting that data from a secure environment to a cloud repository can be challenging. As a Data Engineer, you need a simple point and click solution to discover, cleanse, standardize, transform and deliver data in support of analytical use cases. Watson Data Platform's Data Connect as-a-Service solves this challenge by easily connecting, ingesting and transforming the data into the secure IBM Cloud.
  >
- > The extremely intuitive and efficient DataWorks Forge service, with its wide collection of data stores connections, prepares and ingests the data to the IBM cloud with ease and robustness.
+ > The intuitive and efficient Data Connect service, with its wide collection of data store connectors, ingests and pepares the data to the IBM cloud with ease and confidence.
  >
- > In this lab we will explore how a data engineer utilizes DataWorks Forge and other IBM Bluemix cloud services to easily host, connect, ingest and persist enterprise data on to the cloud.
-
-Video of Lab Steps: https://youtu.be/655-6SPhkNI
-[<img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/DE%20Video.png">](https://youtu.be/655-6SPhkNI)
+ > In this lab we will explore how a data engineer utilizes Data Connect and other IBM Bluemix cloud services to easily host, connect, ingest and persist enterprise data on to the cloud.
 
 Lab Components: IBM Bluemix Data Connect (formerly DataWorks)
 ===============================================
