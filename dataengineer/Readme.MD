@@ -31,15 +31,14 @@ This lab will demonstrate how a data engineer can utilize the following capabili
 2. You will need a Bluemix account. If you don't have one, click on the URL below to create one:
 
   > https://console.ng.bluemix.net/registration/?target=%2Fdashboard%2Fapps
+  >
   > Fill in all information and then click on the Create Account button
 
 3. You will need a Watson Analytics account. If you don't have one, click on the URL below to create one.
 
   > https://watson.analytics.ibmcloud.com/product
-  > Click on the “TRY IT FOR FREE” button
-
-Register for a Bluemix Account - 
- > 
+  >
+  > Click on the “TRY IT FOR FREE” but
 
 ##Workflow
 
