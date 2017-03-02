@@ -14,22 +14,20 @@ This lab will demonstrate the following capabilities of the Data Connect service
 * Creating and Working with IBM Watson Data Platform services
 *	Creating and Working with Bluemix Data Connect Connections
 *	Visualizing and Understanding Data Quality and Content
-*	Identifying and Resolving Data Quality Exceptions
 *	Transforming and Standardizing Data
-*	Copying Data from a Source to a Target Data Source
-*	Executing and Monitoring Data Activities
-* Analyzing data activity results with Watson Analytics
+*	Saving, Executing and Monitoring Data Activities
+* Analyzing the data activity results with Watson Analytics
 
- > In this lab we will explore how a data engineer can utilize Data Connect to easily access, ingest and transform data and then persist the data for immediate analytical insights within Watson Analytics.
+ > In this lab we will explore how a data engineer can utilize Data Connect to easily access, ingest, inspect and transform data and then persist the data to Watson Analytics for immediate analytical insights.
 
-Hands on Lab Overview
-=====================
+Overview
+========
 
-IBM Bluemix Data Connect and Watson Analytics
+This lab will be done exclusively from the IBM Cloud using the IBM Bluemix Data Connect server and Watson Analytics.
 
-1.  **Source Data**: **Great Outdoors Customer Orders Excel File**
+1.  **Source Data Store**: **Great Outdoors Customer Orders Excel File**
 
- > NOTE: This usually is the data hosted in a secure enterprise environment that could be securely retrieved through a network tunnel using the BlueMix Secure gateway. Since getting access to a data hosted in an enterprise infrastructure can be a compliance and privacy issue for this lab, we will be using sample datasets hosted in the IBM Object Storage that would be used as a source data set.
+ > NOTE: Data can be hosted on-premies or in the cloud and securely retrieved through a network tunnel using the Bluemix Secure gateway. Since getting access to a data hosted in an enterprise infrastructure can be a compliance and privacy issue for this lab, we will be using sample datasets hosted in the IBM Object Storage that would be used as a source data set.
 
 2.  **Target Data Repository**: **Watson Analytics**
 
