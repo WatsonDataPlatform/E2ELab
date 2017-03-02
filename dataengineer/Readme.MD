@@ -10,6 +10,7 @@ Data engineers can enable self-service data access to end users using elastic de
 It saves time and resources by reducing the effort to provision trusted data and make it fit for use.
 
 This lab will demonstrate the following capabilities of the service:
+
 •	Creating and Working with IBM Watson Data Platform services
 •	Creating and Working with Bluemix Data Connect Connections
 •	Visualizing and Understanding Data Quality and Content
@@ -39,13 +40,15 @@ Lab Components: IBM Bluemix Data Connect
 Before You Begin
 ================
 
-1.  Download Lab-DataWorksForge.zip archive from the github.com location below and extract the two data files (GOProductDim, GOSalesFact) to your laptop:
+1.  Download the Great Outdoor Customer Orders Excel file from the github.com location below and save the file to a location of your choice on your workstation:
 
- > https://github.com/ibmdataworks/datafirst/tree/master/dataengineer
+ > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.xlsx
 
-2.  Log in to your IBM Cloud Bluemix account <https://console.ng.bluemix.net/login?state=/home/onboard/>
+2.  Log in to your IBM Bluemix account <https://console.ng.bluemix.net/login?state=/home/onboard/>
 
-> NOTE: If you don’t have a Bluemix account then get started for free by registering using the URL [http://www.ibm.com/cloud-computing/bluemix/](http://www.ibm.com/cloud-computing/bluemix/%20) or <https://console.ng.bluemix.net/registration/>
+> NOTE: If you don’t have a Bluemix account then get started for free by registering using the URL
+
+[http://www.ibm.com/cloud-computing/bluemix/](http://www.ibm.com/cloud-computing/bluemix/%20) or <https://console.ng.bluemix.net/registration/>
 
 
 #Step 1. Get on BlueMix.
