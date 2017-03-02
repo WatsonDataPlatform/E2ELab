@@ -28,17 +28,18 @@ This lab will demonstrate how a data engineer can utilize the following capabili
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.xlsx
 
-2. You will need a Bluemix account. If you don't have one, click on the URL below to create one:
+2. You will need a Bluemix account. If you don't have an account, click on the URL below to create one:
 
   > https://console.ng.bluemix.net/registration/?target=%2Fdashboard%2Fapps
   >
-  > Fill in all information and then click on the Create Account button
+  > Fill in all information on the right side panel and then click on the Create Account button at the botton of the
+  > right side panel
 
-3. You will need a Watson Analytics account. If you don't have one, click on the URL below to create one.
+3. You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
 
   > https://watson.analytics.ibmcloud.com/product
   >
-  > Click on the “TRY IT FOR FREE” but
+  > Click on the “TRY IT FOR FREE” button. You have the option to click on “View pricing and buy” from the next screen. Watson Analytics provides 2 paid editions “Plus” and “Professional” with monthly license charges of $30 and $80, with included storage of 2GB and 100GB respectively. For now, you will go with the “Free” license and click on “Try free edition”.
 
 ##Workflow
 
