@@ -64,7 +64,7 @@ Step | Description
 
 Using your preferred web browser, go to URL https://console.ng.bluemix.net 
 
-<img src="./media/Step-1-image-1.png"/>
+<img src="./media/Step1-image-1.png"/>
 
 1.	Select the "Log In" button on the toolbar or in the “Ready to start?” section or in the top right hand corner of the Bluemix home page and login to your Bluemix account using your Bluemix ID and password.
 
