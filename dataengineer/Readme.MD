@@ -24,8 +24,11 @@ This lab will demonstrate the following capabilities of the service:
  >
  > In this lab we will explore how a data engineer utilizes Data Connect and Watson Analytics to easily host, connect, ingest and persist enterprise data for immediate analytical insights.
 
-Lab Components: IBM Bluemix Data Connect
-========================================
+Lab Cloud Services
+==================
+
+**Bluemix Data Connect**
+**Watson Analytics**
 
 1.  **Source Data**: **Great Outdoors Customer Orders Excel File**
 
