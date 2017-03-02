@@ -18,7 +18,6 @@ This lab will demonstrate the following capabilities of the service:
 •	Copying Data from a Source to a Target Data Source
 •	Executing and Monitoring Data Activities
 •	Analyzing data activity results with Watson Analytics
-
  >
  > The intuitive and efficient Data Connect service, with its wide collection of data store connectors, ingests and pepares the data to the IBM cloud with ease and confidence.
  >
