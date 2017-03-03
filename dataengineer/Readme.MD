@@ -63,47 +63,47 @@ Step | Description
 
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
-<img src="./media/Step1-image-1.png"/>
+ > <img src="./media/Step1-image-1.png" />
 
 1. Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.
 
 ##Step 2: Create a Bluemix Space
 
-<img src="./media/Step2-image-1.png"/> 
+ > <img src="./media/Step2-image-1.png" /> 
 
-1.  **Select** the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
+1.  Select the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
 
-<img src="./media/Step2-image-2.png"/>
+ > <img src="./media/Step2-image-2.png" />
 
-2.  **Enter** “Watson Data Platform” for the space name.
-3.  **Select** the “Create” button.
+2.  Enter “Watson Data Platform” for the space name.
+3.  Select the “Create” button.
 
-<img src="./media/Step2-image-3.png"/>
+ > <img src="./media/Step2-image-3.png" />
 
 Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
 ##Step 3: Create a Data Connect Service
 
-<img src="./media/Step3-image-1.png"/>
+ > <img src="./media/Step3-image-1.png" />
  
-1.  **Select** the "Catalog" menu at the top of the Bluemix home page.
-2.  **Select** the "Data and Analytics" category from the categories on the left.
-3.  **Select** the “Data Connect” service from the list of services on the right.
+1.  Select the "Catalog" menu at the top of the Bluemix home page.
+2.  Select the "Data and Analytics" category from the categories on the left.
+3.  Select the “Data Connect” service from the list of services on the right.
 
-<img src="./media/Step3-image-2.png"/>
+ > <img src="./media/image10.png" width="360" height="175" />
 
-4. 	**Enter** ”Data Connect” for the Service name.
-5. 	**Enter** “Data Connect” for the Credential name.
-6. 	**Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).
-7. 	**Select** the "CREATE" button. The service will be created and the launch page is displayed.
+4. 	Enter ”Data Connect” for the Service name.
+5. 	Enter “Data Connect” for the Credential name.
+6. 	Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).
+7. 	Select the "CREATE" button. The service will be created and the launch page is displayed.
 
 Note – If for some reason you do not see the IBM Bluemix Data Connect launch page below select CTRL+R on your keyboard to refresh the page. It should refresh the service launch page and display the screen shot below.
 
-<img src="./media/Step3-image-3.png"/>
+ > <img src="./media/Step3-image-3.png" />
 
-8. 	**Select** the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
+8. 	Select the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
 
-<img src="./media/Step3-image-4.png"/>
+ > <img src="./media/Step3-image-4.png" />
 
 The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
@@ -129,3 +129,25 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
+
+
+
+1.  Logon to Watson Analytics by going to page “watsonanalytics.com” on a browser and clicking on “LOG IN” blue button on the top right. 
+
+ > <img src="./media/image8.png" width="358" height="174" />
+
+2.  Click on “+ New data” button towards the top left as highlighted below. This will let you add a new dataset to your “Personal” folder.
+
+ > <img src="./media/image9.png" width="356" height="207" />
+
+3.  You should now be able to read in a spreadsheet “Great Outdoor Customer Orders.xlsx” that you can download from the Github link: <https://github.com/ibmdataworks/sigmo-demos/tree/master/business-analyst>
+    Click on “Local file” to import the dataset into Watson Analytics.
+    
+ > <img src="./media/image10.png" width="360" height="175" />
+
+4.  You can now either drag and drop the spreadsheet or click on “Browse” to select the file from the folder where you downloaded the dataset from Github.
+
+ > <img src="./media/image11.png" width="360" height="175" />
+
+5.  Next, you should see an icon for the file on the screen and now click on “Import” button on bottom right to upload the spreadsheet to Watson Analytics.
+6.  Test
