@@ -138,5 +138,4 @@ If successful, you will receive a message that “The connection Watson Analytic
 ##Step 10: Validate the Results
 
 
-
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
