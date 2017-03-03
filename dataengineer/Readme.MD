@@ -127,15 +127,13 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ##Step 5: Import the Source Data File
 
+<img src="./media/Step5-image-1.png" />
+1. Select the “File Storage” menu item from the left hand side menu.  
 
-1.	Select the “File Storage” menu item from the left hand side menu.
+<img src="./media/Step5-image-2.png" />
+2. Select the “+” plus sign at the bottom of the page to begin adding your files.
 
-Step 1: Add the Source Data
-
- 
-
-2.	Select the “+” plus sign at the bottom of the page to begin adding your files.
-You can select multiple files from your desktop file system. You will be selecting three files at once by holding down the CTRL key on your keyboard…
+> You can select multiple files from your desktop file system. You will be selecting three files at once by holding down the CTRL key on your keyboard…
 
  
 
