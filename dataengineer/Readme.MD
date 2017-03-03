@@ -97,13 +97,10 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 > **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
 
-<img src="./media/Step3-image-1.png" />
-1. Select the "Catalog" menu at the top of the Bluemix home page.  
-2. Select the "Data and Analytics" category from the categories on the left.  
-3. Select the “Data Connect” service from the list of services on the right.
-1. Select the menu control button. The menu will disappear. Select it again and the menu will reappear.
-2. Select the Activities menu item. It will take you to the Activities section of the interface.
-3. Select the IBM Bluemix Data Connect service name to get back to the home page.
+<img src="./media/Step3-image-4.png" />
+1. Select the menu control button. The menu will disappear. Select it again and the menu will reappear.  
+2. Select the Activities menu item. It will take you to the Activities section of the interface.  
+3. Select the Data Connect service name to get back to the home page.
 
 ##Step 4: Create a Watson Analytics Connection
 
@@ -121,28 +118,3 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
-
-
-
-1.  Logon to Watson Analytics by going to page “watsonanalytics.com” on a browser and clicking on “LOG IN” blue button on the top right. 
-
- > <img src="./media/image8.png" width="358" height="174" />
-
-2.  Click on “+ New data” button towards the top left as highlighted below. This will let you add a new dataset to your “Personal” folder.
-
- > <img src="./media/image9.png" width="356" height="207" />
-
-3.  You should now be able to read in a spreadsheet “Great Outdoor Customer Orders.xlsx” that you can download from the Github link: <https://github.com/ibmdataworks/sigmo-demos/tree/master/business-analyst>
-    Click on “Local file” to import the dataset into Watson Analytics.
-    
- > <img src="./media/image10.png" width="360" height="175" />
-
-4.  You can now either drag and drop the spreadsheet or click on “Browse” to select the file from the folder where you downloaded the dataset from Github.
-
- > <img src="./media/image11.png" width="360" height="175" />
-
-5.  Next, you should see an icon for the file on the screen and now click on “Import” button on bottom right to upload the spreadsheet to Watson Analytics.
-6.  Test
-7. Test
-8. Test
-9. Test
