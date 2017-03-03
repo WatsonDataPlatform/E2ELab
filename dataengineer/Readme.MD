@@ -125,28 +125,28 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 <img src="./media/Step4-image-5.png" />
 
-##Step 5: Import the Source Data File
+##Step 5: Import the Source File
 
-<img src="./media/Step5-image-1.png" />
-1. Select the “File Storage” menu item from the left hand side menu.  
+<img src="./media/Step4-image-1.png" />
+1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the right.  
  
-<img src="./media/Step5-image-2.png" />
-2. Select the “+” plus sign at the bottom of the page to begin adding your files.
+<img src="./media/Step4-image-2.png" />
+2. Select the “IBM Watson Analytics” connector from the list of supported connectors.
  
-<img src="./media/Step5-image-3.png" />
+<img src="./media/Step4-image-3.png" />
 3. Enter "Watson Analytics" for the Connection name.  
 4. Enter "My Watson Analytic Account" for the Description.  
 5. Select the the "Create Connection" button.
 
 > **Note** – Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix ID and password to log into Watson Analytics to authenticate you. It will launch a new browser session and attempt to validate your credentials.
-1. Select the “File Storage” menu item from the left hand side menu.
-2. Select the “+” plus sign at the bottom of the page to begin adding your files.
 
-> **Note** - You can select multiple files from your desktop file system. You will only be selecting one file for this lab but by holding down the CTRL key on your keyboard and selecting multiple files you can upload more than one at a time.
+If you have a Watson Analytics account with the same ID and password as your Bluemix account it will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
 
-3.	Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.xslx".
-4.	Select the “Great Outdoor Customer Orders.xlsx” file from your file system.
-5.	Select the “Open” button.
+<img src="./media/Step4-image-4.png" />
+
+If successful, you will receive a message that “The connection Watson Analytics was created.”
+
+<img src="./media/Step4-image-5.png" />
 
 ##Step 6: Access the Source Data File
 
