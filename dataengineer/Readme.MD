@@ -87,12 +87,9 @@ Your space will be created and you will be taken into your new space. You should
 6. 	Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).
 7. 	Select the "CREATE" button. The service will be created and the launch page is displayed.
 
-Note – If for some reason you do not see the IBM Bluemix Data Connect launch page below select CTRL+R on your keyboard to refresh the page. It should refresh the service launch page and display the screen shot below.
+> **Note** – If for some reason you do not see the IBM Bluemix Data Connect launch page below select CTRL+R on your keyboard to refresh the page. It should refresh the service launch page and display the screen shot below.
 
 8. 	Select the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
-
- > <img src="./media/Step3-image-4.png"/>
-
 
 The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
