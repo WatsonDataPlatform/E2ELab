@@ -128,7 +128,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 ##Step 5: Import the Source Data File
 
 <img src="./media/Step5-image-1.png" />
-1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the right.  
+1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the rights.  
  
 <img src="./media/Step5-image-2.png" />
 2. Select the “IBM Watson Analytics” connector from the list of supported connectors.
