@@ -97,6 +97,10 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 > **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
 
+<img src="./media/Step3-image-1.png" />
+1. Select the "Catalog" menu at the top of the Bluemix home page.  
+2. Select the "Data and Analytics" category from the categories on the left.  
+3. Select the “Data Connect” service from the list of services on the right.
 1. Select the menu control button. The menu will disappear. Select it again and the menu will reappear.
 2. Select the Activities menu item. It will take you to the Activities section of the interface.
 3. Select the IBM Bluemix Data Connect service name to get back to the home page.
