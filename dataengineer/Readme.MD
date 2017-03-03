@@ -22,7 +22,7 @@ This lab will demonstrate how a data engineer can utilize the following capabili
 
 ##Before You Begin
 
-> This lab will be done exclusively from the web using Bluemix, IBM’s Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It will also use an Excel file that you will you use as your source data. Perform the following steps before you proceed any further:
+> This lab is done on the web using Bluemix, IBM’s Cloud Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It also uses a supplied Excel file as the source data store. Perform the following steps before you proceed any further:
 
 1. Download the Great Outdoor Customer Orders Excel file from the github.com location below and save the file to a location of your choice on your workstation:
 
@@ -32,7 +32,7 @@ This lab will demonstrate how a data engineer can utilize the following capabili
 
   > https://console.ng.bluemix.net/registration
   >
-  > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of the right side panel
+  > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of the right side panel.
 
 3. You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
 
@@ -42,9 +42,9 @@ This lab will demonstrate how a data engineer can utilize the following capabili
 
 ##Workflow
 
-> On the following pages are a series of steps required to complete this lab sucessfully. Each step outlines an easy to follow work flow to instruct and demonstrate the capabilities of the Data Connect service. It has been designed as a serial process and it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+> On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions and demonstrates the capabilities of the Bluemix Data Connect cloud service. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
 
-###Step 1: Prepare Your Bluemix Environment
+###Lab Steps
 
 Step | Description
 ------------ | -------------
@@ -56,9 +56,8 @@ Step | Description
 6	| Access the Source Data File
 7	| Review the Data Quality and Content
 8	| Prepare the Data
-9	| Review History
-10| Complete the Data Activity
-11| Validate the Results
+9	| 10| Complete the Data Activity
+10| Validate the Results
 
 ##Step 1: Login to Bluemix
 
@@ -124,11 +123,8 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 ##Step 8: Prepare the Data
 
-##Step 9: Review History
+##Step 9: Complete the Activity
 
-##Step 10: Complete the Activity
-
-##Step 11: Validate the Results
-
+##Step 10: Validate the Results
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
