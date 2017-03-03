@@ -133,10 +133,10 @@ If successful, you will receive a message that “The connection Watson Analytic
 <img src="./media/Step5-image-2.png" />
 2. Select the “+” plus sign at the bottom of the page to begin adding your files.
 
-> You can select multiple files from your desktop file system. You will be selecting three files at once by holding down the CTRL key on your keyboard…
+> **Note** - You can select multiple files from your desktop file system. You will only be selecting one file for this lab but by holding down the CTRL key on your keyboard and selecting multiple files you can upload more than one at a time.
 
- 
-
+<img src="./media/Step5-image-3.png" />
+3. Select the “+” plus sign at the bottom of the page to begin adding your files.
 3.	Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.xslx".
 4.	Select the “Great Outdoor Customer Orders.xlsx” file from your file system.
 5.	Select the “Open” button.
