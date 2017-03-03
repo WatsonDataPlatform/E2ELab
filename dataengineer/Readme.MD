@@ -141,6 +141,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 <img src="./media/Step5-image-4.png" />  
 6.  Select the “Refine & Copy” menu item from the left side menu.
 
+
 ##Step 6: Access the Source Data File
 
 ##Step 7: Review the Data Quality and Content
