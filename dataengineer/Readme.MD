@@ -114,25 +114,19 @@ The Data Connect user interface provides easy access to all functions from a mai
 2. Select the “IBM Watson Analytics” connector from the list of supported connectors.
  
 <img src="./media/Step4-image-3.png" />
-1. Enter "Watson Analytics" for the Connection name.  
-2. Enter "My Watson Analytic Account" for the Description.  
-3. Select the the "CREATE CONNECTION" button.
+3. Enter "Watson Analytics" for the Connection name.  
+4. Enter "My Watson Analytic Account" for the Description.  
+5. Select the the "CREATE CONNECTION" button.
 
-3.	Enter "Watson Analytics" for the Connection name.
-4.	Enter "My Watson Analytic Account" for the Description (or whatever you want).
-5.	Select the "CREATE CONNECTION" button. 
-
-Note – Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix ID and password to log into Watson Analytics to authenticate you. It will launch a new browser session and attempt to validate your credentials.
+> **Note** – Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix ID and password to log into Watson Analytics to authenticate you. It will launch a new browser session and attempt to validate your credentials.
 
 If you have a Watson Analytics account with the same ID and password as your Bluemix account it will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
 
- 
-
- 
+<img src="./media/Step4-image-4.png" />
 
 If successful, you will receive a message that “The connection Watson Analytics was created.”
 
-
+<img src="./media/Step4-image-5.png" />
 
 ##Step 5: Import the Source Data File
 
