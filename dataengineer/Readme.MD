@@ -65,7 +65,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step1-image-1.png"/>
 
-1. Select the "Log In" button on the toolbar or in the “Ready to start?” section or in the top right hand corner of the Bluemix home page and login to your Bluemix account using your Bluemix ID and password.
+1. Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.
 
 ##Step 2: Create a Bluemix Space
 
@@ -75,43 +75,43 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step2-image-2.png"/>
 
-2. **Enter** “Watson Data Platform” for the space name, or whatever you prefer
-3. **Select** the “Create” button
+2. **Enter** “Watson Data Platform” for the space name.
+3. **Select** the “Create” button.
 
 <img src="./media/Step2-image-3.png"/>
 
-Your space will be created and Bluemix will switch you to the new space. You should now see in the top right corner that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
+Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
 ##Step 3: Create a Data Connect Service
 
 <img src="./media/Step3-image-1.png"/>
  
-1. **Select** the "Catalog" menu at the top of the Bluemix home page
-1. **Select** the "Data and Analytics" category from the categories on the left
-1. **Select** the “Data Connect” service from the list of services on the right
+1. **Select** the "Catalog" menu at the top of the Bluemix home page.
+1. **Select** the "Data and Analytics" category from the categories on the left.
+1. **Select** the “Data Connect” service from the list of services on the right.
 
 <img src="./media/Step3-image-2.png"/>
 
-1.	**Enter** ”Data Connect” for the Service name
-1.	**Enter** “Data Connect” for the Credential name
-1.	**Select** “Starter” plan from the Pricing Plans section (it is typically selected by default)
-1.	**Select** the "CREATE" button. The service will be created and the launch page is displayed
+1.	**Enter** ”Data Connect” for the Service name.
+1.	**Enter** “Data Connect” for the Credential name.
+1.	**Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).
+1.	**Select** the "CREATE" button. The service will be created and the launch page is displayed.
 
 Note – If for some reason you do not see the IBM Bluemix Data Connect launch page below select CTRL+R on your keyboard to refresh the page. It should refresh the service launch page and display the screen shot below.
 
 <img src="./media/Step3-image-3.png"/>
 
-1.	**Select** the “LAUNCH” button to use Bluemix Data Connect. It will launch in a new tab in your browser
+1.	**Select** the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
 
 <img src="./media/Step3-image-4.png"/>
 
-The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas in the interface.
+The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
-**Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service icon you can always get back to the home page. Let’s experiment with the menu control button.
+> **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
 
 1. **Select** the menu control button. The menu will disappear. Select it again and the menu will reappear.
 1.	**Select** the Activities menu item. It will take you to the Activities section of the interface.
-1.	**Select** the IBM Bluemix Data Connect service icon to get back to the home page.
+1.	**Select** the IBM Bluemix Data Connect service name to get back to the home page.
 
 ##Step 4: Create a Watson Analytics Connection
 
