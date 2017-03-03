@@ -127,7 +127,22 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ##Step 5: Import the Source Data File
 
-Blah Blah Blah Blah
+
+1.	Select the “File Storage” menu item from the left hand side menu.
+
+Step 1: Add the Source Data
+
+ 
+
+2.	Select the “+” plus sign at the bottom of the page to begin adding your files.
+You can select multiple files from your desktop file system. You will be selecting three files at once by holding down the CTRL key on your keyboard…
+
+ 
+
+3.	Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.xslx".
+4.	Select the “Great Outdoor Customer Orders.xlsx” file from your file system.
+5.	Select the “Open” button.
+
 
 ##Step 6: Access the Source Data File
 
