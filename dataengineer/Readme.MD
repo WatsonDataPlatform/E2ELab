@@ -144,3 +144,6 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 5.  Next, you should see an icon for the file on the screen and now click on “Import” button on bottom right to upload the spreadsheet to Watson Analytics.
 6.  Test
+7. Test
+8. Test
+9. Test
