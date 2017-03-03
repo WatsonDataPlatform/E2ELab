@@ -113,7 +113,7 @@ The Data Connect user interface provides easy access to all functions from a mai
 <img src="./media/Step4-image-3.png" />
 3. Enter "Watson Analytics" for the Connection name.  
 4. Enter "My Watson Analytic Account" for the Description.  
-5. Select the the "CREATE CONNECTION" button.
+5. Select the the "Create Connection" button.
 
 > **Note** – Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix ID and password to log into Watson Analytics to authenticate you. It will launch a new browser session and attempt to validate your credentials.
 
@@ -136,6 +136,5 @@ If successful, you will receive a message that “The connection Watson Analytic
 ##Step 9: Complete the Data Activity
 
 ##Step 10: Validate the Results
-
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
