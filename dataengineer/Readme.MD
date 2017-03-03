@@ -90,7 +90,7 @@ Your space will be created and you will be taken into your new space. You should
 2.  Select the "Data and Analytics" category from the categories on the left.
 3.  Select the “Data Connect” service from the list of services on the right.
 
- > <img src="./media/image10.png" width="360" height="175" />
+ > <img src="./media/Step3-image-2.png" width="360" height="175" />
 
 4. 	Enter ”Data Connect” for the Service name.
 5. 	Enter “Data Connect” for the Credential name.
