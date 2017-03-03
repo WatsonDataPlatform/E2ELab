@@ -76,6 +76,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 1. Select the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
 
 > <img src="./media/Step2-image-2.png" />  
+
 2. Enter “Watson Data Platform” for the space name.
 3. Select the “Create” button.
 
