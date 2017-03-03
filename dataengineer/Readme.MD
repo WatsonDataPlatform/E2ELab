@@ -89,9 +89,8 @@ Your space will be created and you will be taken into your new space. You should
 5. Enter “Data Connect” for the Credential name.  
 6. Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
 7. Select the the "CREATE" button. The service will be created and the launch page is displayed.  
-3. Select the “Data Connect” service from the list of services on the right.
 
- <img src="./media/Step3-image-2.png" />
+ <img src="./media/Step3-image-3.png" />
 8. Select the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
 
 The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
