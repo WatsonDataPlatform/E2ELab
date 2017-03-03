@@ -127,11 +127,11 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ##Step 5: Import the Source File
 
-<img src="./media/Step5-image-1.png" />
+<img src="./media/Step5-image-1.png" />  
+1.  Select the “File Storage” menu item from the left hand side menu.
+<img src="./media/Step5-image-2.png" />  
+1.  Select the “File Storage” menu item from the left hand side menu.
 
-<img src="./media/Step5-image-2.png" />
-
-<img src="./media/Step5-image-3.png" />
 
 ##Step 6: Access the Source Data File
 
