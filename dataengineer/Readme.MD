@@ -105,10 +105,7 @@ The Data Connect user interface provides easy access to all functions from a mai
 ##Step 4: Create a Watson Analytics Connection
 
 <img src="./media/Step4-image-1.png" />
-1. Select the “ADD CONNECTION” button.  
-2. Select the "Data and Analytics" category from the categories on the left.  
-3. Select the “Data Connect” service from the list of services on the right.
-1.	Select the “ADD CONNECTION” button.
+1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the right.  
  
 <img src="./media/Step4-image-2.png" />
 2. Select the “IBM Watson Analytics” connector from the list of supported connectors.
