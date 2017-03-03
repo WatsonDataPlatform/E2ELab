@@ -56,7 +56,7 @@ Step | Description
 6	| Access the Source Data File
 7	| Review the Data Quality and Content
 8	| Prepare the Data
-9	| 10| Complete the Data Activity
+9	| Complete the Data Activity
 10| Validate the Results
 
 ##Step 1: Login to Bluemix
@@ -123,8 +123,9 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 ##Step 8: Prepare the Data
 
-##Step 9: Complete the Activity
+##Step 9: Complete the Data Activity
 
 ##Step 10: Validate the Results
+
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
