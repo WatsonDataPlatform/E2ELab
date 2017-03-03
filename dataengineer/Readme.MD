@@ -53,11 +53,9 @@ Step | Description
 3	| Create a Data Connect Service
 4	| Create a Watson Analytics Connection
 5	| Import the Source Data File
-6	| Access the Source Data File
-7	| Review the Data Quality and Content
-8	| Prepare the Data
-9	| Complete the Data Activity
-10| Validate the Results
+6	| Refine the Data
+7	| Complete the Data Activity
+8 | Validate the Results
 
 ##Step 1: Login to Bluemix
 
@@ -138,16 +136,10 @@ If successful, you will receive a message that “The connection Watson Analytic
 4. Select the "Data and Analytics" category from the categories on the left.  
 5. Select the “Data Connect” service from the list of services on the right.
 
-<img src="./media/Step5-image-4.png" />  
-6.  Select the “Refine & Copy” menu item from the left side menu.
+##Step 6: Refine the Data
 
-
-
-##Step 6: Access the Source Data File
-
-##Step 7: Review the Data Quality and Content
-
-##Step 8: Prepare the Data
+<img src="./media/Step6-image-1.png" />  
+1.  Select the “Refine & Copy” menu item from the left side menu.
 
 ##Step 9: Complete the Data Activity
 
