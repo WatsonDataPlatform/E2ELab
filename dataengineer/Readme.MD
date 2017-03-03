@@ -127,11 +127,12 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ##Step 5: Import the Source Data File
 
-<img src="./media/Step5-image-1.png"/>
-1.  Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.  
+<img src="./media/Step5-image-1.png" />
+
+1. Select the “File Storage” menu item from the left hand side menu.  
  
 <img src="./media/Step5-image-2.png" />
-2. Select the “IBM Watson Analytics” connector from the list of supported connectors.
+2. Select the “+” plus sign at the bottom of the page to begin adding your files.
  
 <img src="./media/Step5-image-3.png" />
 3. Enter "Watson Analytics" for the Connection name.  
