@@ -1,24 +1,24 @@
 #Hands on Lab - Data Engineer
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DEE2E.png">](https://github.com/ibmdataworks/datafirst/tree/master/dataengineer)
 
-As a Data Engineer, you are constantly challenged with the expediated task of delivering quality, trusted data to business users, data scientists and application developers. Time is always of the essence, so you need the ablity to quickly and easily find, access, combine, cleanse, standardize and prepare the data and then deliver it to those who need it when they need it in support of analytical and business application use cases. 
+As a Data Engineer, you are constantly challenged with the expediated task of delivering quality, trusted data to business users, data scientists and application developers. Time is always of the essence, so you need the ablity to quickly and easily find, access, combine, cleanse, standardize and prepare data and then deliver it to those who need it when they need it in support of business analytical and application use cases. 
 
-The IBM Bluemix Data Connect service, an intergral part of the Watson Data Platform, help solves these challenges.
+The IBM Bluemix Data Connect service, an intergral part of the Watson Data Platform, helps tackle these challenges.
 
-Bluemix Data Connect is a fully managed, self-service, data preparation and integration service which enables you to easily put data to work. It provides instant access to your data wherever it resides, on the cloud or on-premises. You can blend data together from multiple relevant data sources to create powerful insights and then transform the data by refining and cleansing it, using a robust catalog of transformation operations and then deliver it with confidence to one of many supported cloud or on-premises targets.
+Bluemix Data Connect is a fully managed, self-service, data preparation and integration service which enables you to easily make data fit for use. It provides instant access to your data wherever it resides, on the cloud or on-premises. You can blend data together from multiple relevant data sources to create powerful insights and then refinine and cleanse it using a robust catalog of transformation operations and then deliver it, with confidence, to one of many supported cloud or on-premises targets.
 
 Data Connect is fully managed by IBM in the cloud, so you can sleep better at night, with Pay-as-you-go and subscription pricing options to get started quickly. It’s powered by Spark for a speedy and responsive experience and can easily integrate data across different platforms and is seamlessly integrated with Watson Analytics. Bluemix Data Connect empowers non-technical and technical users to simply put data to work.
 
 With Data Connect, Data Engineers can enable self-service data access to end users using elastic deployment through the cloud and delver the data faster while maintaining important controls such as data governance and security. This allows them to break free from routine data requests and focus on additional value for an organization such as implementing and enforcing corporate standards, security, data governance and complex requirements. Data Connect saves time and resources by reducing the effort to provision trusted data and make it fit for use.
 
-This lab will demonstrate how a data engineer can utilize the following capabilities of the Data Connect service: 
+This lab will demonstrate how a data engineer can easily utilize these capabilities of the Data Connect service: 
 
 * Creating and Working with the Bluemix Data Connect service
 *	Creating and Working with Bluemix Data Connect Connections
 *	Visualizing and Understanding Data Quality and Content
-*	Transforming and Standardizing Data
+*	Preparing and Standardizing Data
 *	Executing and Monitoring Data Activities
-* Persiting data into the Watson Analytics repository
+* Persiting data into Watson Analytics
 
 ##Before You Begin
 
