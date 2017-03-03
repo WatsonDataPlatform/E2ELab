@@ -127,7 +127,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ##Step 5: Import the Source Data File
 
-<img src="./media/Step5-image-1.png" />
+<img src="./media/Step5-image-1.png"/>
 1.  Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.  
  
 <img src="./media/Step5-image-2.png" />
