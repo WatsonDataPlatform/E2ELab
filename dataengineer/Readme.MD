@@ -134,9 +134,9 @@ If successful, you will receive a message that “The connection Watson Analytic
 2.  Select the “File Storage” menu item from the left hand side menu.
 
 <img src="./media/Step5-image-3.png" />  
-1. Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.xlsx".  
-2. Select the "Data and Analytics" category from the categories on the left.  
-3. Select the “Data Connect” service from the list of services on the right.
+3. Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.xlsx".  
+4. Select the "Data and Analytics" category from the categories on the left.  
+5. Select the “Data Connect” service from the list of services on the right.
 
 ##Step 6: Access the Source Data File
 
