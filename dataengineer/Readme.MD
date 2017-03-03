@@ -86,8 +86,8 @@ Your space will be created and you will be taken into your new space. You should
 
  <img src="./media/Step3-image-2.png" />
 4. Enter "Data Connect” for the Service name.  
-5. Select the "Data and Analytics" category from the categories on the left.  
-6. Select the “Data Connect” service from the list of services on the right.
+5. Enter “Data Connect” for the Credential name.  
+6. Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).
 
  <img src="./media/Step3-image-2.png" />
 4. Enter ”Data Connect” for the Service name.
