@@ -79,9 +79,9 @@ Your space will be created and you will be taken into your new space. You should
 
 ##Step 3: Create a Data Connect Service
 
-> <img src="./media/Step3-Image-1.png" />
+> <img src="./media/Step3-image-1.png" />
 
-> <img src="./media/Step3-Image-2.png" />
+> <img src="./media/Step3-image-2.png" />
  
 1. Select the "Catalog" menu at the top of the Bluemix home page.
 2. Select the "Data and Analytics" category from the categories on the left.
