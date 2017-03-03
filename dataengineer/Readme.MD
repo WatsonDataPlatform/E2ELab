@@ -131,7 +131,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 1.  Select the “File Storage” menu item from the left hand side menu.
 
 <img src="./media/Step5-image-2.png" />  
-1.  Select the “File Storage” menu item from the left hand side menu.
+2.  Select the “File Storage” menu item from the left hand side menu.
 
 <img src="./media/Step3-image-1.png" />
 1. Select the "Catalog" menu at the top of the Bluemix home page.  
