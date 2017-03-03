@@ -88,6 +88,10 @@ Your space will be created and you will be taken into your new space. You should
 
  <img src="./media/Step3-image-2.png" />
 4. Enter ”Data Connect” for the Service name.
+5. Enter 
+6. Select
+7. Select
+8. Select
 5. Enter “Data Connect” for the Credential name.
 6. Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).
 7. Select the "CREATE" button. The service will be created and the launch page is displayed.
