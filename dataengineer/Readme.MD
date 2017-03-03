@@ -127,6 +127,8 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ##Step 5: Import the Source Data File
 
+Blah Blah Blah
+
 ##Step 6: Access the Source Data File
 
 ##Step 7: Review the Data Quality and Content
