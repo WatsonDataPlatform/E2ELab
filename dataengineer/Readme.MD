@@ -79,17 +79,17 @@ Your space will be created and you will be taken into your new space. You should
 
 ##Step 3: Create a Data Connect Service
 
-1.  Select the "Catalog" menu at the top of the Bluemix home page.
-2.  Select the "Data and Analytics" category from the categories on the left.
-3.  Select the “Data Connect” service from the list of services on the right.
-4. 	Enter ”Data Connect” for the Service name.
-5. 	Enter “Data Connect” for the Credential name.
-6. 	Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).
-7. 	Select the "CREATE" button. The service will be created and the launch page is displayed.
+1. Select the "Catalog" menu at the top of the Bluemix home page.
+2. Select the "Data and Analytics" category from the categories on the left.
+3. Select the “Data Connect” service from the list of services on the right.
+4. Enter ”Data Connect” for the Service name.
+5. Enter “Data Connect” for the Credential name.
+6. Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).
+7. Select the "CREATE" button. The service will be created and the launch page is displayed.
 
 > **Note** – If for some reason you do not see the IBM Bluemix Data Connect launch page below select CTRL+R on your keyboard to refresh the page. It should refresh the service launch page and display the screen shot below.
 
-8. 	Select the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
+8. Select the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
 
 The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
