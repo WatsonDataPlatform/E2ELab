@@ -142,9 +142,9 @@ If successful, you will receive a message that “The connection Watson Analytic
 1.  Select the “Refine & Copy” menu item from the left side menu.
 
 <img src="./media/Step6-image-2.png" />  
-3. Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.xlsx".  
-4. Select the "Data and Analytics" category from the categories on the left.  
-5. Select the “Data Connect” service from the list of services on the right.
+2. Select the “Files” section from Connections menu.  
+3. Select the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
+4. Select the the “Refine Data” button.
 
 ##Step 9: Complete the Data Activity
 
