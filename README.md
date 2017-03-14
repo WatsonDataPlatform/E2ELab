@@ -8,7 +8,7 @@
 ###Accelerating End to End Analytics from months to minutes...
 ##[Data Engineer Lab - Click Here](https://github.com/ibmdataworks/datafirst/raw/master/dataengineer/)
 As a Data Engineer, you need to cleanse, organize, standardize, tranform and move data at scale.
-Perform this hands-on lab and in a few clicks you can standardize, transform, and move sales and customer data into a relational data warehouse.
+Perform this hands-on lab and in a few clicks you can standardize, transform, and move sales and customer data into Watson Analytics for immediate analytica insight.
 ##[Business Analyst Lab - Click Here](https://github.com/ibmdataworks/datafirst/raw/master/businessanalyst/)
 As a Business Analyst, you need to analyze, discover and visiualize business data to derive insights.
 Perform this hands-on lab using guided exploration capabilities on customer transaction data to uncover unique insights about product affinities.
