@@ -3,10 +3,10 @@
 ## Experience the IBM Watson Data Platform
 ### Where teams can collaboratively work together...
 
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/team image.png">](https://github.com/ibmdataworks/datafirst/)
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/E2E.png">](https://github.com/ibmdataworks/datafirst/)
+[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/team image.png">](https://github.com/watsondataplatform/e2elab/)
+[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/E2E.png">](https://github.com/watsondataplatform/e2elab/)
 ### Accelerating End to End Analytics from months to minutes...
-## [Data Engineer Lab - Click Here](https://github.com/ibmdataworks/datafirst/raw/master/dataengineer/)
+## [Data Engineer Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer)
 As a Data Engineer, you need to cleanse, organize, standardize, tranform and move data at scale.
 Perform this hands-on lab and in a few clicks you can standardize, transform, and move sales and customer data into Watson Analytics for immediate analytica insight.
 ## [Business Analyst Lab - Click Here](https://github.com/ibmdataworks/datafirst/raw/master/businessanalyst/)
