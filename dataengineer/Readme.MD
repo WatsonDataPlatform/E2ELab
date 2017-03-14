@@ -61,15 +61,18 @@ Step | Description
 
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
- <img src="./media/Step1-image-1.png" />
+ <img src="./media/Step1-image-1.png"/>
+
 1.  Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.
 
 ## Step 2: Create a Bluemix Space
 
- <img src="./media/Step2-image-1.png" />  
+<img src="./media/Step2-image-1.png"/>  
+
 1.  Select the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
 
- <img src="./media/Step2-image-2.png" />  
+  <img src="./media/Step2-image-2.png"/>
+
 2.  Enter “Watson Data Platform” for the space name.  
 3.  Select the “Create” button.  
 
@@ -77,38 +80,41 @@ Your space will be created and you will be taken into your new space. You should
 
 ## Step 3: Create a Data Connect Service
 
- <img src="./media/Step3-image-1.png" />
+<img src="./media/Step3-image-1.png" />
+
 1. Select the "Catalog" menu at the top of the Bluemix home page.  
 2. Select the "Data and Analytics" category from the categories on the left.  
 3. Select the “Data Connect” service from the list of services on the right.  
 
- <img src="./media/Step3-image-2.png" />
+<img src="./media/Step3-image-2.png" />
+
 4. Enter "Data Connect” for the Service name.  
 5. Enter “Data Connect” for the Credential name.  
 6. Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
 7. Select the the "CREATE" button. The service will be created and the launch page is displayed.  
 
- <img src="./media/Step3-image-3.png" />
+<img src="./media/Step3-image-3.png" />
+
 8. Select the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
 
 The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
 > **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
 
-<img src="./media/Step3-image-4.png" />
+<img src="./media/Step3-image-4.png"/>
 1. Select the menu control button. The menu will disappear. Select it again and the menu will reappear.  
 2. Select the Activities menu item. It will take you to the Activities section of the interface.  
 3. Select the Data Connect service name to get back to the home page.
 
 ## Step 4: Create a Watson Analytics Connection
 
-<img src="./media/Step4-image-1.png" />
+<img src="./media/Step4-image-1.png"/>
 1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the right.  
  
-<img src="./media/Step4-image-2.png" />
+<img src="./media/Step4-image-2.png"/>
 2. Select the “IBM Watson Analytics” connector from the list of supported connectors.
 
-<img src="./media/Step4-image-3.png" />
+<img src="./media/Step4-image-3.png"/>
 3. Enter "Watson Analytics" for the Connection name.  
 4. Enter "My Watson Analytic Account" for the Description.  
 5. Select the the "Create Connection" button.
@@ -117,18 +123,18 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 If you have a Watson Analytics account with the same ID and password as your Bluemix account it will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
 
-<img src="./media/Step4-image-4.png" />
+<img src="./media/Step4-image-4.png"/>
 
 If successful, you will receive a message that “The connection Watson Analytics was created.”
 
-<img src="./media/Step4-image-5.png" />
+<img src="./media/Step4-image-5.png"/>
 
 ## Step 5: Import the Source File
 
-<img src="./media/Step5-image-1.png" />  
+<img src="./media/Step5-image-1.png"/>  
 1.  Select the “File Storage” menu item from the left hand side menu.
 
-<img src="./media/Step5-image-2.png" />  
+<img src="./media/Step5-image-2.png"/>  
 2.  Select the “File Storage” menu item from the left hand side menu.
 
 <img src="./media/Step5-image-3.png" />  
