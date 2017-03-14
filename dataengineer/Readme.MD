@@ -61,20 +61,20 @@ Step | Description
 
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
- <img src="./media/Step1-image-1.png"/>
+<img src="./media/Step1-image-1.png"/>
 
-1.  Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.
+1. Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.
 
 ## Step 2: Create a Bluemix Space
 
 <img src="./media/Step2-image-1.png"/>  
 
-1.  Select the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
+1. Select the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
 
   <img src="./media/Step2-image-2.png"/>
 
-2.  Enter “Watson Data Platform” for the space name.  
-3.  Select the “Create” button.  
+2. Enter “Watson Data Platform” for the space name.  
+3. Select the “Create” button.  
 
 Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
