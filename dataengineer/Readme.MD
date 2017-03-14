@@ -1,4 +1,4 @@
-##Hands on Lab - Data Engineer
+## Hands on Lab - Data Engineer
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DEE2E.png">](https://github.com/ibmdataworks/datafirst/tree/master/dataengineer)
 
 As a Data Engineer, you are constantly challenged with the expediated task of delivering quality, trusted data to business users, data scientists and application developers. Time is always of the essence, so you need the ablity to quickly and easily find, access, combine, cleanse, standardize and prepare data and then deliver it to those who need it when they need it in support of business analytical and application use cases. 
@@ -20,7 +20,7 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 *	Executing and Monitoring Data Activities
 * Persiting data into Watson Analytics
 
-##Before You Begin
+## Before You Begin
 
 > This lab is done on the web using Bluemix, IBM’s Cloud Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It also uses a supplied Excel file as the source data store. Perform the following steps before you proceed any further:
 
@@ -40,11 +40,11 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
   >
   > Click on the “TRY IT FOR FREE” button. You have the option to click on “View pricing and buy” from the next screen. Watson Analytics provides 2 paid editions “Plus” and “Professional” with monthly license charges of $30 and $80, with included storage of 2GB and 100GB respectively. For now, you will go with the “Free” license and click on “Try free edition”.
 
-##Workflow
+## Workflow
 
 > On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions and demonstrates the capabilities of the Bluemix Data Connect cloud service. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
 
-###Lab Steps
+### Lab Steps
 
 Step | Description
 ------------ | -------------
@@ -57,14 +57,14 @@ Step | Description
 7	| Complete the Data Activity
 8 | Validate the Results
 
-##Step 1: Login to Bluemix
+## Step 1: Login to Bluemix
 
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
  <img src="./media/Step1-image-1.png" />
 1.  Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.
 
-##Step 2: Create a Bluemix Space
+## Step 2: Create a Bluemix Space
 
  <img src="./media/Step2-image-1.png" />  
 1.  Select the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
@@ -75,7 +75,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
-##Step 3: Create a Data Connect Service
+## Step 3: Create a Data Connect Service
 
  <img src="./media/Step3-image-1.png" />
 1. Select the "Catalog" menu at the top of the Bluemix home page.  
@@ -100,7 +100,7 @@ The Data Connect user interface provides easy access to all functions from a mai
 2. Select the Activities menu item. It will take you to the Activities section of the interface.  
 3. Select the Data Connect service name to get back to the home page.
 
-##Step 4: Create a Watson Analytics Connection
+## Step 4: Create a Watson Analytics Connection
 
 <img src="./media/Step4-image-1.png" />
 1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the right.  
@@ -123,7 +123,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 <img src="./media/Step4-image-5.png" />
 
-##Step 5: Import the Source File
+## Step 5: Import the Source File
 
 <img src="./media/Step5-image-1.png" />  
 1.  Select the “File Storage” menu item from the left hand side menu.
@@ -136,7 +136,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 4. Select the "Data and Analytics" category from the categories on the left.  
 5. Select the “Data Connect” service from the list of services on the right.
 
-##Step 6: Refine the Data
+## Step 6: Refine the Data
 
 <img src="./media/Step6-image-1.png" />  
 1.  Select the “Refine & Copy” menu item from the left side menu.
@@ -146,8 +146,8 @@ If successful, you will receive a message that “The connection Watson Analytic
 3. Select the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
 4. Select the the “Refine Data” button.
 
-##Step 9: Complete the Data Activity
+## Step 9: Complete the Data Activity
 
-##Step 10: Validate the Results
+## Step 10: Validate the Results
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
