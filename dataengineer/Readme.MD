@@ -102,6 +102,7 @@ The Data Connect user interface provides easy access to all functions from a mai
 > **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
 
 <img src="./media/Step3-image-4.png"/>
+
 1. Select the menu control button. The menu will disappear. Select it again and the menu will reappear.  
 2. Select the Activities menu item. It will take you to the Activities section of the interface.  
 3. Select the Data Connect service name to get back to the home page.
@@ -109,12 +110,15 @@ The Data Connect user interface provides easy access to all functions from a mai
 ## Step 4: Create a Watson Analytics Connection
 
 <img src="./media/Step4-image-1.png"/>
+
 1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the right.  
  
 <img src="./media/Step4-image-2.png"/>
+
 2. Select the “IBM Watson Analytics” connector from the list of supported connectors.
 
 <img src="./media/Step4-image-3.png"/>
+
 3. Enter "Watson Analytics" for the Connection name.  
 4. Enter "My Watson Analytic Account" for the Description.  
 5. Select the the "Create Connection" button.
@@ -132,12 +136,15 @@ If successful, you will receive a message that “The connection Watson Analytic
 ## Step 5: Import the Source File
 
 <img src="./media/Step5-image-1.png"/>  
+
 1.  Select the “File Storage” menu item from the left hand side menu.
 
 <img src="./media/Step5-image-2.png"/>  
+
 2.  Select the “File Storage” menu item from the left hand side menu.
 
 <img src="./media/Step5-image-3.png" />  
+
 3. Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.xlsx".  
 4. Select the "Data and Analytics" category from the categories on the left.  
 5. Select the “Data Connect” service from the list of services on the right.
@@ -145,9 +152,11 @@ If successful, you will receive a message that “The connection Watson Analytic
 ## Step 6: Refine the Data
 
 <img src="./media/Step6-image-1.png" />  
+
 1.  Select the “Refine & Copy” menu item from the left side menu.
 
 <img src="./media/Step6-image-2.png" />  
+
 2. Select the “Files” section from Connections menu.  
 3. Select the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
 4. Select the the “Refine Data” button.
