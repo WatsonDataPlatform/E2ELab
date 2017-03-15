@@ -179,19 +179,19 @@ The object menu on the right simplifies the navigation process and provides easy
  
 ### Review Column Metrics
 
-The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
-
 <img src="./media/Step6-image-5.png" />
+
+The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
 
 1.	Select the “Toggle Metrics” button, the far right button on the shaper tool bar.
 
 
-3.	Select one of the bars in the bar graph of the CUST_ID column. The column will become selected.
-4.	Notice the cardinality statistic displayed for the value in the graph you selected. 
-5.	Notice that the Details section of the object menu changes to the CUST_ID column details.
-6.	Place your mouse over the High Quality text of the ADDRESS1 column. You can do this for any column in the view.
-7.	Select the “More information” link to get a more detailed explanation of the exception.
-8.	Select the Toggle Metrics button on the tool bar to get back to the data view.
+2.	Select one of the bars in the bar graph of the CUST_ID column. The column will become selected.
+3.	Notice the cardinality statistic displayed for the value in the graph you selected. 
+4.	Notice that the Details section of the object menu changes to the CUST_ID column details.
+5.	Place your mouse over the High Quality text of the ADDRESS1 column. You can do this for any column in the view.
+6.	Select the “More information” link to get a more detailed explanation of the exception.
+7.	Select the Toggle Metrics button on the tool bar to get back to the data view.
 
 
 ## Step 9: Complete the Data Activity
