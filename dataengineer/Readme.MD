@@ -137,11 +137,11 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 <img src="./media/Step5-image-1.png"/>  
 
-1.  Select the “File Storage” menu item from the left hand side menu.
+1. Select the “File Storage” menu item from the left hand side menu.
 
 <img src="./media/Step5-image-2.png"/>  
 
-2.  Select the “File Storage” menu item from the left hand side menu.
+2. Select the “File Storage” menu item from the left hand side menu.
 
 <img src="./media/Step5-image-3.png" />  
 
@@ -153,7 +153,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 <img src="./media/Step6-image-1.png" />  
 
-1.  Select the “Refine & Copy” menu item from the left side menu.
+1. Select the “Refine & Copy” menu item from the left side menu.
 
 <img src="./media/Step6-image-2.png" />  
 
