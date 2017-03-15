@@ -161,6 +161,38 @@ If successful, you will receive a message that “The connection Watson Analytic
 3. Select the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
 4. Select the the “Refine Data” button.
 
+You are brought into the Data Connect shaper. The first file, CUSTOMERS.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the content and quality of the data before you begin refining it. 
+
+> **Notice (highlighted above) that the quality score is in the top right corner of the shaper and the file names are at the bottom of the shaper.
+ 
+### Review Quality and Content
+
+The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
+
+1.	Select the menu visibility icon in the top left hand corner to hide the main menu.
+2.	Select the Customers.csv file to bring it into context and to the forefront.
+3.	Select the Details section for the CUSTOMERS.csv file to review quality and content information.
+4.	Scroll down to see all of the information provided.
+5.	Select the ORDERS.csv file and scroll down and review its quality score and “Details”.
+6.	Select the SALES.csv file and scroll down and review its quality score and “Details”.
+
+ 
+### Review Column Metrics
+
+The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
+
+1.	Select the CUSTOMERS.csv file to bring it into context and to the forefront.
+2.	Select the “Toggle Metrics” button, the first button on the left on the shaper tool bar.
+
+
+3.	Select one of the bars in the bar graph of the CUST_ID column. The column will become selected.
+4.	Notice the cardinality statistic displayed for the value in the graph you selected. 
+5.	Notice that the Details section of the object menu changes to the CUST_ID column details.
+6.	Place your mouse over the High Quality text of the ADDRESS1 column. You can do this for any column in the view.
+7.	Select the “More information” link to get a more detailed explanation of the exception.
+8.	Select the Toggle Metrics button on the tool bar to get back to the data view.
+
+
 ## Step 9: Complete the Data Activity
 
 ## Step 10: Validate the Results
