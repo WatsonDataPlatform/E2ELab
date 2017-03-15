@@ -201,8 +201,9 @@ The metrics view provides detailed quality and content metrics at the column lev
 <img src="./media/Step6-image-7.png" />
 
 1.	Select the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
-2.	Select the "Organize" section in the object menu on the right.
-3.	Select the "Change schema" operation in the "Organize" section.
+2. Select the Operations section icon on the right panel.
+3.	Select the "Organize" menu from the object menu on the right.
+4.	Select the "Change schema" operation from the "Organize" menu.
 
 ## Step 9: Complete the Data Activity
 
