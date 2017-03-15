@@ -196,6 +196,14 @@ The metrics view provides detailed quality and content metrics at the column lev
 5.	Select the “More information” link to get a more detailed explanation of the exception.
 6.	Select the Toggle Metrics button on the tool bar to get back to the data view.
 
+### Cleanse the Data
+
+<img src="./media/Step6-image-7.png" />
+
+1.	Select the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
+2.	Select the "Organize" section in the object menu on the right.
+3.	Select the "Change schema" operation in the "Organize" section.
+
 ## Step 9: Complete the Data Activity
 
 ## Step 10: Validate the Results
