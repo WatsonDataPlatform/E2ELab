@@ -161,13 +161,15 @@ If successful, you will receive a message that “The connection Watson Analytic
 3. Select the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
 4. Select the the “Refine Data” button.
 
-You are brought into the Data Connect shaper. The first file, CUSTOMERS.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the content and quality of the data before you begin refining it.
+<img src="./media/Step6-image-3.png" />
 
-<img src="./media/Step6-image-1.png" />
+You are brought into the Data Connect shaper. The file, Great Outdoor Customer Orders.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the content and quality of the data before you begin refining it.
 
 > **Notice** (highlighted above) that the quality score is in the top right corner of the shaper and the file names are at the bottom of the shaper.
  
 ### Review Quality and Content
+
+<img src="./media/Step6-image-4.png" />
 
 The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
 
