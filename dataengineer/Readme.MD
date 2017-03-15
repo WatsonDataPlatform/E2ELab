@@ -16,7 +16,7 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 * Creating and Working with the Bluemix Data Connect service
 *	Creating and Working with Bluemix Data Connect Connections
 *	Visualizing and Understanding Data Quality and Content
-*	Preparing and Standardizing Data
+*	Preparing and Transforming Data
 *	Executing and Monitoring Data Activities
 * Persiting data into Watson Analytics
 
@@ -196,7 +196,7 @@ The metrics view provides detailed quality and content metrics at the column lev
 5.	Select the “More information” link to get a more detailed explanation of the exception.
 6.	Select the Toggle Metrics button on the tool bar to get back to the data view.
 
-### Cleanse the Data
+### Prepare the Data
 
 <img src="./media/Step6-image-7.png" />
 
@@ -255,7 +255,7 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 > You should see that you have performed 6 operations; The 4 columns you renamed and the 2 Gender column changes with the last operation changing "F" to "Female".
 
-3. Select the "Next" button in the top right corner to move onto the next step, we are finishined cleansing the data.
+3. Select the "Next" button in the top right corner to move onto the next step, we are finishined preparing the data.
 
 ## Step 9: Complete and Run the Data Activity
 
