@@ -24,9 +24,9 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 
 > This lab is done on the web using Bluemix, IBM’s Cloud Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It also uses a supplied Excel file as the source data store. Perform the following steps before you proceed any further:
 
-1. Download the Great Outdoor Customer Orders Excel file from the github.com location below and save the file to a location of your choice on your workstation:
+1. Download the Great Outdoor Customer Orders CSV file from the github.com location below and save the file to a location of your choice on your workstation:
 
- > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.xlsx
+ > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
 
 2. You will need a Bluemix account. If you don't have an account, click on the URL below to create one:
 
@@ -145,7 +145,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 <img src="./media/Step5-image-3.png" />  
 
-3. Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.xlsx".  
+3. Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.csv".  
 4. Select the "Data and Analytics" category from the categories on the left.  
 5. Select the “Data Connect” service from the list of services on the right.
 
