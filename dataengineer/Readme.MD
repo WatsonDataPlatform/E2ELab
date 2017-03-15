@@ -250,9 +250,10 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 > You can review the history of your shaping actions at any time by invoking the History view. You can also remove and restore actions.
  
-1.	Select the "History" button from the right side panel to view the history of the activity operations you performed. You should see that you have performed 6 operations; The 4 columns you renamed and the 2 Gender column changes with the last operation changing "F" to "Female".
- 
+1. Select the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
+2.	Select the "History" button from the right side panel to view the history of your activity operations.
 
+> You should see that you have performed 6 operations; The 4 columns you renamed and the 2 Gender column changes with the last operation changing "F" to "Female".
 
 ## Step 9: Complete and Run the Data Activity
 
