@@ -207,13 +207,16 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 <img src="./media/Step6-image-8.png" />
 
-1.	Hover over the name area of the PRODUCT_LINE column and Select the edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE with no underscores.
-2. Hover over the name area of the PRODUCT_TYPE column and Select the edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE with no underscores.
-3. Hover over the name area of the CUST_ORDER_NUMBER column and Select the edit icon to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER with no underscores.
-4. Hover over the name area of the MARITAL_STATUS column and Select the edit icon to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS with no underscores.
-5.	Select the "Apply" button at the bottom of the list of columns.
+1.	Hover over the name area of the PRODUCT_LINE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE with no underscores.
+2. Hover over the name area of the PRODUCT_TYPE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE with no underscores.
+3. Hover over the name area of the CUST_ORDER_NUMBER column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER with no underscores.
+4. Hover over the name area of the MARITAL_STATUS column and Select the pencil edit icon to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS with no underscores.
 
 <img src="./media/Step6-image-9.png" />
+
+> **Notice** that the column names have been changed and that each column name you changed has an edit icon (looks like a pencil) next to the column name to indicate that is has been edited.
+
+5.	Select the "Apply" button at the bottom of the list of columns.
 
 ## Step 9: Complete the Data Activity
 
