@@ -187,7 +187,7 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 <img src="./media/Step6-image-6.png" />
 
-2.	Select the bars PRODUCT_LINE column. The column will bee highlighted and brought to the forefront.
+2.	Select the bars PRODUCT_LINE column - The column is highlighted and brought to the forefront.
 3.	Notice the Details section of the object menu changes to the PRODUCT_LINE column details.
 4.	Place your mouse over the High Quality text of the PRODUCT_LINE column.
 
