@@ -201,7 +201,7 @@ The metrics view provides detailed quality and content metrics at the column lev
 <img src="./media/Step6-image-7.png" />
 
 1.	Select the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
-2. Select the Operations section from the right side panel.
+2. Select the "Operations" button from the right side panel.
 3.	Select the "Organize" menu from the object operations menu.
 4.	Select the "Change schema" operation from the "Organize" menu.
 
@@ -218,7 +218,43 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 5.	Select the "Apply" button at the bottom of the list of columns.
 
-## Step 9: Complete the Data Activity
+<img src="./media/Step6-image-10.png" />
+
+1.	Select the "Gender" column in the grid.
+2. Select the "String" menu from the object operations menu.
+4.	Select the "Replace substring" operation from the "String" menu.
+
+<img src="./media/Step6-image-11.png" />
+
+4.	Enter "M" (upper case and without quotes) in the "From Text:" field.
+5. Enter "MALE" (upper case and without quotes) in the "To Text:" field.
+6. Select the "Apply" button at the bottom of the operation panel.
+
+<img src="./media/Step6-image-12.png" />
+
+7.	Select the "Replace substring" operation from the "String" menu.
+
+<img src="./media/Step6-image-13.png" />
+
+8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
+9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
+10. Select the "Apply" button at the bottom of the operation panel.
+
+<img src="./media/Step6-image-14.png" />
+
+> **Notice** that the values have been changed and that "M" is now "MALE" and "F" is now "FEMALE".
+
+### Review History
+
+<img src="./media/Step6-image-15.png" />
+
+> You can review the history of your shaping actions at any time by invoking the History view. You can also remove and restore actions.
+ 
+1.	Select the "History" button from the right side panel to view the history of the activity operations you performed. You should see that you have performed 6 operations; The 4 columns you renamed and the 2 Gender column changes with the last operation changing "F" to "Female".
+ 
+
+
+## Step 9: Complete and Run the Data Activity
 
 ## Step 10: Validate the Results
 
