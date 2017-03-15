@@ -123,7 +123,7 @@ The Data Connect user interface provides easy access to all functions from a mai
 4. Enter "My Watson Analytic Account" for the Description.  
 5. Select the the "Create Connection" button.
 
-> **Note** – Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix ID and password to log into Watson Analytics to authenticate you. It will launch a new browser session and attempt to validate your credentials.
+> **Note** Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix ID and password to log into Watson Analytics to authenticate you. It will launch a new browser session and attempt to validate your credentials.
 
 If you have a Watson Analytics account with the same ID and password as your Bluemix account it will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
 
@@ -161,9 +161,11 @@ If successful, you will receive a message that “The connection Watson Analytic
 3. Select the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
 4. Select the the “Refine Data” button.
 
-You are brought into the Data Connect shaper. The first file, CUSTOMERS.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the content and quality of the data before you begin refining it. 
+You are brought into the Data Connect shaper. The first file, CUSTOMERS.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the content and quality of the data before you begin refining it.
 
-> **Notice (highlighted above) that the quality score is in the top right corner of the shaper and the file names are at the bottom of the shaper.
+<img src="./media/Step6-image-1.png" />
+
+> **Notice** (highlighted above) that the quality score is in the top right corner of the shaper and the file names are at the bottom of the shaper.
  
 ### Review Quality and Content
 
