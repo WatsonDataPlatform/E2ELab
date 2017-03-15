@@ -255,6 +255,8 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 > You should see that you have performed 6 operations; The 4 columns you renamed and the 2 Gender column changes with the last operation changing "F" to "Female".
 
+3. Select the "Next" button in the top right corner to move onto the next step, we are finishined cleansing the data.
+
 ## Step 9: Complete and Run the Data Activity
 
 ## Step 10: Validate the Results
