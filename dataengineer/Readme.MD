@@ -174,19 +174,16 @@ You are brought into the Data Connect shaper. The file, Great Outdoor Customer O
 The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
 
 1.	Select the menu visibility icon in the top left hand corner to hide the main menu.
-2.	Select the Customers.csv file to bring it into context and to the forefront.
-3.	Select the Details section for the CUSTOMERS.csv file to review quality and content information.
-4.	Scroll down to see all of the information provided.
-5.	Select the ORDERS.csv file and scroll down and review its quality score and “Details”.
-6.	Select the SALES.csv file and scroll down and review its quality score and “Details”.
-
+2.	Select the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
+3.	Scroll down to see all of the information provided.
  
 ### Review Column Metrics
 
 The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
 
-1.	Select the CUSTOMERS.csv file to bring it into context and to the forefront.
-2.	Select the “Toggle Metrics” button, the first button on the left on the shaper tool bar.
+<img src="./media/Step6-image-5.png" />
+
+1.	Select the “Toggle Metrics” button, the far right button on the shaper tool bar.
 
 
 3.	Select one of the bars in the bar graph of the CUST_ID column. The column will become selected.
