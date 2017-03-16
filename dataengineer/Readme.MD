@@ -161,7 +161,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step6-image-03.png" />  
 
-3. **Click into** the name area and enter a name of "Data Engineer Lab" (without quotes).  
+3. **Click into** the name area and **Enter** a name of "Data Engineer Lab" (without quotes).  
 4. **Select** the small check mark button next to the Activity name you just entered to save the new name.  
 
 <img src="./media/Step6-image-04.png" />  
