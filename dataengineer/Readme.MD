@@ -270,44 +270,38 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 <img src="./media/Step7-image-1.png" />
 
-1.	Select the "Gender" column in the grid.
-2. Select the "String" menu from the object operations menu.
-4.	Select the "Replace substring" operation from the "String" menu.
+1.	Select the "Watson Analytics" connection you created earlier from the list of connections as the target.
+2. Select the "Run" button in the top right corner to run the data activity.
 
 <img src="./media/Step7-image-2.png" />
 
-4.	Enter "M" (upper case and without quotes) in the "From Text:" field.
-5. Enter "MALE" (upper case and without quotes) in the "To Text:" field.
-6. Select the "Apply" button at the bottom of the operation panel.
+> You will see a message that "Your activity is running"
+
+3.	Select the "X" on the message to close the message dialog.
+4. Select the "View Activity Status" button on the toolbar.
 
 <img src="./media/Step7-image-3.png" />
 
-7.	Select the "Replace substring" operation from the "String" menu.
+5.	Select the "Refresh" button (looks like an arrow to the right) on the toolbar of the Activity Status monitor multiple times to get an update on the Activities progress. Continue refreshing the status until you see a 100% Completed status.
 
 <img src="./media/Step7-image-4.png" />
 
-8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
-9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
-10. Select the "Apply" button at the bottom of the operation panel.
-
-<img src="./media/Step7-image-5.png" />
-
-8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
-9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
-10. Select the "Apply" button at the bottom of the operation panel.
+6.	Select the "X" on the Activity Status monitor window to close the window.
+7. Select the menu visibility button on the far left side to bring back the main menu on the left.
 
 ## Step 8: Validate the Results
 
 <img src="./media/Step8-image-1.png" />
 
-8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
-9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
-10. Select the "Apply" button at the bottom of the operation panel.
+1. Select the ellipse in the top right hand corner of the activity. Hover over each icon and you will see which functions you can perform; Details, Delete, Schedule, Run and Edit.
+2.	Select the "Details" function that looks like a page in a book.
 
 <img src="./media/Step8-image-2.png" />
 
-8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
-9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
-10. Select the "Apply" button at the bottom of the operation panel.
+3. **Select** the arrow next to "View 6 Actions" in the Activity Input section.
+
+> **Notice** That the 6 operations you performed on the dataset were implemented prior to the data being copied to the target. Also notice in the Activity Output section that the Selected Target was Watson Analytics and that a file named "Great Outdoor Customer Orders.csv" was written to the target. Data Connect copies the dataset to Watson Analytics and registers the dataset in your Watson Analytics account. This dataset will appear on your Watson Analytics home page by the same name.
+
+4.	**Select** the "Close" button at the top of the Activity Details section to close the Activity Details.
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
