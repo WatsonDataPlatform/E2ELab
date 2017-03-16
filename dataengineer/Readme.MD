@@ -180,78 +180,78 @@ You are brought into the Data Connect shaper. The file, Great Outdoor Customer O
 
 <img src="./media/Step6-image-06.png" />
 
-The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
+> The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
 
-1.	Select the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
-2.	Scroll down to see all of the information provided.
-3.	Select the menu visibility icon in the top left hand corner to hide the main menu.
+1.	**Select** the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
+2.	**Scroll down** to see all of the information provided.
+3.	**Select** the menu visibility icon in the top left hand corner to hide the main menu.
  
 ### Review Column Metrics
 
 <img src="./media/Step6-image-07.png" />
 
-The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
+> The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
 
-1.	Select the “Toggle Metrics” button, the far right button on the shaper tool bar.
+1.	**Select** the “Toggle Metrics” button, the far right button on the shaper tool bar.
 
 <img src="./media/Step6-image-08.png" />
 
-2.	Select the bars PRODUCT_LINE column - The column is highlighted and brought to the forefront.
-3.	Notice the Details section of the object menu changes to the PRODUCT_LINE column details.
-4.	Place your mouse over the High Quality text of the PRODUCT_LINE column.
+2.	**Select** the bars PRODUCT_LINE column - The column is highlighted and brought to the forefront.
+3.	**Notice** the Details section of the object menu changes to the PRODUCT_LINE column details.
+4.	**Place your mouse** over the High Quality text of the PRODUCT_LINE column.
 
 > **Note** You can do this for any column in the shaper.
 
-5.	Select the “More information” link to get a more detailed explanation of the exception.
-6.	Select the Toggle Metrics button on the tool bar to get back to the data view.
+5.	**Select** the “More information” link to get a more detailed explanation of the exception.
+6.	**Select** the "Toggle Metrics" button on the tool bar to get back to the data view.
 
 ### Prepare the Data
 
 <img src="./media/Step6-image-09.png" />
 
-1.	Select the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
-2. Select the "Operations" button from the right side panel.
-3.	Select the "Organize" menu from the object operations menu.
-4.	Select the "Change schema" operation from the "Organize" menu.
+1.	**Select** the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
+2. **Select** the "Operations" button from the right side panel.
+3.	**Select** the "Organize" menu from the object operations menu.
+4.	**Select** the "Change schema" operation from the "Organize" menu.
 
 <img src="./media/Step6-image-10.png" />
 
-1.	Hover over the name area of the PRODUCT_LINE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE with no underscores.
-2. Hover over the name area of the PRODUCT_TYPE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE with no underscores.
-3. Hover over the name area of the CUST_ORDER_NUMBER column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER with no underscores.
-4. Hover over the name area of the MARITAL_STATUS column and Select the pencil edit icon to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS with no underscores.
+1.	**Hover** over the name area of the PRODUCT_LINE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE with no underscores.
+2. **Hover** over the name area of the PRODUCT_TYPE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE with no underscores.
+3. **Hover** over the name area of the CUST_ORDER_NUMBER column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER with no underscores.
+4. **Hover** over the name area of the MARITAL_STATUS column and Select the pencil edit icon to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS with no underscores.
 
 <img src="./media/Step6-image-11.png" />
 
 > **Notice** that the column names have been changed and that each column name you changed has an edit icon (looks like a pencil) next to the column name to indicate that is has been edited.
 
-5.	Select the "Apply" button at the bottom of the list of columns.
+5.	**Select** the "Apply" button at the bottom of the list of columns.
 
 <img src="./media/Step6-image-12.png" />
 
-1.	Select the "Gender" column in the grid.
-2. Select the "String" menu from the object operations menu.
-4.	Select the "Replace substring" operation from the "String" menu.
+1.	**Select** the "Gender" column in the grid.
+2. **Select** the "String" menu from the object operations menu.
+4.	**Select** the "Replace substring" operation from the "String" menu.
 
 <img src="./media/Step6-image-13.png" />
 
-4.	Enter "M" (upper case and without quotes) in the "From Text:" field.
-5. Enter "MALE" (upper case and without quotes) in the "To Text:" field.
-6. Select the "Apply" button at the bottom of the operation panel.
+4.	**Enter** "M" (in upper case and without quotes) in the "From Text:" field.
+5. **Enter** "MALE" (in upper case and without quotes) in the "To Text:" field.
+6. **Select** the "Apply" button at the bottom of the operation panel.
 
 <img src="./media/Step6-image-14.png" />
 
-7.	Select the "Replace substring" operation from the "String" menu.
+7.	**Select** the "Replace substring" operation from the "String" menu.
 
 <img src="./media/Step6-image-15.png" />
 
-8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
-9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
-10. Select the "Apply" button at the bottom of the operation panel.
+8.	**Enter** "F" (in upper case and without quotes) in the "From Text:" field.
+9. **Enter** "FEMALE" (in upper case and without quotes) in the "To Text:" field.
+10. **Select** the "Apply" button at the bottom of the operation panel.
 
 <img src="./media/Step6-image-16.png" />
 
-> **Notice** that the values have been changed and that "M" is now "MALE" and "F" is now "FEMALE".
+> **Notice** that the Gender column values have been changed and that "M" is now "MALE" and "F" is now "FEMALE".
 
 ### Review History
 
@@ -259,48 +259,48 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 > You can review the history of your shaping actions at any time by invoking the History view. You can also remove and restore actions.
  
-1. Select the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
-2.	Select the "History" button from the right side panel to view the history of your activity operations.
+1. **Select** the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
+2.	**Select** the "History" button from the right side panel to view the history of your activity operations.
 
 > You should see that you have performed 6 operations; The 4 columns you renamed and the 2 Gender column changes with the last operation changing "F" to "Female".
 
-3. Select the "Next" button in the top right corner to move onto the next step, we are finishined preparing the data.
+3. **Select** the "Next" button in the top right corner to move onto the next step.
 
 ## Step 7: Complete and Run the Data Activity
 
 <img src="./media/Step7-image-1.png" />
 
-1.	Select the "Watson Analytics" connection you created earlier from the list of connections as the target.
-2. Select the "Run" button in the top right corner to run the data activity.
+1.	**Select** the "Watson Analytics" connection you created earlier from the list of connections as the target.
+2. **Select** the "Run" button in the top right corner to run the data activity.
 
 <img src="./media/Step7-image-2.png" />
 
 > You will see a message that "Your activity is running"
 
-3.	Select the "X" on the message to close the message dialog.
-4. Select the "View Activity Status" button on the toolbar.
+3.	**Select** the "X" on the message to close the message dialog.
+4. **Select** the "View Activity Status" button on the toolbar.
 
 <img src="./media/Step7-image-3.png" />
 
-5.	Select the "Refresh" button (looks like an arrow to the right) on the toolbar of the Activity Status monitor multiple times to get an update on the Activities progress. Continue refreshing the status until you see a 100% Completed status.
+5.	**Select** the "Refresh" button (looks like an arrow to the right) on the toolbar of the Activity Status monitor multiple times to get an update on the Activities progress. Continue refreshing the status until you see a 100% Completed status.
 
 <img src="./media/Step7-image-4.png" />
 
-6.	Select the "X" on the Activity Status monitor window to close the window.
-7. Select the menu visibility button on the far left side to bring back the main menu on the left.
+6.	**Select** the "X" on the Activity Status monitor window to close the window.
+7. **Select** the menu visibility button on the far left side to bring back the main menu on the left.
 
 ## Step 8: Validate the Results
 
 <img src="./media/Step8-image-1.png" />
 
-1. Select the ellipse in the top right hand corner of the activity. Hover over each icon and you will see which functions you can perform; Details, Delete, Schedule, Run and Edit.
-2.	Select the "Details" function that looks like a page in a book.
+1. **Select** the ellipse in the top right hand corner of the activity. Hover over each icon and you will see which functions you can perform; Details, Delete, Schedule, Run and Edit.
+2.	**Select** the "Details" function that looks like a page in a book.
 
 <img src="./media/Step8-image-2.png" />
 
 3. **Select** the arrow next to "View 6 Actions" in the Activity Input section.
 
-> **Notice** That the 6 operations you performed on the dataset were implemented prior to the data being copied to the target. Also notice in the Activity Output section that the Selected Target was Watson Analytics and that a file named "Great Outdoor Customer Orders.csv" was written to the target. Data Connect copies the dataset to Watson Analytics and registers the dataset in your Watson Analytics account. This dataset will appear on your Watson Analytics home page by the same name.
+> **Notice** That the 6 operations you performed on the dataset were implemented prior to the data being copied to the target. Also notice in the Activity Output section that the Selected Target was Watson Analytics and that a file named "Great Outdoor Customer Orders.csv" was written to the target. Data Connect writes the dataset to the Watson Analytics repository and then Watson Analytics registers the dataset in your Watson Analytics account. This dataset will appear on your Watson Analytics home page by the same name.
 
 4.	**Select** the "Close" button at the top of the Activity Details section to close the Activity Details.
 
