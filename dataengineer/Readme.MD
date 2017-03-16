@@ -58,7 +58,6 @@ Step | Description
 8 | Validate the Results
 
 ## Step 1: Login to Bluemix
-
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step1-image-1.png"/>
@@ -66,6 +65,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 1. Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.
 
 ## Step 2: Create a Bluemix Space
+
 
 <img src="./media/Step2-image-1.png"/>  
 
@@ -79,6 +79,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
 ## Step 3: Create a Data Connect Service
+
 
 <img src="./media/Step3-image-1.png" />
 
@@ -109,6 +110,7 @@ The Data Connect user interface provides easy access to all functions from a mai
 
 ## Step 4: Create a Watson Analytics Connection
 
+
 <img src="./media/Step4-image-1.png"/>
 
 1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the right.  
@@ -135,6 +137,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ## Step 5: Import the Source File
 
+
 <img src="./media/Step5-image-1.png"/>  
 
 1. Select the “File Storage” menu item from the left hand side menu.
@@ -148,6 +151,7 @@ If successful, you will receive a message that “The connection Watson Analytic
 3. Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.csv".  
 4. Select the "Data and Analytics" category from the categories on the left.  
 5. Select the “Data Connect” service from the list of services on the right.
+
 
 ## Step 6: Refine the Data
 
@@ -257,7 +261,8 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 3. Select the "Next" button in the top right corner to move onto the next step, we are finishined preparing the data.
 
-## Step 9: Complete and Run the Data Activity
+## Step 7: Complete and Run the Data Activity
+
 
 <img src="./media/Step6-image-16.png" />
 
@@ -299,6 +304,7 @@ The metrics view provides detailed quality and content metrics at the column lev
 9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
 10. Select the "Apply" button at the bottom of the operation panel.
 
-## Step 10: Validate the Results
+
+## Step 8: Validate the Results
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
