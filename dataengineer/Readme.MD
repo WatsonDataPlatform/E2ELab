@@ -151,26 +151,26 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ## Step 6: Refine the Data
 
-<img src="./media/Step6-image-0.png" />  
+<img src="./media/Step6-image-01.png" />  
 
 1. Select the “Refine & Copy” menu item from the left side menu.
 
-<img src="./media/Step6-image-1.png" />  
+<img src="./media/Step6-image-02.png" />  
 
 2. Hover over the name area in the top left corner and Select the edit button that looks like a pencil.
 
-<img src="./media/Step6-image-2.png" />  
+<img src="./media/Step6-image-03.png" />  
 
 3. Click into the name area and enter a name of "Data Engineer Lab" (without quotes).  
 4. Select the check mark button next to the Activity name you entered to save the new name.  
 
-<img src="./media/Step6-image-3.png" />  
+<img src="./media/Step6-image-04.png" />  
 
 5. Select the “Files” section from Connections menu.  
 6. Select the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
 7. Select the the “Refine Data” button.
 
-<img src="./media/Step6-image-4.png" />
+<img src="./media/Step6-image-05.png" />
 
 You are brought into the Data Connect shaper. The file, Great Outdoor Customer Orders.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the content and quality of the data before you begin refining it.
 
@@ -178,23 +178,23 @@ You are brought into the Data Connect shaper. The file, Great Outdoor Customer O
  
 ### Review Quality and Content
 
-<img src="./media/Step6-image-5.png" />
+<img src="./media/Step6-image-06.png" />
 
 The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
 
-1.	Select the menu visibility icon in the top left hand corner to hide the main menu.
-2.	Select the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
-3.	Scroll down to see all of the information provided.
+1.	Select the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
+2.	Scroll down to see all of the information provided.
+3.	Select the menu visibility icon in the top left hand corner to hide the main menu.
  
 ### Review Column Metrics
 
-<img src="./media/Step6-image-5.png" />
+<img src="./media/Step6-image-07.png" />
 
 The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
 
 1.	Select the “Toggle Metrics” button, the far right button on the shaper tool bar.
 
-<img src="./media/Step6-image-6.png" />
+<img src="./media/Step6-image-08.png" />
 
 2.	Select the bars PRODUCT_LINE column - The column is highlighted and brought to the forefront.
 3.	Notice the Details section of the object menu changes to the PRODUCT_LINE column details.
@@ -207,55 +207,55 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 ### Prepare the Data
 
-<img src="./media/Step6-image-7.png" />
+<img src="./media/Step6-image-09.png" />
 
 1.	Select the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
 2. Select the "Operations" button from the right side panel.
 3.	Select the "Organize" menu from the object operations menu.
 4.	Select the "Change schema" operation from the "Organize" menu.
 
-<img src="./media/Step6-image-8.png" />
+<img src="./media/Step6-image-10.png" />
 
 1.	Hover over the name area of the PRODUCT_LINE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE with no underscores.
 2. Hover over the name area of the PRODUCT_TYPE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE with no underscores.
 3. Hover over the name area of the CUST_ORDER_NUMBER column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER with no underscores.
 4. Hover over the name area of the MARITAL_STATUS column and Select the pencil edit icon to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS with no underscores.
 
-<img src="./media/Step6-image-9.png" />
+<img src="./media/Step6-image-11.png" />
 
 > **Notice** that the column names have been changed and that each column name you changed has an edit icon (looks like a pencil) next to the column name to indicate that is has been edited.
 
 5.	Select the "Apply" button at the bottom of the list of columns.
 
-<img src="./media/Step6-image-10.png" />
+<img src="./media/Step6-image-12.png" />
 
 1.	Select the "Gender" column in the grid.
 2. Select the "String" menu from the object operations menu.
 4.	Select the "Replace substring" operation from the "String" menu.
 
-<img src="./media/Step6-image-11.png" />
+<img src="./media/Step6-image-13.png" />
 
 4.	Enter "M" (upper case and without quotes) in the "From Text:" field.
 5. Enter "MALE" (upper case and without quotes) in the "To Text:" field.
 6. Select the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step6-image-12.png" />
+<img src="./media/Step6-image-14.png" />
 
 7.	Select the "Replace substring" operation from the "String" menu.
 
-<img src="./media/Step6-image-13.png" />
+<img src="./media/Step6-image-15.png" />
 
 8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
 9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
 10. Select the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step6-image-14.png" />
+<img src="./media/Step6-image-16.png" />
 
 > **Notice** that the values have been changed and that "M" is now "MALE" and "F" is now "FEMALE".
 
 ### Review History
 
-<img src="./media/Step6-image-15.png" />
+<img src="./media/Step6-image-17.png" />
 
 > You can review the history of your shaping actions at any time by invoking the History view. You can also remove and restore actions.
  
