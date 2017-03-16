@@ -173,7 +173,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 <img src="./media/Step6-image-05.png" />
 
 > You are brought into the Data Connect shaper. The file, Great Outdoor Customer Orders.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the quality and content of the dataset before you begin refining it.
-
+>
 > **Notice** (highlighted above) that the quality score is in the top right corner of the shaper and the file names are at the bottom of the shaper.
  
 ### Review Quality and Content
@@ -184,7 +184,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 1.	**Select** the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
 2.	**Scroll down** to see all of the information provided.
-3.	**Select** the menu visibility icon in the top left hand corner to hide the main menu.
+3.	**Select** the menu control button in the top left hand corner to hide the Data Connect main menu.
  
 ### Review Column Metrics
 
@@ -196,40 +196,40 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step6-image-08.png" />
 
-2.	**Select** the bars PRODUCT_LINE column - The column is highlighted and brought to the forefront.
+2.	**Select** the PRODUCT_LINE column - The column is highlighted and brought into context.
 3.	**Notice** the Details section of the object menu changes to the PRODUCT_LINE column details.
 4.	**Place your mouse** over the High Quality text of the PRODUCT_LINE column.
 
 > **Note** You can do this for any column in the shaper.
 
-5.	**Select** the “More information” link to get a more detailed explanation of the exception.
-6.	**Select** the "Toggle Metrics" button on the tool bar to get back to the data view.
+5.	**Select** the “More information” link to get a more detailed explanation of the quality exceptions.
+6.	**Select** the "Toggle Metrics" button on the shaper tool bar to get back to the data view.
 
 ### Prepare the Data
 
 <img src="./media/Step6-image-09.png" />
 
-1.	**Select** the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
+1.	**Select** the "Great Outdoor Customer Orders.csv" file to bring it into context.
 2. **Select** the "Operations" button from the right side panel.
 3.	**Select** the "Organize" menu from the object operations menu.
 4.	**Select** the "Change schema" operation from the "Organize" menu.
 
 <img src="./media/Step6-image-10.png" />
 
-1.	**Hover** over the name area of the PRODUCT_LINE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE with no underscores.
-2. **Hover** over the name area of the PRODUCT_TYPE column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE with no underscores.
-3. **Hover** over the name area of the CUST_ORDER_NUMBER column and Select the pencil edit icon to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER with no underscores.
-4. **Hover** over the name area of the MARITAL_STATUS column and Select the pencil edit icon to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS with no underscores.
+1.	**Hover over** the name area of the PRODUCT_LINE column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE replacing all underscores with spaces.
+2. **Hover over** the name area of the PRODUCT_TYPE column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE replacing all underscores with spaces.
+3. **Hover over** the name area of the CUST_ORDER_NUMBER column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER changing CUST to CUSTOMER and replacing all underscores with spaces.
+4. **Hover over** the name area of the MARITAL_STATUS column and Select the edit button that looks like a pencel to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS replacing all underscores with spaces.
 
 <img src="./media/Step6-image-11.png" />
 
-> **Notice** that the column names have been changed and that each column name you changed has an edit icon (looks like a pencil) next to the column name to indicate that is has been edited.
+> **Notice** that the column names have been changed and that each column name you changed has an edit icon next to it that looks like a pencil indicating that is has been edited.
 
 5.	**Select** the "Apply" button at the bottom of the list of columns.
 
 <img src="./media/Step6-image-12.png" />
 
-1.	**Select** the "Gender" column in the grid.
+1.	**Select** the "Gender" column in the dataset grid.
 2. **Select** the "String" menu from the object operations menu.
 4.	**Select** the "Replace substring" operation from the "String" menu.
 
@@ -257,21 +257,21 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step6-image-17.png" />
 
-> You can review the history of your shaping actions at any time by invoking the History view. You can also remove and restore actions.
+> You can review the history of your shaping actions at any time by invoking the History view. You can also undo and restore actions from the History view.
  
-1. **Select** the Great Outdoor Customer Orders.csv file to bring it into context and to the forefront.
+1. **Select** the "Great Outdoor Customer Orders.csv" file to bring it into context.
 2.	**Select** the "History" button from the right side panel to view the history of your activity operations.
 
-> You should see that you have performed 6 operations; The 4 columns you renamed and the 2 Gender column changes with the last operation changing "F" to "Female".
+> You should see that you have performed 6 operations; 4 columns were renamed and 2 Gender column changes with the last operation changing "F" to "Female".
 
-3. **Select** the "Next" button in the top right corner to move onto the next step.
+3. **Select** the "Next" button in the top right corner to move onto the next step to complete and run the activity.
 
 ## Step 7: Complete and Run the Data Activity
 
 <img src="./media/Step7-image-1.png" />
 
 1.	**Select** the "Watson Analytics" connection you created earlier from the list of connections as the target.
-2. **Select** the "Run" button in the top right corner to run the data activity.
+2. **Select** the "Run" button in the top right corner to execute the data activities recipe.
 
 <img src="./media/Step7-image-2.png" />
 
@@ -282,7 +282,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step7-image-3.png" />
 
-5.	**Select** the "Refresh" button (looks like an arrow to the right) on the toolbar of the Activity Status monitor multiple times to get an update on the Activities progress. Continue refreshing the status until you see a 100% Completed status.
+5.	**Select** the "Refresh" button that looks like an arrow pointing to the right on the toolbar of the Activity Status monitor. Continue to do this multiple times to get an update on the activities progress. Continue refreshing the status until you see a 100% Completed status.
 
 <img src="./media/Step7-image-4.png" />
 
@@ -293,15 +293,15 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step8-image-1.png" />
 
-1. **Select** the ellipse in the top right hand corner of the activity. Hover over each icon and you will see which functions you can perform; Details, Delete, Schedule, Run and Edit.
+1. **Select** the ellipse in the top right corner of the activity. *Hover over* each icon and you will see which functions you can perform; Details, Delete, Schedule, Run and Edit.
 2.	**Select** the "Details" function that looks like a page in a book.
 
 <img src="./media/Step8-image-2.png" />
 
-3. **Select** the arrow next to "View 6 Actions" in the Activity Input section.
+3. **Select** the arrow next to "View 6 Actions" in the "Activity Input" section.
 
-> **Notice** That the 6 operations you performed on the dataset were implemented prior to the data being copied to the target. Also notice in the Activity Output section that the Selected Target was Watson Analytics and that a file named "Great Outdoor Customer Orders.csv" was written to the target. Data Connect writes the dataset to the Watson Analytics repository and then Watson Analytics registers the dataset in your Watson Analytics account. This dataset will appear on your Watson Analytics home page by the same name.
+> **Notice** that the 6 operations you performed on the dataset were implemented prior to the data being written to the target. Also notice in the "Activity Output" section that the "Selected Target" was Watson Analytics and that a file named "Great Outdoor Customer Orders.csv" was written to the target. Data Connect writes the output dataset to the Watson Analytics repository and then Watson Analytics registers the dataset in your Watson Analytics account. The dataset will appear on your Watson Analytics home page by the same name.
 
-4.	**Select** the "Close" button at the top of the Activity Details section to close the Activity Details.
+4.	**Select** the "Close" button at the top of the activity Details section to close the activity Details.
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
