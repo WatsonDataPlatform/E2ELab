@@ -123,8 +123,8 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 4. **Enter** "My Watson Analytic Account" (without quotes) for the Description.  
 5. **Select** the "Create Connection" button.
 
-> **Note** Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix credentials to log into Watson Analytics to authenticate you. During authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
-
+> **Note** - Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix credentials to log into Watson Analytics to authenticate you. During authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
+>
 > If you have a Watson Analytics account that uses the same ID and password as your Bluemix account, Data Connect will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
 
 <img src="./media/Step4-image-4.png"/>
