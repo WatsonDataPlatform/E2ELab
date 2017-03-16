@@ -281,6 +281,24 @@ The metrics view provides detailed quality and content metrics at the column lev
 9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
 10. Select the "Apply" button at the bottom of the operation panel.
 
+<img src="./media/Step6-image-20.png" />
+
+8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
+9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
+10. Select the "Apply" button at the bottom of the operation panel.
+
+<img src="./media/Step6-image-21.png" />
+
+8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
+9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
+10. Select the "Apply" button at the bottom of the operation panel.
+
+<img src="./media/Step6-image-22.png" />
+
+8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
+9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
+10. Select the "Apply" button at the bottom of the operation panel.
+
 ## Step 10: Validate the Results
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
