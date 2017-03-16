@@ -268,6 +268,7 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 ## Step 7: Complete and Run the Data Activity
 
+
 <img src="./media/Step7-image-1.png" />
 
 1.	Select the "Gender" column in the grid.
