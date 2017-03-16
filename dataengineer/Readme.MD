@@ -259,29 +259,29 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 ## Step 7: Complete and Run the Data Activity
 
-<img src="./media/Step6-image-16.png" />
+<img src="./media/Step7-image-1.png" />
 
 1.	Select the "Gender" column in the grid.
 2. Select the "String" menu from the object operations menu.
 4.	Select the "Replace substring" operation from the "String" menu.
 
-<img src="./media/Step6-image-17.png" />
+<img src="./media/Step7-image-2.png" />
 
 4.	Enter "M" (upper case and without quotes) in the "From Text:" field.
 5. Enter "MALE" (upper case and without quotes) in the "To Text:" field.
 6. Select the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step6-image-18.png" />
+<img src="./media/Step7-image-3.png" />
 
 7.	Select the "Replace substring" operation from the "String" menu.
 
-<img src="./media/Step6-image-19.png" />
+<img src="./media/Step7-image-4.png" />
 
 8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
 9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
 10. Select the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step6-image-20.png" />
+<img src="./media/Step7-image-5.png" />
 
 8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
 9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
@@ -289,13 +289,13 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 ## Step 8: Validate the Results
 
-<img src="./media/Step6-image-21.png" />
+<img src="./media/Step8-image-1.png" />
 
 8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
 9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
 10. Select the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step6-image-22.png" />
+<img src="./media/Step8-image-2.png" />
 
 8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
 9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
