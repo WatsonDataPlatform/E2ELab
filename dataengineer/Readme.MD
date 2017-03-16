@@ -259,6 +259,28 @@ The metrics view provides detailed quality and content metrics at the column lev
 
 ## Step 9: Complete and Run the Data Activity
 
+<img src="./media/Step6-image-16.png" />
+
+1.	Select the "Gender" column in the grid.
+2. Select the "String" menu from the object operations menu.
+4.	Select the "Replace substring" operation from the "String" menu.
+
+<img src="./media/Step6-image-17.png" />
+
+4.	Enter "M" (upper case and without quotes) in the "From Text:" field.
+5. Enter "MALE" (upper case and without quotes) in the "To Text:" field.
+6. Select the "Apply" button at the bottom of the operation panel.
+
+<img src="./media/Step6-image-18.png" />
+
+7.	Select the "Replace substring" operation from the "String" menu.
+
+<img src="./media/Step6-image-19.png" />
+
+8.	Enter "F" (upper case and without quotes) in the "From Text:" field.
+9. Enter "FEMALE" (upper case and without quotes) in the "To Text:" field.
+10. Select the "Apply" button at the bottom of the operation panel.
+
 ## Step 10: Validate the Results
 
 >This concludes the lab. Thank you for taking the time to go through it. I hope you found it useful and you know how a better understanding of the power of the Bluemix Data Connect service and how it can help you easily put your data to work for you.
