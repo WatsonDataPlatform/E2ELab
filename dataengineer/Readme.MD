@@ -24,7 +24,7 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 
 > This lab is done from the web using Bluemix, IBM’s Cloud Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It also uses a supplied CSV file as the source data store. Please perform the following steps before you proceed any further:
 
-1. Download the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
+1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
 
@@ -63,73 +63,73 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step1-image-1.png"/>
 
-1. Select the "Log In" button. When prompted, enter your Bluemix ID and password.
+1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
 
 ## Step 2: Create a Bluemix Space
 
 <img src="./media/Step2-image-1.png"/>  
 
-1. Select the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
+1. **Select** the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
 
   <img src="./media/Step2-image-2.png"/>
 
-2. Enter “Watson Data Platform” for the space name.  
-3. Select the “Create” button.  
+2. **Enter** “Watson Data Platform” (without quotes) for the space name.  
+3. **Select** the “Create” button.  
 
-Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
+> Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
 ## Step 3: Create a Data Connect Service
 
 <img src="./media/Step3-image-1.png" />
 
-1. Select the "Catalog" menu at the top of the Bluemix home page.  
-2. Select the "Data and Analytics" category from the categories on the left.  
-3. Select the “Data Connect” service from the list of services on the right.  
+1. **Select** the "Catalog" menu at the top of the Bluemix home page.  
+2. **Select** the "Data and Analytics" category from the categories on the left.  
+3. **Click on** the “Data Connect” service from the list of services on the right.  
 
 <img src="./media/Step3-image-2.png" />
 
-4. Enter "Data Connect” for the Service name.  
-5. Enter “Data Connect” for the Credential name.  
-6. Select the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
-7. Select the the "CREATE" button. The service will be created and the launch page is displayed.  
+4. **Enter** "Data Connect” (without quotes) for the Service name.  
+5. **Enter** “Data Connect” (without quotes) for the Credential name.  
+6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
+7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.  
 
 <img src="./media/Step3-image-3.png" />
 
-8. Select the “LAUNCH” button to use Bluemix Data Connect. It will open in a new tab in your browser.
+8. **Select** the “LAUNCH” button to start using Bluemix Data Connect - It will open in a new tab in your browser.
 
-The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
+> The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
 > **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
 
 <img src="./media/Step3-image-4.png"/>
 
-1. Select the menu control button. The menu will disappear. Select it again and the menu will reappear.  
-2. Select the Activities menu item. It will take you to the Activities section of the interface.  
-3. Select the Data Connect service name to get back to the home page.
+1. **Select** the menu control button. The menu will disappear. Select it again and the menu will reappear.  
+2. **Select** the Activities menu item. It will take you to the Activities section of the interface.  
+3. **Select** the Data Connect service name to get back to the home page.
 
 ## Step 4: Create a Watson Analytics Connection
 
 <img src="./media/Step4-image-1.png"/>
 
-1. Select the “CREATE CONNECTIONS” button in the middle of the home page on the right.  
+1. **Select** the “CONNECTIONS” button in the middle of the home page on the right.  
  
 <img src="./media/Step4-image-2.png"/>
 
-2. Select the “IBM Watson Analytics” connector from the list of supported connectors.
+2. **Select** the “IBM Watson Analytics” connector from the list of supported connectors.
 
 <img src="./media/Step4-image-3.png"/>
 
-3. Enter "Watson Analytics" for the Connection name.  
-4. Enter "My Watson Analytic Account" for the Description.  
-5. Select the the "Create Connection" button.
+3. **Enter** "Watson Analytics" (without quotes) for the Connection name.  
+4. **Enter** "My Watson Analytic Account" (without quotes) for the Description.  
+5. **Select** the "Create Connection" button.
 
 > **Note** Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix credentials to log into Watson Analytics to authenticate you. During authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
 
-If you have a Watson Analytics account that uses the same ID and password as your Bluemix account, Data Connect will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
+> If you have a Watson Analytics account that uses the same ID and password as your Bluemix account, Data Connect will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
 
 <img src="./media/Step4-image-4.png"/>
 
-If successful, you will receive a message that “The connection Watson Analytics was created.”
+> If successful, you will receive a message that “The connection Watson Analytics was created.”
 
 <img src="./media/Step4-image-5.png"/>
 
@@ -137,42 +137,42 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 <img src="./media/Step5-image-1.png"/>  
 
-1. Select the “File Storage” menu item from the left hand side menu.
+1. **Select** the “File Storage” menu item from the left hand side main menu.
 
 <img src="./media/Step5-image-2.png"/>  
 
-2. Select the “File Storage” menu item from the left hand side menu.
+2. **Select** the + Plus sign at the bottom of the “File Storage” page to add files.
 
 <img src="./media/Step5-image-3.png" />  
 
-3. Navigate to the location where you stored the lab source file "Great Outdoor Customer Orders.csv".  
-4. Select the "Data and Analytics" category from the categories on the left.  
-5. Select the “Data Connect” service from the list of services on the right.
+3. **Navigate** to the location where you stored the lab source file "Great Outdoor Customer Orders.csv".  
+4. **Select** the "Great Outdoor Customer Orders.csv" file.  
+5. **Select** the “Open” button to import the file into Data Connect's object storage container.
 
 ## Step 6: Refine the Data
 
 <img src="./media/Step6-image-01.png" />  
 
-1. Select the “Refine & Copy” menu item from the left side menu.
+1. **Select** the “Refine & Copy” menu item from the left side main menu.
 
 <img src="./media/Step6-image-02.png" />  
 
-2. Hover over the name area in the top left corner and Select the edit button that looks like a pencil.
+2. **Hover over** the name area in the top left corner and **Select** the edit button that looks like a pencil.
 
 <img src="./media/Step6-image-03.png" />  
 
-3. Click into the name area and enter a name of "Data Engineer Lab" (without quotes).  
-4. Select the check mark button next to the Activity name you entered to save the new name.  
+3. **Click into** the name area and enter a name of "Data Engineer Lab" (without quotes).  
+4. **Select** the small check mark button next to the Activity name you just entered to save the new name.  
 
 <img src="./media/Step6-image-04.png" />  
 
-5. Select the “Files” section from Connections menu.  
-6. Select the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
-7. Select the the “Refine Data” button.
+5. **Select** the “Files” section from Connections menu.  
+6. **Select** the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
+7. **Select** the the “Refine Data” button.
 
 <img src="./media/Step6-image-05.png" />
 
-You are brought into the Data Connect shaper. The file, Great Outdoor Customer Orders.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the content and quality of the data before you begin refining it.
+> You are brought into the Data Connect shaper. The file, Great Outdoor Customer Orders.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the quality and content of the dataset before you begin refining it.
 
 > **Notice** (highlighted above) that the quality score is in the top right corner of the shaper and the file names are at the bottom of the shaper.
  
