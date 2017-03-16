@@ -1,13 +1,13 @@
 ## Hands on Lab - Data Engineer
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DEE2E.png">](https://github.com/watsondataplatform/e2elab/)
 
-As a Data Engineer, you are constantly challenged with the expediated task of delivering quality, trusted data to business users, data scientists and application developers. Time is always of the essence, so you need the ablity to quickly and easily find, access, combine, cleanse, standardize and prepare data and then deliver it to those who need it when they need it in support of business analytical and application use cases. 
+As a Data Engineer, you are constantly challenged with the expediated task of delivering quality, trusted data to business analytsts, data scientists and application developers. Time is always of the essence, so you need the ablity to quickly and easily find, access, prepare, cleanse and standardize data and deliver it to those who need it when they need it in support of business analytical and application use cases. 
 
-The IBM Bluemix Data Connect service, an intergral part of the Watson Data Platform, helps tackle these challenges.
+The IBM Bluemix Data Connect service, an intergral component of the Watson Data Platform, helps tackle these challenges.
 
 Bluemix Data Connect is a fully managed, self-service, data preparation and integration service which enables you to easily make data fit for use. It provides instant access to your data wherever it resides, on the cloud or on-premises. You can blend data together from multiple relevant data sources to create powerful insights and then refinine and cleanse it using a robust catalog of transformation operations and then deliver it, with confidence, to one of many supported cloud or on-premises targets.
 
-Data Connect is fully managed by IBM in the cloud, so you can sleep better at night, with Pay-as-you-go and subscription pricing options to get started quickly. It’s powered by Spark for a speedy and responsive experience and can easily integrate data across different platforms and is seamlessly integrated with Watson Analytics. Bluemix Data Connect empowers non-technical and technical users to simply put data to work.
+Data Connect is managed by IBM in the cloud, so you can sleep better at night, with Pay-as-you-go and subscription pricing options to get started quickly. It’s powered by Spark for a speedy and responsive experience and can easily integrate data across different platforms and is seamlessly integrated with Watson Analytics. Bluemix Data Connect empowers non-technical and technical users to simply put data to work.
 
 With Data Connect, Data Engineers can enable self-service data access to end users using elastic deployment through the cloud and delver the data faster while maintaining important controls such as data governance and security. This allows them to break free from routine data requests and focus on additional value for an organization such as implementing and enforcing corporate standards, security, data governance and complex requirements. Data Connect saves time and resources by reducing the effort to provision trusted data and make it fit for use.
 
@@ -22,17 +22,17 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 
 ## Before You Begin
 
-> This lab is done on the web using Bluemix, IBM’s Cloud Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It also uses a supplied Excel file as the source data store. Perform the following steps before you proceed any further:
+> This lab is done from the web using Bluemix, IBM’s Cloud Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It also uses a supplied CSV file as the source data store. Please perform the following steps before you proceed any further:
 
-1. Download the Great Outdoor Customer Orders CSV file from the github.com location below and save the file to a location of your choice on your workstation:
+1. Download the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
 
-2. You will need a Bluemix account. If you don't have an account, click on the URL below to create one:
+2. You will need a Bluemix account. If you don't have an account, click on the URL below to register for one:
 
   > https://console.ng.bluemix.net/registration
   >
-  > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of the right side panel.
+  > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of    the right side panel.
 
 3. You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
 
@@ -54,7 +54,7 @@ Step | Description
 4	| Create a Watson Analytics Connection
 5	| Import the Source Data File
 6	| Refine the Data
-7	| Complete the Data Activity
+7	| Complete the Run the Data Activity
 8 | Validate the Results
 
 ## Step 1: Login to Bluemix
@@ -123,9 +123,9 @@ The Data Connect user interface provides easy access to all functions from a mai
 4. Enter "My Watson Analytic Account" for the Description.  
 5. Select the the "Create Connection" button.
 
-> **Note** Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix ID and password to log into Watson Analytics to authenticate you. It will launch a new browser session and attempt to validate your credentials.
+> **Note** Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix credentials to log into Watson Analytics to authenticate you. During authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
 
-If you have a Watson Analytics account with the same ID and password as your Bluemix account it will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
+If you have a Watson Analytics account that uses the same ID and password as your Bluemix account, Data Connect will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
 
 <img src="./media/Step4-image-4.png"/>
 
