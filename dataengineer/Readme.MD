@@ -151,6 +151,10 @@ If successful, you will receive a message that “The connection Watson Analytic
 
 ## Step 6: Refine the Data
 
+<img src="./media/Step6-image-0.png" />  
+
+1. Select the “Refine & Copy” menu item from the left side menu.
+
 <img src="./media/Step6-image-1.png" />  
 
 1. Select the “Refine & Copy” menu item from the left side menu.
