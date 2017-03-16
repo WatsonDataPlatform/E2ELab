@@ -59,12 +59,11 @@ Step | Description
 
 ## Step 1: Login to Bluemix
 
-
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step1-image-1.png"/>
 
-1. Select the "Log In" button on the toolbar in the top right hand corner of the Bluemix home page or in the “Ready to start?” section and login to your Bluemix account by supplying your Bluemix ID and password.
+1. Select the "Log In" button. When prompted, enter your Bluemix ID and password.
 
 ## Step 2: Create a Bluemix Space
 
