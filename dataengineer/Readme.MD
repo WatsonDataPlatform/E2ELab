@@ -59,6 +59,7 @@ Step | Description
 
 ## Step 1: Login to Bluemix
 
+
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step1-image-1.png"/>
