@@ -1,11 +1,11 @@
 ## Hands on Lab - Data Engineer
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DEE2E.png">](https://github.com/watsondataplatform/e2elab/)
 
-As a Data Engineer, you are constantly challenged with the expediated task of delivering quality, trusted data to business analytsts, data scientists and application developers. Time is always of the essence, so you need the ablity to quickly and easily find, access, prepare, cleanse and standardize data and deliver it to those who need it when they need it in support of business analytical and application use cases. 
+As a Data Engineer, you are constantly challenged with the constant and expediated task of delivering quality, trusted data to business analytsts, data scientists and application developers. Time is always of the essence, so you need the ablity to quickly and easily find, access, prepare, cleanse and standardize data and deliver it to those who need it when they need it in support of business analytical and application use cases. 
 
 The IBM Bluemix Data Connect service, an intergral component of the Watson Data Platform, helps tackle these challenges.
 
-Bluemix Data Connect is a fully managed, self-service, data preparation and integration service which enables you to easily make data fit for use. It provides instant access to your data wherever it resides, on the cloud or on-premises. You can blend data together from multiple relevant data sources to create powerful insights and then refinine and cleanse it using a robust catalog of transformation operations and then deliver it, with confidence, to one of many supported cloud or on-premises targets.
+Bluemix Data Connect is a fully managed, self-service, data preparation and integration service that enables you to easily make data fit for use. It provides instant access to your data wherever it resides, on the cloud or on-premises. You can blend data together from multiple relevant data sources to create powerful insights and then refinine and cleanse it using a robust catalog of transformation operations and then deliver it, with confidence, to one of many supported cloud or on-premises targets.
 
 Data Connect is managed by IBM in the cloud, so you can sleep better at night, with Pay-as-you-go and subscription pricing options to get started quickly. It’s powered by Spark for a speedy and responsive experience and can easily integrate data across different platforms and is seamlessly integrated with Watson Analytics. Bluemix Data Connect empowers non-technical and technical users to simply put data to work.
 
@@ -13,16 +13,16 @@ With Data Connect, Data Engineers can enable self-service data access to end use
 
 This lab will demonstrate how a data engineer can easily utilize these capabilities of the Data Connect service: 
 
-* Creating and Working with the Bluemix Data Connect service
-*	Creating and Working with Bluemix Data Connect Connections
-*	Visualizing and Understanding Data Quality and Content
-*	Preparing and Transforming Data
-*	Executing and Monitoring Data Activities
+* Creating and working with the Bluemix Data Connect service
+*	Creating and working with Bluemix Data Connect connections
+*	Visualizing and understanding data quality and Content
+*	Preparing and transforming data
+*	Executing and monitoring data activities
 * Persiting data into Watson Analytics
 
 ## Before You Begin
 
-> This lab is done from the web using Bluemix, IBM’s Cloud Platform-As-a-Service and Watson Analytics, IBM’s premiere analytical SaaS. It also uses a supplied CSV file as the source data store. Please perform the following steps before you proceed any further:
+> This lab is done from the web using Bluemix, IBM’s Cloud Infrastructure and Platform As-a-Service and Watson Analytics, IBM’s premiere analytical Software-As-a-Solution. It also uses a supplied CSV file as a source dataset. Please perform the following steps before you proceed any further:
 
 1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
@@ -287,7 +287,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 <img src="./media/Step7-image-4.png" />
 
 6.	**Select** the "X" on the Activity Status monitor window to close the window.
-7. **Select** the menu visibility button on the far left side to bring back the main menu on the left.
+7. **Select** the menu control button on the far left side to bring back the Data Connect main menu.
 
 ## Step 8: Validate the Results
 
