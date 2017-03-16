@@ -97,11 +97,11 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 8. **Select** the “LAUNCH” button to start using Bluemix Data Connect - It will open in a new tab in your browser.
 
+<img src="./media/Step3-image-4.png"/>
+
 > The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
 > **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
-
-<img src="./media/Step3-image-4.png"/>
 
 1. **Select** the menu control button. The menu will disappear. Select it again and the menu will reappear.  
 2. **Select** the Activities menu item. It will take you to the Activities section of the interface.  
