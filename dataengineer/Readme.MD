@@ -42,7 +42,7 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 
 ## Workflow
 
-> On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions and demonstrates the capabilities of the Bluemix Data Connect cloud service. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+> On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions that demonstrate the capabilities of the Bluemix Data Connect cloud service. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
 
 ### Lab Steps
 
