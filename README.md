@@ -1,10 +1,10 @@
-[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WDP-Architecture.png">
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WDP-Architecture.png">](https://github.com/WatsonDataPlatform/E2ELab)
 # Hands on Labs
 ## Experience the IBM Watson Data Platform
 ### Where teams can collaboratively work together...
 
-[<img src="hhttps://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Team.png">
-[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Demo%20Flow.png">
+[<img src="hhttps://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Team.png">](https://github.com/WatsonDataPlatform/E2ELab)
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Demo%20Flow.png">](https://github.com/WatsonDataPlatform/E2ELab)
 ### Accelerating End to End Analytics from months to minutes...
 
 ## [Getting Started - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/gettingstarted/)
