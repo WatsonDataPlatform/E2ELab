@@ -11,8 +11,8 @@ Step | Description
 ------------ | -------------
 1 | Download the Lab Files
 2 | Create a Bluemix Account
-3 | Create the Cloud Data Services
-4 | Create the Cloud Application
+3 | Create the Watson Data Platform Services
+4 | Create a Watson Data Platform Application
 5 | Create a Watson Analytics Account
 
 ## Step 1: Download the Lab Files
@@ -33,7 +33,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 ### Log Into Bluemix 
 
-#### [Click Here to Login to Bluemix](https://console.ng.bluemix.net/)
+### [Click Here to Login to Bluemix](https://console.ng.bluemix.net/)
 
 > **Note** - The URL for Bluemix is https://console.ng.bluemix.net
 
@@ -41,7 +41,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
 
-#### Create a Bluemix Space
+### Create a Bluemix Space
 
 <img src="./media/Step4-image-01.png"/>  
 
@@ -71,7 +71,11 @@ You will see a page asking you to check your email for next steps. Check your em
 
 Click on the “confirm your account” link.
 
-## Step 2: Create a Watson Analytics Account
+## Step 3: Create the Watson Data Platform Services
+
+## Step 4: Create a Watson Data Platform Application
+
+## Step 5: Create a Watson Analytics Account
 
 You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
 
