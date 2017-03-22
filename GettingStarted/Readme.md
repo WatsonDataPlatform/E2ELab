@@ -17,11 +17,11 @@ Step | Description
 
 ## Step 1: Download the Lab Files
 
-Please **Download** the Great Outdoor Customer Orders CSV file that is used in the Data Engineer and Business Analysis labs:
+Please **Download** the Great Outdoor Customer Orders CSV file that is used in the Data Engineer and Business Analysis labs to your workstation and remember where you saved it to:
 
 ### [Click Here to Download the "Great Outdoor Customer Orders.csv" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
-Please **Download** the nodejsDashboard Zip file that is used in the Application Developer lab:
+Please **Download** the nodejsDashboard Zip file that is used in the Application Developer lab to your workstation and remember where you saved it to:
 
 ### [Click Here to Download the "nodejsDashboard.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
 
