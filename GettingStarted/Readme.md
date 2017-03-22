@@ -17,11 +17,11 @@ Step | Description
 
 ## Step 1: Download the Lab Files
 
-Please **Download** the Great Outdoor Customer Orders CSV file that is used in the Data Engineer and Business Analysis labs to your workstation and remember where you saved it to:
+Please **Download** the Great Outdoor Customer Orders CSV file that is used in the Data Engineer and Business Analysis labs to your workstation and remember where you saved it:
 
 ### [Click Here to Download the "Great Outdoor Customer Orders.csv" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
-Please **Download** the nodejsDashboard Zip file that is used in the Application Developer lab to your workstation and remember where you saved it to:
+Please **Download** the nodejsDashboard Zip file that is used in the Application Developer lab to your workstation and remember where you saved it:
 
 ### [Click Here to Download the "nodejsDashboard.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
 
@@ -31,13 +31,29 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 ## If you alredy have a Bluemix account
 
-### [Click Here to Login to Bluemix](https://console.ng.bluemix.net/)
+### Log Into Bluemix 
+
+#### [Click Here to Login to Bluemix](https://console.ng.bluemix.net/)
 
 > **Note** - The URL for Bluemix is https://console.ng.bluemix.net
 
 <img src="./media/Step3-image-01.png"/>
 
 1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
+
+#### Create a Bluemix Space
+
+<img src="./media/Step4-image-01.png"/>  
+
+1. **Select** the Account information area in the top right corner of your Bluemix account home page.
+2. **Select** the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
+
+  <img src="./media/Step4-image-02.png"/>
+
+3. **Enter** “Watson Data Platform” (without quotes) for the space name.  
+4. **Select** the “Create” button.  
+
+> Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
 ## If you don't have a Bluemix account
 
@@ -97,20 +113,6 @@ You will need a Watson Analytics account. If you don't have an account, click on
 <img src="./media/Step3-image-01.png"/>
 
 1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
-
-## Step 4: Create a Bluemix Space
-
-<img src="./media/Step4-image-01.png"/>  
-
-1. **Select** the Account information area in the top right corner of your Bluemix account home page.
-2. **Select** the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
-
-  <img src="./media/Step4-image-02.png"/>
-
-3. **Enter** “Watson Data Platform” (without quotes) for the space name.  
-4. **Select** the “Create” button.  
-
-> Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
 ## Step 7: Create a Data Connect Service
 
