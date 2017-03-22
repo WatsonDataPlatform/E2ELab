@@ -1,7 +1,25 @@
 
 ## Before You Begin
 
-> This lab is done from the web using Bluemix, IBM’s Cloud Infrastructure and Platform As-a-Service and Watson Analytics, IBM’s premiere analytical Software-As-a-Solution. It also uses a supplied CSV file as a source dataset. Please perform the following steps before you proceed any further:
+> The "Watson Data Platform" lab is done using the IBM cloud. It uses a set of fully managed cloud services; Cloudant, dashDB for Analytics and Data Connect that are available in Bluemix, IBM’s cloud platform as a service (PaaS), Watson Analytics, IBM’s smart data discovery service on the cloud, IBM's Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights and a few files that are supplied that you will be used as source datasets.
+
+## Workflow
+
+> On the following pages are a series of steps you will need to perform before you perform any of the labs. Each step outlines an easy to follow set of instructions that prepare your environment. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+
+### Getting Started Steps
+
+Step | Description
+------------ | -------------
+1 ! Create a Bluemix Account
+2 ! Create a Watson Analytics Account
+3 | Login to Bluemix
+4 | Create a Bluemix Space
+4	| Create a Cloudant Service
+5	| Create a dashDB for Analytics
+6 | Create a Data Connect Service
+7 | Create a Node.js Application
+8 | Download Data Files
 
 1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
@@ -19,24 +37,11 @@
   >
   > Click on the “TRY IT FOR FREE” button. You have the option to click on “View pricing and buy” from the next screen. Watson Analytics provides 2 paid editions “Plus” and “Professional” with monthly license charges of $30 and $80, with included storage of 2GB and 100GB respectively. For now, you will go with the “Free” license and click on “Try free edition”.
 
-## Workflow
+## Step 1: Register for a Bluemix Account
 
-> On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions that demonstrate the capabilities of the Bluemix Data Connect cloud service. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+## Step 2: Register for a Watson Analytics Account
 
-### Lab Steps
-
-Step | Description
------------- | -------------
-1 | Login to Bluemix
-2	| Create a Bluemix Space
-3	| Create a Data Connect Service
-4	| Create a Watson Analytics Connection
-5	| Import the Source Data File
-6	| Refine the Data
-7	| Complete and Run the Data Activity
-8 | Validate the Results
-
-## Step 1: Login to Bluemix
+## Step 3: Login to Bluemix
 
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
@@ -44,7 +49,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
 
-## Step 2: Create a Bluemix Space
+## Step 4: Create a Bluemix Space
 
 <img src="./media/Step2-image-1.png"/>  
 
