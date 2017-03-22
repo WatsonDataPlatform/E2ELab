@@ -1,5 +1,5 @@
 #Hands on Lab - Business Analyst.
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/BAE2E.png">](https://github.com/ibmdataworks/datafirst/tree/master/businessanalyst/)
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/DataVisualization.png">](https://github.com/ibmdataworks/datafirst/tree/master/businessanalyst/)
 
 As a Business Analyst, you need to analyze, discover and visiualize business data to derive insights. Perform these hands-on exercises using guided exploration capabilities with IBM Watson Analytics platform on customer transaction data to uncover unique insights about product affinities.
  
