@@ -1,27 +1,27 @@
 
 ## Before You Begin
 
-The "Watson Data Platform" lab is done using the IBM cloud. It uses a set of fully managed cloud services; Cloudant and dashDB for Analytics to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform as a service (PaaS). It also uses Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, you will be required to download a few files that are supplied that you will use as source datasets.
+The "Watson Data Platform" lab is done using the IBM cloud. It uses a set of fully managed cloud data services; Cloudant and dashDB for Analytics to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform as a service (PaaS). It also uses Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, it uses a set of data files that you will use as your source datasets.
 
 ## Workflow
 
-On the following pages are a series of steps you will perform before you do any of the labs. Each step outlines an easy to follow set of instructions that will prepare your cloud environment so you can do any of the labs you choose. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+On the following pages are a series of steps you will perform before you do any of the labs. Each step outlines an easy to follow set of instructions that will walk you through preparing your IBM cloud environment so you can do any of the labs you choose. It is a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
 
 Step | Description
 ------------ | -------------
-1 | Create a Bluemix Account
-2 | Create a Watson Analytics Account
-3 | Create a Cloudant Service
-4	| Create a dashDB for Analytics Service
-5 | Create a Data Connect Service
-6 | Create a Node.js Application
-7 | Download Source Data Files
+1 | Download the Lab Files
+2 | Create a Bluemix Account
+3 | Create the Lab Cloud Services
+4 | Create the Lab Cloud Application
+5 | Create a Watson Analytics Account
+
+## Step 1: Download the Lab Files
 
 1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
 
-## Step 1: Create a Bluemix Account
+## Step 2: Create a Bluemix Account
 
 You will need a Bluemix account. Follow the instructions in one of the sections below depending on whether or not you have a Bluemix account.
 
