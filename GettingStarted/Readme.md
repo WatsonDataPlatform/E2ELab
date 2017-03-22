@@ -33,7 +33,7 @@ You will need a Bluemix account. If you don't have an account, click on the URL 
 
 You will see a page asking you to check your email for next steps. Check your email that you used to sign up for Bluemix
 
- > <img src="st/blob/master/appdeveloper/media/image4.png" width="237" height="219" />
+ > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image4.png" width="237" height="219" />
 
 Click on the “confirm your account” link
 
