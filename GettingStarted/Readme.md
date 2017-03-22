@@ -31,11 +31,11 @@ You will need a Bluemix account. If you don't have an account, click on the URL 
   >
   > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of    the right side panel.
 
-<img src="./media/Step1-image-03.png"/>
+<img src="./media/Step1-image-02.png"/>
 
 You will see a page asking you to check your email for next steps. Check your email account that you used when you registered for your Bluemix account.
 
-<img src="./media/Step1-image-04.png"/>
+<img src="./media/Step1-image-03.png"/>
 
 Click on the “confirm your account” link.
 
@@ -73,18 +73,18 @@ You will need a Watson Analytics account. If you don't have an account, click on
 
 Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
-<img src="./media/Step1-image-1.png"/>
+<img src="./media/Step3-image-01.png"/>
 
 1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
 
 ## Step 4: Create a Bluemix Space
 
-<img src="./media/Step2-image-1.png"/>  
+<img src="./media/Step4-image-01.png"/>  
 
 1. **Select** the Account information area in the top right corner of your Bluemix account home page.
 2. **Select** the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
 
-  <img src="./media/Step2-image-2.png"/>
+  <img src="./media/Step4-image-02.png"/>
 
 3. **Enter** “Watson Data Platform” (without quotes) for the space name.  
 4. **Select** the “Create” button.  
@@ -93,24 +93,24 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 ## Step 7: Create a Data Connect Service
 
-<img src="./media/Step3-image-1.png" />
+<img src="./media/Step7-image-01.png" />
 
 1. **Select** the "Catalog" menu at the top of the Bluemix home page.  
 2. **Select** the "Data and Analytics" category from the categories on the left.  
 3. **Click on** the “Data Connect” service from the list of services on the right.  
 
-<img src="./media/Step3-image-2.png" />
+<img src="./media/Step7-image-02.png" />
 
 4. **Enter** "Data Connect” (without quotes) for the Service name.  
 5. **Enter** “Data Connect” (without quotes) for the Credential name.  
 6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
 7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.  
 
-<img src="./media/Step3-image-3.png" />
+<img src="./media/Step7-image-03.png" />
 
 8. **Select** the “LAUNCH” button to start using Bluemix Data Connect - It will open in a new tab in your browser.
 
-<img src="./media/Step3-image-4.png"/>
+<img src="./media/Step7-image-04.png"/>
 
 > The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
