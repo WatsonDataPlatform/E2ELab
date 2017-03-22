@@ -9,8 +9,8 @@ On the following pages are a series of steps you will perform before you do any 
 
 Step | Description
 ------------ | -------------
-1 | Create a Bluemix Account
-2 | Create a Watson Analytics Account
+1 | Register for a Bluemix Account
+2 | Register for a Watson Analytics Account
 3 | Login to Bluemix
 4 | Create a Bluemix Space
 5	| Create a Cloudant Service
@@ -23,7 +23,6 @@ Step | Description
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
 
-
 ## Step 1: Register for a Bluemix Account
 
 You will need a Bluemix account. If you don't have an account, click on the URL below to create one:
@@ -31,6 +30,14 @@ You will need a Bluemix account. If you don't have an account, click on the URL 
   > https://console.ng.bluemix.net/registration
   >
   > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of    the right side panel.
+
+You will see a page asking you to check your email for next steps. Check your email that you used to sign up for Bluemix
+
+ > <img src="st/blob/master/appdeveloper/media/image4.png" width="237" height="219" />
+
+Click on the “confirm your account” link
+
+ > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image5.png" width="396" height="330" />
 
 ## Step 2: Register for a Watson Analytics Account
 
