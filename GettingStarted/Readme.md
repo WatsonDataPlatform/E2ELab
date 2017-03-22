@@ -25,12 +25,10 @@ Step | Description
 
 ## Step 1: Register for a Bluemix Account
 
-You will need a Bluemix account. If you don't have an account, click on the URL below to create one:
+You will need a Bluemix account. If you don't have an account, click on the link below to create one:
 
 ## [Click Here to Register for a Bluemix Account](https://console.ng.bluemix.net/registration/)
 
-  > https://console.ng.bluemix.net/registration
-  >
 Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of    the right side panel.
 
 <img src="./media/Step1-image-02.png"/>
