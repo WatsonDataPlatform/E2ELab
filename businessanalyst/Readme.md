@@ -11,9 +11,11 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
  [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WatsonASignon.png">](https://github.com/WatsonDataPlatform/E2ELab/businessanalyst)
 
-2.  Click on “+ New data” button towards the top left as highlighted below. This will let you add a new dataset to your “Personal” folder.
+2.  You should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder. If you do not, you need to complete the [Data Preparation Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
 
- > <img src="./media/image9.png" width="356" height="207" />
+2.  Click on “+ New data” button towards the top left as highlighted below. This will allow you to import data into your “Personal” folder.
+
+ > <img src="./media/image9.png" />
 
 3.  You should now be able to read in a spreadsheet “Great Outdoor Customer Orders.xlsx” that you can download from the Github link: <https://github.com/ibmdataworks/sigmo-demos/tree/master/business-analyst>
     Click on “Local file” to import the dataset into Watson Analytics.
