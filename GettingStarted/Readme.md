@@ -19,11 +19,13 @@ Step | Description
 
 1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
-### [Click Here to Download the Great Outdoor Customer Orders CSV file ](https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv)
+### [Click Here to Download the Great Outdoor Customer Orders CSV file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
 
 2. **Download** the nodejsDashboard Zip file from the GitHub location below and save the file to a location of your choice on your workstation:
+
+### [Click Here to Download the nodejsDashboard Zip file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/appdeveloper/nodejsDashboard.zip
 
