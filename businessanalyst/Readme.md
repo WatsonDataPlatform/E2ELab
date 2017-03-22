@@ -82,7 +82,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
  > <img src="./media/image25.png" />
 
-21. Just drag and drop “Gender” from the data tray below to the “Multiplier” data slot.
+21. Click on the "Multipler" option at the bottom right and choose "Gender". Also make sure your "Multiplier Mode" is set to "Horizontal".
 
  > <img src="./media/image26.png" />
 
@@ -93,7 +93,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 23. As for the Males below age 44, they mostly buy “Camping Equipment” (shown in blue) and those older buy “Golf Equipment” (shown in green).
  > <img src="./media/image28.png" />
 
-24. You can now rename this tab as “Product Line vs Age and Gender” and save the “New discovery set” you just created by clicking on the “floppy disk” icon <embed src="./media/image29.emf" width="24" height="20" /> and selecting “Save as”, as shown below.
+24. You can now rename this tab as “Product Line by Age and Gender” and save the new discovery set you just created by clicking on the disk icon <embed src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/businessanalyst/media/" width="24" height="20" /> and selecting “Save As”, as shown below.
 
  > <img src="./media/image30.png" />
 
