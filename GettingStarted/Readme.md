@@ -71,9 +71,9 @@ You will need a Watson Analytics account. If you don't have an account, click on
 
 ## Step 3: Login to Bluemix
 
-[Click Here to go to Bluemix](https://console.ng.bluemix.net/)
+## [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
 
-URL https://console.ng.bluemix.net
+> **Note** - The URL for Bluemix is https://console.ng.bluemix.net
 
 <img src="./media/Step3-image-01.png"/>
 
