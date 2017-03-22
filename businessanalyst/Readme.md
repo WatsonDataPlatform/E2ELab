@@ -1,17 +1,17 @@
 # Hands on Lab - Business Analyst
 > <img src="./media/DataDiscovery.png" />
 
-Perform these hands-on exercises using guided exploration capabilities with IBM Watson Analytics platform on customer transaction data to uncover unique insights about product affinities.
+Perform these hands-on exercises using guided data exploration capabilities found in IBM Watson Analytics on customer transaction data to uncover unique insights about product affinities.
  
 
 # Hands on Exercises...
 
 
-1.  Logon to Watson Analytics by going to page “watsonanalytics.com” on a browser and clicking on “SIGN IN” text on the top right. 
+1.  Logon to Watson Analytics by going to page “watsonanalytics.com” on a browser and clicking on the “SIGN IN” text on the top right. 
 
  > <img src="./media/WatsonASignon.png" />
 
-2.  If you completed the [Data Engineer Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/) you should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder as shown in the image below. If this file does not exist or you do not wish to complete the Data Engineer lab, proceed to Step 3 to upload the file, otherwise move to Step 9. 
+2.  If you completed the [Data Engineer Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/) you should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder as shown in the image below step 8. If this file does not exist or you do not wish to complete the Data Engineer lab, proceed to Step 3 to upload the file. If this file does exist, proceed to Step 9. 
 
 3. Download this file <https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv> to a local directory. 
 
@@ -27,7 +27,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
  > <img src="./media/image11.png" />
 
-7.  Next, you should see an icon for the file on the screen and now click on “Import” button on bottom right to upload the spreadsheet to Watson Analytics.
+7.  Next, you should see an icon for the file on the screen and can click “Import” on the bottom right to upload the spreadsheet to Watson Analytics.
 
  > <img src="./media/image12.png" />
 
@@ -35,18 +35,18 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
   > <img src="./media/WatsonAcsv.png" />
 
-9.  You are now all set to start looking at the interesting insights Watson Analytics automatically finds from the data. Just click on the dataset and you’ll be taken to a screen labelled as “New Discovery Set” as shown below. As “Starting points”, 6 different visualizations are automatically recommended for you to explore (you can click on “Show Next” on the top right to see the next set of guided visualizations), but you can create your own visualization selecting from the 20 different chart types in the bottom of the screen. You also have an option to type in a natural language question on the top and Watson Analytics will suggest an appropriate visualization that likely answers that question! 
+9.  You are now ready to let Watson Analytics discover insights and trends from your data. Click on the dataset and you’ll be taken to a screen labelled as “New Discovery Set” as shown below. As starting points, 6 different visualizations are automatically recommended for you to explore (you can click on “Show Next” on the top right to see the next set of guided visualizations), and you can create your own visualizations by selecting from the 20 different chart types in the bottom of the screen. You also have the option to type in a question using natural language at the top and Watson Analytics will suggest an appropriate visualization that likely answers that question. 
  > <img src="./media/image14.png" />
 
-10.  Let’s scroll back to the top and type in a question “Show the breakdown of Transactions by Product Line and Product Type” and hit enter. You will automatically be provided a set of starting points starting with the most relevant visualization that helps answer your question! Let’s click on the treemap on the top left (the first visualization listed as “Most relevant” under “Starting points”).
+10.  Let’s scroll back to the top and type in a question “Show the breakdown of Transactions by Product Line and Product Type” and hit enter. You will automatically be provided with a set of starting points beginning with the most relevant visualization that helps answer your question. Let’s click on the treemap on the top left (the first visualization listed as “Most relevant” under “Starting points”).
 
  > <img src="./media/image15.png" />
 
-11.  Since each row of the spreadsheet is a customer transaction, the size of the rectangles in the treemap represents the number of transaction for each product type such as “Tents”, “Sleeping Bags”, “Eyewear” etc. We can clearly see that most popular item for Great Outdoors is “Eyewear” and if you hover your mouse over that brown rectangle under “Personal Accessories”, it tells you that there were a total of 8,264 transactions (out of a total of 62K transactions) for “Eyewear”! The next best selling items in terms of total volume are “Tents” and then “Sleeping Bags”.
+11.  Since each row of the spreadsheet is a customer transaction, the size of the rectangles in the treemap represents the number of transactions for each product type such as “Tents”, “Sleeping Bags”, “Eyewear” etc. We can clearly see that the most popular item for Great Outdoors is “Eyewear” and if you hover your mouse over that brown rectangle under “Personal Accessories”, it tells you that there were a total of 8,264 transactions (out of a total of 62K transactions) for “Eyewear”! The next best selling items in terms of total volume are “Tents” and then “Sleeping Bags”.
 
  > <img src="./media/image16.png" />
 
-12. Several other automatically generated “Discoveries” are drawn on the right, but let’s click on the “>” symbol to minimize that pane, to lay out the treemap across the entire screen and better visualize the chart. Now, let’s add a field to the “Multiplier” data slot as highlighted on the bottom right by clicking on the "+" symbol and selecting “Gender” from the pulldown list.
+12. Several other automatic “Discoveries” are drawn on the right - click on the “>” symbol to minimize that pane, to lay out the treemap across the entire screen and better visualize the chart. Now, let’s add a field to the “Multiplier” data slot as highlighted on the bottom right by clicking on the "+" symbol and selecting “Gender” from the popup list.
 
  > <img src="./media/WatsonAgender.png" />
 
