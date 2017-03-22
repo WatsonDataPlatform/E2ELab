@@ -31,13 +31,13 @@ You will need a Bluemix account. If you don't have an account, click on the URL 
   >
   > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of    the right side panel.
 
-You will see a page asking you to check your email for next steps. Check your email that you used to sign up for Bluemix
+<img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image4.png" width="237" height="219" />
 
- > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image4.png" width="237" height="219" />
+You will see a page asking you to check your email for next steps. Check your email account that you used when you registered for your Bluemix account.
 
-Click on the “confirm your account” link
+<img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image5.png" width="396" height="330" />
 
- > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image5.png" width="396" height="330" />
+Click on the “confirm your account” link.
 
 ## Step 2: Register for a Watson Analytics Account
 
