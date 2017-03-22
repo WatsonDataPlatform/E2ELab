@@ -16,10 +16,10 @@ Step | Description
 3 | Login to Bluemix
 4 | Create a Bluemix Space
 4	| Create a Cloudant Service
-5	| Create a dashDB for Analytics
+5	| Create a dashDB for Analytics Service
 6 | Create a Data Connect Service
 7 | Create a Node.js Application
-8 | Download Data Files
+8 | Download Source Data Files
 
 1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
