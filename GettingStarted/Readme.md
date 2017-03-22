@@ -1,7 +1,7 @@
 
 ## Before You Begin
 
-The "Watson Data Platform" lab is done using the IBM cloud. It uses a set of fully managed cloud data services; Cloudant and dashDB for Analytics to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform as a service (PaaS). It also uses Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, it uses a set of data files that you will use as your source datasets.
+The "Watson Data Platform" lab is done using the IBM cloud. It uses a set of fully managed cloud data services; Cloudant and dashDB for Analytics to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform as a service (PaaS). It also uses Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, this lab requires that you download a set of files that you will use as your source data and to build your application.
 
 ## Workflow
 
@@ -11,15 +11,21 @@ Step | Description
 ------------ | -------------
 1 | Download the Lab Files
 2 | Create a Bluemix Account
-3 | Create the Lab Cloud Services
-4 | Create the Lab Cloud Application
+3 | Create the Cloud Data Services
+4 | Create the Cloud Application
 5 | Create a Watson Analytics Account
 
 ## Step 1: Download the Lab Files
 
 1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
+### [Click Here to Download the Great Outdoor Customer Orders CSV file ](https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv)
+
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
+
+2. **Download** the nodejsDashboard Zip file from the GitHub location below and save the file to a location of your choice on your workstation:
+
+ > https://github.com/WatsonDataPlatform/E2ELab/blob/master/appdeveloper/nodejsDashboard.zip
 
 ## Step 2: Create a Bluemix Account
 
