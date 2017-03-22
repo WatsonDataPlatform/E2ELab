@@ -33,7 +33,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
 8.  In less than a minute (usually within 30 seconds), the input file is uploaded and processed and shows up as an entry in the Personal folder as shown below. Watson Analytics processes the file to measure its usefulness for analytics and computes a data quality score. The data quality score (77% for this file) is computed as an average of the score of all fields and is influenced by missing values, constant values, imbalance (skews and outliers). To read more about data loading and data quality, please check out: <https://community.watsonanalytics.com/discussions/storage/attachments/816-watson-analytics-intro-to-data-v-2-1.pdf>
 
- > <img src="./media/image13.png" />
+ <img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/businessanalyst/media/WatsonAcsv.png"/>
 
 9.  You are now all set to start looking at the interesting insights Watson Analytics automatically finds from the data. Just click on the dataset and you’ll be taken to a screen labelled as “New Discovery Set” as shown below. As “Starting points”, 6 different visualizations are automatically recommended for you to explore (you can click on “Show Next” on the top right to see the next set of guided visualizations), but you can create your own visualization selecting from the 20 different chart types in the bottom of the screen. You also have an option to type in a natural language question on the top and Watson Analytics will suggest an appropriate visualization that likely answers that question! 
  > <img src="./media/image14.png" />
@@ -46,7 +46,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
  > <img src="./media/image16.png" />
 
-12. Several other automatically generated “Discoveries” are drawn on the right, but let’s click on the “x” button to close that pane, so as to lay out the Treemap across the entire screen to better visualize the chart. Now, let’s add a field to the “Multiplier” data slot as highlighted on the bottom right by clicking on it and then selecting “Gender” from the pulldown list.
+12. Several other automatically generated “Discoveries” are drawn on the right, but let’s click on the “>” symbol to minimize that pane, to lay out the treemap across the entire screen and better visualize the chart. Now, let’s add a field to the “Multiplier” data slot as highlighted on the bottom right by clicking on it and then selecting “Gender” from the pulldown list.
 
  > <img src="./media/image17.png" />
 
