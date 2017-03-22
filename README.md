@@ -4,6 +4,7 @@
 ### Where teams can collaboratively work together...
 
 [<img src="hhttps://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Team.png">](https://github.com/WatsonDataPlatform/E2ELab)
+
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Demo%20Flow.png">](https://github.com/WatsonDataPlatform/E2ELab)
 ### Accelerating End to End Analytics from months to minutes...
 
