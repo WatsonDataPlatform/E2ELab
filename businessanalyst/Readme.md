@@ -13,22 +13,23 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
 2.  If you completed the [Data Engineer Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/) you should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder as shown in the image below. If this file does not exist or you do not wish to complete the Data Engineer lab, proceed to Step 3, otherwise move to Step 4. 
 
-3. Download this file <https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv> to a local directory. From Watson Analytics, click on “+ New data” button towards the top left and choose "Local file". Select your file and choose import. You should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder as shown in the image below
+3. Download this file <https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv> to a local directory. 
+
+4. From Watson Analytics, click on “+ New data” button towards the top left. 
 
  > <img src="./media/image9.png" />
 
-3.  You should now be able to read in a spreadsheet “Great Outdoor Customer Orders.xlsx” that you can download from the Github link: <https://github.com/ibmdataworks/sigmo-demos/tree/master/business-analyst>
-    Click on “Local file” to import the dataset into Watson Analytics.
+3.  You should now be able to import the spreadsheet “Great Outdoor Customer Orders.csv” that that you downloaded in Step 3. Click on “Local file” to import the dataset into Watson Analytics.
     
- > <img src="./media/image10.png" width="360" height="175" />
+ > <img src="./media/image10.png" />
 
 4.  You can now either drag and drop the spreadsheet or click on “Browse” to select the file from the folder where you downloaded the dataset from Github.
 
- > <img src="./media/image11.png" width="360" height="175" />
+ > <img src="./media/image11.png" />
 
 5.  Next, you should see an icon for the file on the screen and now click on “Import” button on bottom right to upload the spreadsheet to Watson Analytics.
 
- > <img src="./media/image12.png" width="359" height="204" />
+ > <img src="./media/image12.png" />
 
 6.  In less than a minute (usually within 30 seconds), the input file is uploaded and processed and shows up as an entry in the Personal folder as shown below. Watson Analytics processes the file to measure its usefulness for analytics and computes a data quality score. The data quality score (77% for this file) is computed as an average of the score of all fields and is influenced by missing values, constant values, imbalance (skews and outliers). To read more about data loading and data quality, please check out: <https://community.watsonanalytics.com/discussions/storage/attachments/816-watson-analytics-intro-to-data-v-2-1.pdf>
 
