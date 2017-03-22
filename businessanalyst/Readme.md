@@ -1,13 +1,13 @@
-#Hands on Lab - Business Analyst.
+# Hands on Lab - Data Visualization
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/DataVisualization.png">](https://github.com/ibmdataworks/datafirst/tree/master/businessanalyst/)
 
-As a Business Analyst, you need to analyze, discover and visiualize business data to derive insights. Perform these hands-on exercises using guided exploration capabilities with IBM Watson Analytics platform on customer transaction data to uncover unique insights about product affinities.
+Perform these hands-on exercises using guided exploration capabilities with IBM Watson Analytics platform on customer transaction data to uncover unique insights about product affinities.
  
 Watch Full Lab Video (Optional): https://youtu.be/T6Aa448WcU4
 
  > [<img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/BA Video.png" width="382">](https://youtu.be/T6Aa448WcU4 "Business Analyst")
 
-#Step 1. Get a free IBM Watson Analytics account...
+# Step 1. Get a free IBM Watson Analytics account...
 
 1.  Open a browser and go to “watsonanalytics.com”. This will redirect you to the URL: <https://watson.analytics.ibmcloud.com/product> and click on “TRY IT FOR FREE” button as shown below:
  > <img src="./media/image1.png" width="378" height="257" />
