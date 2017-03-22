@@ -43,6 +43,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 ### Create a Bluemix Space
 
+
 <img src="./media/Step4-image-01.png"/>  
 
 1. **Select** the Account information area in the top right corner of your Bluemix account home page.
