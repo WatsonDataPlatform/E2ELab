@@ -11,8 +11,8 @@
 
 Step | Description
 ------------ | -------------
-1 ! Create a Bluemix Account
-2 ! Create a Watson Analytics Account
+1 | Create a Bluemix Account
+2 | Create a Watson Analytics Account
 3 | Login to Bluemix
 4 | Create a Bluemix Space
 4	| Create a Cloudant Service
