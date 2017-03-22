@@ -70,11 +70,11 @@ You will need a Watson Analytics account. If you don't have an account, click on
 
 6.  At this point, you will see a status screen saying “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as below confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!
 
-<img src="./media/Step-image-06.png"/>
+<img src="./media/Step2-image-07.png"/>
 
 7.  You can now login to Watson Analytics by clicking on “Launch” button or directly go to Watson Analytics sign-on site from the homage watsonanalytics.com. After you login, you should see the page below and you are now ready to upload data for an amazing experience of guided self-service analytics!
 
-<img src="./media/image7.png"/>
+<img src="./media/Step2-image-07.png"/>
 
 ## Step 3: Login to Bluemix
 
