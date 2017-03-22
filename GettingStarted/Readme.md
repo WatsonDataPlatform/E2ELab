@@ -21,13 +21,9 @@ Step | Description
 
 ### [Click Here to Download the "Great Outdoor Customer Orders.csv" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
- > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
-
 2. **Download** the nodejsDashboard Zip file from the GitHub location below and save the file to a location of your choice on your workstation:
 
-### [Click Here to Download the nodejsDashboard Zip file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
-
- > https://github.com/WatsonDataPlatform/E2ELab/blob/master/appdeveloper/nodejsDashboard.zip
+### [Click Here to Download the "nodejsDashboard.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
 
 ## Step 2: Create a Bluemix Account
 
