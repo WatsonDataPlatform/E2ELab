@@ -27,7 +27,7 @@ Step | Description
 
 You will need a Bluemix account. If you don't have an account, click on the URL below to create one:
 
-  > ## [Click Here to Register for a Bluemix Account](https://console.ng.bluemix.net/registration/)
+## [Click Here to Register for a Bluemix Account](https://console.ng.bluemix.net/registration/)
 
   > https://console.ng.bluemix.net/registration
   >
