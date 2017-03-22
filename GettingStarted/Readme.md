@@ -16,31 +16,32 @@ Step | Description
 2 | Create a Watson Analytics Account
 3 | Login to Bluemix
 4 | Create a Bluemix Space
-4	| Create a Cloudant Service
-5	| Create a dashDB for Analytics Service
-6 | Create a Data Connect Service
-7 | Create a Node.js Application
-8 | Download Source Data Files
+5	| Create a Cloudant Service
+6	| Create a dashDB for Analytics Service
+7 | Create a Data Connect Service
+8 | Create a Node.js Application
+9 | Download Source Data Files
 
 1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
 
-2. You will need a Bluemix account. If you don't have an account, click on the URL below to register for one:
+
+## Step 1: Register for a Bluemix Account
+
+You will need a Bluemix account. If you don't have an account, click on the URL below to register for one:
 
   > https://console.ng.bluemix.net/registration
   >
   > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of    the right side panel.
 
-3. You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
+## Step 2: Register for a Watson Analytics Account
+
+You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
 
   > https://watson.analytics.ibmcloud.com/product
   >
   > Click on the “TRY IT FOR FREE” button. You have the option to click on “View pricing and buy” from the next screen. Watson Analytics provides 2 paid editions “Plus” and “Professional” with monthly license charges of $30 and $80, with included storage of 2GB and 100GB respectively. For now, you will go with the “Free” license and click on “Try free edition”.
-
-## Step 1: Register for a Bluemix Account
-
-## Step 2: Register for a Watson Analytics Account
 
 ## Step 3: Login to Bluemix
 
