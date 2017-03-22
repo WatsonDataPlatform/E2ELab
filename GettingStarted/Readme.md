@@ -35,7 +35,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
 
-## If you don't have an account
+## If you don't have a Bluemix account
 
 ### [Click Here to Register for a Bluemix Account](https://console.ng.bluemix.net/registration/)
 
