@@ -9,7 +9,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
 1.  Logon to Watson Analytics by going to page “watsonanalytics.com” on a browser and clicking on “SIGN IN” text on the top right. 
 
- [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WatsonASignon.png">(https://github.com/WatsonDataPlatform/E2ELab/businessanalyst)
+ [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WatsonASignon.png">](https://github.com/WatsonDataPlatform/E2ELab/businessanalyst)
 
 2.  Click on “+ New data” button towards the top left as highlighted below. This will let you add a new dataset to your “Personal” folder.
 
