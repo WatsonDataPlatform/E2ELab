@@ -4,12 +4,12 @@
 Perform these hands-on exercises using guided exploration capabilities with IBM Watson Analytics platform on customer transaction data to uncover unique insights about product affinities.
  
 
-# Step 2. Hands on Exercises...
+# Hands on Exercises...
 
 
-1.  Logon to Watson Analytics by going to page “watsonanalytics.com” on a browser and clicking on “LOG IN” blue button on the top right. 
+1.  Logon to Watson Analytics by going to page “watsonanalytics.com” on a browser and clicking on “SIGN IN” text on the top right. 
 
- > <img src="./media/image8.png" width="358" height="174" />
+ [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WatsonASignon.png">(https://github.com/WatsonDataPlatform/E2ELab/businessanalyst)
 
 2.  Click on “+ New data” button towards the top left as highlighted below. This will let you add a new dataset to your “Personal” folder.
 
