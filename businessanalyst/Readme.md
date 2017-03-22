@@ -1,4 +1,4 @@
-# Hands on Lab - Data Visualization
+# Hands on Lab - Business Analyst
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/DataDiscovery.png">](https://github.com/ibmdataworks/datafirst/tree/master/businessanalyst/)
 
 Perform these hands-on exercises using guided exploration capabilities with IBM Watson Analytics platform on customer transaction data to uncover unique insights about product affinities.
@@ -11,9 +11,9 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
  [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WatsonASignon.png">](https://github.com/WatsonDataPlatform/E2ELab/businessanalyst)
 
-2.  You should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder. If you do not, you need to complete the [Data Preparation Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
+2.  If you completed the [Data Engineer Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)you should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder as shown in the image below. If this file does not exist or you do not wish to complete the Data Engineer lab, proceed to Step 3, otherwise move to Step 4. 
 
-2.  Click on “+ New data” button towards the top left as highlighted below. This will allow you to import data into your “Personal” folder.
+3. Download this file <https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.xlsx> to a local directory. Click on “+ New data” button towards the top left and choose "Local file". Select your file and choose import. 
 
  > <img src="./media/image9.png" />
 
