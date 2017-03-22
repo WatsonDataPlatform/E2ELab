@@ -10,9 +10,9 @@
 ## [Getting Started - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/gettingstarted/)
 These labs are done using Bluemix, IBM's cloud platform. Before you proceed with any of the labs you will need to register for a Bluemix and Watson Analytics account and create a set of Bluemix services that are required to complete the labs sucessfully. 
 
-## [Data Preparation Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
+## [Data Engineer Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
 Perform this hands-on lab and in a few clicks you can standardize, transform, and move sales and customer data into Watson Analytics for immediate analytica insight.
-## [Data Discovery Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/businessanalyst/)
+## [Business Analyst Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/businessanalyst/)
 Perform this hands-on lab using guided exploration capabilities on customer transaction data to uncover unique insights about product affinities.
 ## [Data Scientist Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/datascientist/)
 Perform this hands-on lab leveraging Apache Spark, Jupyter, Python, and R to derive sales performance for a specific product line, then build an advanced Machine Learning model in R.
