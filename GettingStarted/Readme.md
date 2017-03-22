@@ -9,6 +9,7 @@ On the following pages are a series of steps you will perform before you do any 
 
 ### Getting Started Steps
 
+
 Step | Description
 ------------ | -------------
 1 | Create a Bluemix Account
