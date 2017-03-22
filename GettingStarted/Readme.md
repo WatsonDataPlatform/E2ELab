@@ -17,11 +17,11 @@ Step | Description
 
 ## Step 1: Download the Lab Files
 
-1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
+Please **Download** the Great Outdoor Customer Orders CSV file that is used in the Data Engineer and Business Analysis labs:
 
 ### [Click Here to Download the "Great Outdoor Customer Orders.csv" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
-2. **Download** the nodejsDashboard Zip file from the GitHub location below and save the file to a location of your choice on your workstation:
+Please **Download** the nodejsDashboard Zip file that is used in the Application Developer lab:
 
 ### [Click Here to Download the "nodejsDashboard.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
 
@@ -31,7 +31,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 ## If you alredy have a Bluemix account
 
-### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
+### [Click Here to Login to Bluemix](https://console.ng.bluemix.net/)
 
 > **Note** - The URL for Bluemix is https://console.ng.bluemix.net
 
