@@ -9,27 +9,39 @@ On the following pages are a series of steps you will perform before you do any 
 
 Step | Description
 ------------ | -------------
-1 | Register for a Bluemix Account
-2 | Register for a Watson Analytics Account
-3 | Login to Bluemix
-4 | Create a Bluemix Space
-5	| Create a Cloudant Service
-6	| Create a dashDB for Analytics Service
-7 | Create a Data Connect Service
-8 | Create a Node.js Application
-9 | Download Source Data Files
+1 | Create a Bluemix Account
+2 | Create a Watson Analytics Account
+3 | Create a Cloudant Service
+4	| Create a dashDB for Analytics Service
+5 | Create a Data Connect Service
+6 | Create a Node.js Application
+7 | Download Source Data Files
 
 1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
 
  > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
 
-## Step 1: Register for a Bluemix Account
+## Step 1: Create a Bluemix Account
 
-You will need a Bluemix account. If you don't have an account, click on the link below to create one:
+You will need a Bluemix account. Follow the instructions in one of the sections below depending on whether or not you have a Bluemix account.
 
-## [Click Here to Register for a Bluemix Account](https://console.ng.bluemix.net/registration/)
+## If you alredy have a Bluemix account
 
-Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of    the right side panel.
+### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
+
+> **Note** - The URL for Bluemix is https://console.ng.bluemix.net
+
+<img src="./media/Step3-image-01.png"/>
+
+1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
+
+## If you don't have an account
+
+### [Click Here to Register for a Bluemix Account](https://console.ng.bluemix.net/registration/)
+
+<img src="./media/Step1-image-01.png"/>
+
+Fill in the required information (required fields are marked with an asterick) on the right side panel and then click the *Create Account* button on the bottom of the panel.
 
 <img src="./media/Step1-image-02.png"/>
 
@@ -39,7 +51,7 @@ You will see a page asking you to check your email for next steps. Check your em
 
 Click on the “confirm your account” link.
 
-## Step 2: Register for a Watson Analytics Account
+## Step 2: Create a Watson Analytics Account
 
 You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
 
