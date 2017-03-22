@@ -1,5 +1,5 @@
 # Hands on Lab - Business Analyst
-[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/DataDiscovery.png">](https://github.com/ibmdataworks/datafirst/tree/master/businessanalyst/)
+> <img src="./media/DataDiscovery.png" />
 
 Perform these hands-on exercises using guided exploration capabilities with IBM Watson Analytics platform on customer transaction data to uncover unique insights about product affinities.
  
@@ -9,7 +9,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
 1.  Logon to Watson Analytics by going to page “watsonanalytics.com” on a browser and clicking on “SIGN IN” text on the top right. 
 
- [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WatsonASignon.png">](https://github.com/WatsonDataPlatform/E2ELab/businessanalyst)
+ > <img src="./media/WatsonASignon.png" />
 
 2.  If you completed the [Data Engineer Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/) you should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder as shown in the image below. If this file does not exist or you do not wish to complete the Data Engineer lab, proceed to Step 3 to upload the file, otherwise move to Step 9. 
 
@@ -33,7 +33,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
 8.  In less than a minute (usually within 30 seconds), the input file is uploaded and processed and shows up as an entry in the Personal folder as shown below. Watson Analytics processes the file to measure its usefulness for analytics and computes a data quality score. The data quality score (77% for this file) is computed as an average of the score of all fields and is influenced by missing values, constant values, imbalance (skews and outliers). To read more about data loading and data quality, please check out: <https://community.watsonanalytics.com/discussions/storage/attachments/816-watson-analytics-intro-to-data-v-2-1.pdf>
 
- <img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/businessanalyst/media/WatsonAcsv.png"/>
+  > <img src="./media/WatsonAcsv.png" />
 
 9.  You are now all set to start looking at the interesting insights Watson Analytics automatically finds from the data. Just click on the dataset and you’ll be taken to a screen labelled as “New Discovery Set” as shown below. As “Starting points”, 6 different visualizations are automatically recommended for you to explore (you can click on “Show Next” on the top right to see the next set of guided visualizations), but you can create your own visualization selecting from the 20 different chart types in the bottom of the screen. You also have an option to type in a natural language question on the top and Watson Analytics will suggest an appropriate visualization that likely answers that question! 
  > <img src="./media/image14.png" />
@@ -48,7 +48,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
 12. Several other automatically generated “Discoveries” are drawn on the right, but let’s click on the “>” symbol to minimize that pane, to lay out the treemap across the entire screen and better visualize the chart. Now, let’s add a field to the “Multiplier” data slot as highlighted on the bottom right by clicking on the "+" symbol and selecting “Gender” from the pulldown list.
 
-<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/businessanalyst/media/WatsonAgender.png">
+ > <img src="./media/WatsonAgender.png" />
 
 13. On the text box that pops up, make sure to click on arrow to the right of “Multiplier Mode” and select “Vertical”. This will lay out the treemaps for Females and Males, one below the other (versus the default “Horizontal” option, which is next to each other). This helps better use the screen space to see the treemap more clearly for each Gender and observe the similarities and differences.
 
@@ -95,7 +95,7 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 
 24. You can now rename this tab as “Product Line by Age and Gender” and save the new discovery set you just created by clicking on the disk icon and selecting “Save As”, as shown below.
 
- <img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/businessanalyst/media/WatsonAsaveas.png" />
+  > <img src="./media/WatsonAsaveas.png" />
 
 25. On the “Save As” text box that pops up, type “Great Outdoors Customer Insights” on the top for the file name and save it in the “Personal” folder by clicking on the “Save” push button on the bottom right.
 
