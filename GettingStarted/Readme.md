@@ -7,9 +7,6 @@ The "Watson Data Platform" lab is done using the IBM cloud. It uses a set of ful
 
 On the following pages are a series of steps you will perform before you do any of the labs. Each step outlines an easy to follow set of instructions that will prepare your cloud environment so you can do any of the labs you choose. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
 
-### Getting Started Steps
-
-
 Step | Description
 ------------ | -------------
 1 | Create a Bluemix Account
@@ -29,7 +26,7 @@ Step | Description
 
 ## Step 1: Register for a Bluemix Account
 
-You will need a Bluemix account. If you don't have an account, click on the URL below to register for one:
+You will need a Bluemix account. If you don't have an account, click on the URL below to create one:
 
   > https://console.ng.bluemix.net/registration
   >
