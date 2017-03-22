@@ -6,6 +6,10 @@
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/team image.png">](https://github.com/watsondataplatform/e2elab/)
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/E2E.png">](https://github.com/watsondataplatform/e2elab/)
 ### Accelerating End to End Analytics from months to minutes...
+
+## [Getting Started - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/gettingstarted/)
+These labs are done using Bluemix, IBM's cloud platform. Before you proceed do any of the labs you will need to register for a Bluemix and Watson Analytics account and create a set of Bluemix services that are required to complete the labs sucessfully. Please proceed to the Getting Started section before you perform any of the labs. 
+
 ## [Data Engineer Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
 As a Data Engineer, you need to cleanse, organize, standardize, tranform and move data at scale.
 Perform this hands-on lab and in a few clicks you can standardize, transform, and move sales and customer data into Watson Analytics for immediate analytica insight.
