@@ -93,11 +93,11 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
 23. As for the Males below age 44, they mostly buy “Camping Equipment” (shown in blue) and those older buy “Golf Equipment” (shown in green).
  > <img src="./media/image28.png" />
 
-24. You can now rename this tab as “Product Line by Age and Gender” and save the new discovery set you just created by clicking on the disk icon <embed src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/businessanalyst/media/" width="24" height="20" /> and selecting “Save As”, as shown below.
+24. You can now rename this tab as “Product Line by Age and Gender” and save the new discovery set you just created by clicking on the disk icon and selecting “Save As”, as shown below.
 
- > <img src="./media/image30.png" />
+ <img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/businessanalyst/media/WatsonAsaveas.png" />
 
-25. On the “Save as” text box that pops up, type “Great Outdoors Customer Order Insights” on the top left and save it in the “Personal” folder (only option available by default, unless you create new folders yourself) by clicking on the “Save” push button on the bottom right.
+25. On the “Save As” text box that pops up, type “Great Outdoors Customer Insights” on the top for the file name and save it in the “Personal” folder by clicking on the “Save” push button on the bottom right.
 
  > <embed src="./media/image31.emf" />
 
@@ -106,10 +106,10 @@ Perform these hands-on exercises using guided exploration capabilities with IBM 
     
  > <img src="./media/image32.png" />
 
-27. Click on ‘View more’ to see the entire list of factors arranged in order of their predictive strengths. You should see the top predictor as “Product Type” with 100% strength (since each Product Line has a set of unique Product Types) right at the center of the bulls-eye and then the next relevant attributes are “Profession and Gender” and “Professional and Age” respectively, each with 50% predictive strength. Click on the “Untitled 1” label for this discovery on the tab on the top right and then click on the “pencil” icon and type in the label “Drivers of Product Line”. You should now see the discovery as below:
+27. You will see a list of factors arranged in order of their predictive strengths. You should see the top predictor as “Product Type” with 100% strength (since each Product Line has a set of unique Product Types) right at the center of the bulls-eye and then the next relevant attributes are “Profession and Gender” and “Professional and Age” respectively, each with 50% predictive strength. Click on the “Untitled 1” tab label for this discovery and click on the rename “pencil” icon and type in the label “Drivers of Product Line”. You should now see the discovery as below:
 
  > <img src="./media/image33.png" />
 
-28. The predictive insight gleaned from the “Spiral” chart says a Data Scientist can explore building machine learning models such as a “Decision Tree” using the same data with the “Data Science Experience” (DSX) too. There’s a separate lab exercise for the Data Scientist that does exactly that and you’re welcome to try that next!
+28. The predictive insight gleaned from the “Spiral” chart says a Data Scientist can explore building machine learning models such as a decision tree using the same data with the “Data Science Experience” (DSX) too. There’s a separate lab exercise for the Data Scientist that does exactly that and you’re welcome to try that next!
 
 29. Congratulations, you’re done with the lab exercise!
