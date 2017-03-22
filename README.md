@@ -1,9 +1,9 @@
-<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WDP-Architecture.png">
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WDP-Architecture.png">]
 # Hands on Labs
 ## Experience the IBM Watson Data Platform
 ### Where teams can collaboratively work together...
 
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/team image.png">](https://github.com/watsondataplatform/e2elab/)
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WDP-Architecture.png">]
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/E2E.png">](https://github.com/watsondataplatform/e2elab/)
 ### Accelerating End to End Analytics from months to minutes...
 
