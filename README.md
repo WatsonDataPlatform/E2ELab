@@ -1,4 +1,4 @@
-<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WDP-Architecture.png">
+<img src="https://github.com/WatsonDataPlatform/E2ELab/Media/WDP-Architecture.png">
 # Hands on Labs
 ## Experience the IBM Watson Data Platform
 ### Where teams can collaboratively work together...
