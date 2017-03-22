@@ -1,4 +1,3 @@
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/EventHeader.png">](https://github.com/ibmdataworks/datafirst/)
 #Hands on Lab - Business Analyst.
 [<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/BAE2E.png">](https://github.com/ibmdataworks/datafirst/tree/master/businessanalyst/)
 
