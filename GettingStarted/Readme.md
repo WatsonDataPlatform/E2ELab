@@ -74,16 +74,16 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 <img src="./media/Step2-image-07.png"/>
 
-4. **Review** and accept or **deselect** the options to be kept informed by email or phone by IBM.
+4. **Review** and check or uncheck the options to be kept informed of products, services and offerings from IBM.
 5. **Select** the "Create Account" button when it is enabled for selection.
 
 <img src="./media/Step2-image-08.png"/>
 
-You will see a page asking you to check your email for next steps. Check your email account that you just used to register for your Bluemix account.
+A page will appear notifying you to check your email to complete your registraion. Check your email account that you just used to register for your Bluemix account and open the email.
 
 <img src="./media/Step2-image-09.png"/>
 
-6. **Open** the email sent to you from Bluemix and **Click** on the “Confirm your account” link.
+6. **Select** the “Confirm your account” link.
 
 <img src="./media/Step2-image-10.png"/>
 
