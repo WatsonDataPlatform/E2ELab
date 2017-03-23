@@ -55,6 +55,8 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 > The new space will be created and you will be taken into the new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house all of the Watson Data Platform services and the application that you will be creating in the following sections.
 
+**Proceed to Step 3**
+
 ## If you don't have a Bluemix account...
 
 ### [Click Here to Register for a Bluemix Account](https://console.ng.bluemix.net/registration/)
@@ -95,30 +97,32 @@ You will be taken to a web page confirming that you sucessfully signed up for a 
 
 <img src="./media/Step2-image-11.png"/>
 
-1. **Select** the checkbox to agree to the terms and conditions.
-2. **Select** the “Continue” button.
+8. **Select** the checkbox to agree to the terms and conditions.
+9. **Select** the “Continue” button.
 
 > **Note** - I have redacted my email address on some screen shots to protect my identity, yours will not be.
 
 <img src="./media/Step2-image-12.png"/>
 
-3. **Click** on the email address suggestion for an organization name. It will be filled in for you as your organization name.
-4. **Select** the “Create” button.
+10. **Click** on the email address suggestion for an organization name. It will be filled in for you as your organization name.
+11. **Select** the “Create” button.
 
 <img src="./media/Step2-image-13.png"/>
 
-5. **Enter** “Watson Data Platform" (without quotes) as your Bluemix space name.
-6. **Select** the "Create" button.
+12. **Enter** “Watson Data Platform" (without quotes) as your Bluemix space name.
+13. **Select** the "Create" button.
 
 <img src="./media/Step2-image-14.png"/>
 
-7. **Select** the "I'm Ready" button.
+14. **Select** the "I'm Ready" button.
 
 ## Step 3: Create the Watson Data Platform Services
 
 <img src="./media/Step3-image-01.png" />
 
-1. **Select** the "Catalog" menu at the top of the Bluemix home page.  
+1. **Select** the "Catalog" menu at the top of the Bluemix home page.
+
+
 2. **Select** the "Data and Analytics" category from the categories on the left.  
 3. **Click on** the “Data Connect” service from the list of services on the right.  
 
