@@ -65,7 +65,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 <img src="./media/Step2-image-05.png"/>
 
-1. **Seletct** "I'm not a bot" check box.
+1. **Seletct** the "I'm not a bot" check box.
 
 <img src="./media/Step2-image-06.png"/>
 
