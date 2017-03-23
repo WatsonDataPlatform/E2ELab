@@ -98,12 +98,12 @@ You will be taken to a web page confirming that you sucessfully signed up for a 
 1. **Select** the checkbox to agree to the terms and conditions.
 2. **Select** the “Continue” button.
 
+> **Note** - I have redacted my email address on some screen shots to protect my identity, yours will not be.
+
 <img src="./media/Step2-image-12.png"/>
 
 3. **Click** on the email address suggestion for an organization name. It will be filled in for you as your organization name.
 4. **Select** the “Create” button.
-
-> **Note** - I have redacted my email address on some screen shots to protect my identity, yours will not be.
 
 <img src="./media/Step2-image-13.png"/>
 
