@@ -103,14 +103,12 @@ You will be taken to a web page confirming that you sucessfully signed up for a 
 3. **Click** on the email address suggestion for an organization name. It will be filled in for you as your organization name.
 4. **Select** the “Create” button.
 
-> **Note** - The email address that I used for my Bluemix account name is redacted to protect my email identity, yours will not be. A Bluemix organization has to be a unique name throughout Bluemix. By selecting your Bluemix email address account name as your oganization name ensures you have a unique organization name within Bluemix. It also synchs your Bluemix account and organizatin name to keep things simple.
+> **Note** - I have redacted my email address on several of the following screen shots to protect my identity, yours will not be.
 
 <img src="./media/Step2-image-13.png"/>
 
 5. **Enter** “Watson Data Platform" (without quotes) as your Bluemix space name.
 6. **Select** the "Create" button.
-
-> **Note** - Again, the email addres that I used for my organization has been redacted to protect my email identity, yours will not be.
 
 <img src="./media/Step2-image-14.png"/>
 
