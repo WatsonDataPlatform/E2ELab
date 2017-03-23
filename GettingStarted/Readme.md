@@ -29,7 +29,7 @@ Please **download** the nodejsDashboard Zip file that is used in the Application
 
 You will need a Bluemix account. Follow the instructions in one of the sections below depending on whether or not you have a Bluemix account.
 
-## If you alredy have a Bluemix account
+## If you alredy have a Bluemix account...
 
 ### Log Into Bluemix 
 
@@ -55,7 +55,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 > The new space will be created and you will be taken into the new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house all of the Watson Data Platform services and the application that you will be creating in the following sections.
 
-## If you don't have a Bluemix account
+## If you don't have a Bluemix account...
 
 ### [Click Here to Register for a Bluemix Account](https://console.ng.bluemix.net/registration/)
 
