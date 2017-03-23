@@ -1,7 +1,7 @@
 
 ## Before You Begin
 
-The "Watson Data Platform" lab is done using the IBM cloud. It uses a set of fully managed cloud data services; Cloudant and dashDB for Analytics to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform as a service (PaaS). It also uses Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, this lab requires that you download a set of files that you will use as your source data and to build your application.
+The "Watson Data Platform" labs are done using the IBM cloud. It uses a set of fully managed cloud data services; Cloudant and dashDB for Analytics to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform as a service (PaaS). It also uses Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, several of the labs require that you download a few files that are used as source datasets and to assist in building an application.
 
 ## Workflow
 
@@ -17,11 +17,11 @@ Step | Description
 
 ## Step 1: Download the Lab Files
 
-Please **Download** the Great Outdoor Customer Orders CSV file that is used in the Data Engineer and Business Analysis labs to your workstation and remember where you saved it:
+Please **download** the Great Outdoor Customer Orders CSV file, that is used in the Data Engineer and Business Analysis labs, to your workstation and remember where you saved it:
 
 ### [Click Here to Download the "Great Outdoor Customer Orders.csv" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
-Please **Download** the nodejsDashboard Zip file that is used in the Application Developer lab to your workstation and remember where you saved it:
+Please **download** the nodejsDashboard Zip file that is used in the Application Developer lab to your workstation and remember where you saved it:
 
 ### [Click Here to Download the "nodejsDashboard.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
 
@@ -43,7 +43,6 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 ### Create a Bluemix Space
 
-
 <img src="./media/Step4-image-01.png"/>  
 
 1. **Select** the Account information area in the top right corner of your Bluemix account home page.
@@ -54,7 +53,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 3. **Enter** “Watson Data Platform” (without quotes) for the space name.  
 4. **Select** the “Create” button.  
 
-> Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
+> The new space will be created and you will be taken into the new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house all of the Watson Data Platform services and the application that you will be creating in the following sections.
 
 ## If you don't have a Bluemix account
 
@@ -66,11 +65,11 @@ Fill in the required information (required fields are marked with an asterick) o
 
 <img src="./media/Step1-image-02.png"/>
 
-You will see a page asking you to check your email for next steps. Check your email account that you used when you registered for your Bluemix account.
+You will see a page asking you to check your email for next steps. Check your email account that you used to register for your Bluemix account.
 
 <img src="./media/Step1-image-03.png"/>
 
-Click on the “confirm your account” link.
+Click on the “Confirm your account” link.
 
 ## Step 3: Create the Watson Data Platform Services
 
