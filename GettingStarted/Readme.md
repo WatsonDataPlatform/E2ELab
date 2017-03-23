@@ -66,18 +66,30 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 <img src="./media/Step2-image-05.png"/>
 
 1. **Seletct** "I'm not a bot" check box.
-2. **Select** the images you are instructed to select. In this example you need to Select all squares with street signs. 
-3. **Select** the "Verify" button.
-4. **Select** or **"De-select"** the options for email and telephone contact. The example shows them de-selected.
-5. **Select** the "Create Account" button when it is enabled for selection.
 
 <img src="./media/Step2-image-06.png"/>
 
-You will see a page asking you to check your email for next steps. Check your email account that you used to register for your Bluemix account.
+2. **Select** the images you are instructed to select. For instance, Select all squares with street signs. 
+3. **Select** the "Verify" button.
 
 <img src="./media/Step2-image-07.png"/>
 
-Click on the “Confirm your account” link.
+4. **Review** and accept or **deselect** the options to be kept informed by email or phone by IBM.
+5. **Select** the "Create Account" button when it is enabled for selection.
+
+<img src="./media/Step2-image-08.png"/>
+
+You will see a page asking you to check your email for next steps. Check your email account that you just used to register for your Bluemix account.
+
+<img src="./media/Step2-image-09.png"/>
+
+6. **Open** the email sent to you from Bluemix and **Click** on the “Confirm your account” link.
+
+<img src="./media/Step2-image-10.png"/>
+
+You will see a page confirming that you sucessfully signed up for a Bluemix account and that it is now activated.
+
+7. **Select** the "Log in" link to log into your new Bluemix account.
 
 ## Step 3: Create the Watson Data Platform Services
 
