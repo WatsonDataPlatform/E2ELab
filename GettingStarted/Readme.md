@@ -69,10 +69,10 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 <img src="./media/Step2-image-06.png"/>
 
+> **Note** - You may be asked to verify multiple images using a wizard type approach with a Next button. You may also see a Skip button to not select anything if there are no images that meet the criteria you are asked to select. Select the Skip or Next button as instructed until you get to a screen (as shown aboove) with a Verify button.
+
 2. **Select** the images you are instructed to select. For instance, Select all squares with street signs. 
 3. **Select** the "Verify" button.
-
-> **Note** - You may be asked to verify multiple images using a wizard type approach with a Next button. You may also see a Skip button to not select anything if there are no images that meet the criteria you are asked to select. Select the Skip or Next button as instructed until you get to a screen (as shown aboove) with a Verify button.
 
 <img src="./media/Step2-image-07.png"/>
 
