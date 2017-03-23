@@ -8,7 +8,7 @@
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Demo%20Flow.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
 ## [Getting Started - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/gettingstarted/)
-These labs are done using Bluemix, IBM's cloud platform. Before you proceed with any of the labs you will need to register for a Bluemix and Watson Analytics account and create a set of Bluemix services that are required to complete the labs sucessfully. 
+**Perform this step first**. There are pre-requisites that are required before you perform any of the labs listed below. This step will prepare your IBM cloud environment and provide all the components necessary to sucessfully complete the labs as a whole or individually.
 
 ## [Data Engineer Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
 Perform this hands-on lab and in a few clicks you can shape, refine, and persist customer transaction data into Watson Analytics for immediate analytical insight.
