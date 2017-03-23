@@ -61,7 +61,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 <img src="./media/Step2-image-04.png"/>
 
-Fill in the required information (required fields are marked with an asterick) on the right side panel and then click the *Create Account* button on the bottom of the panel.
+Fill in the required information (required fields are marked with an asterick) on the right side panel.
 
 <img src="./media/Step2-image-05.png"/>
 
