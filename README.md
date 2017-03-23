@@ -9,7 +9,6 @@
 
 ## [Getting Started - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/gettingstarted/)
 **Perform this step first**. There are pre-requisites that are required before you perform any of the labs listed below. This step will prepare your IBM cloud environment and provide all the components necessary to sucessfully complete the labs as a whole or individually.
-
 ## [Data Engineer Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
 Perform this hands-on lab and in a few clicks you can shape, refine, and persist customer transaction data into Watson Analytics for immediate analytical insight.
 ## [Business Analyst Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/businessanalyst/)
