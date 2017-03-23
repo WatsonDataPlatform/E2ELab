@@ -89,9 +89,32 @@ A page will appear notifying you to check your email to complete your registraio
 
 <img src="./media/Step2-image-10.png"/>
 
-You will see a page confirming that you sucessfully signed up for a Bluemix account and that it is now activated.
+You will be taken to a web page confirming that you sucessfully signed up for a Bluemix account and that it is now activated.
 
-7. **Select** the "Log in" link to log into your new Bluemix account.
+7. **Click** on the "Log in" link to log into your new Bluemix account.
+
+<img src="./media/Step2-image-11.png"/>
+
+1. **Select** the checkbox to agree to the terms and conditions.
+2. **Select** the “Continue” button.
+
+<img src="./media/Step2-image-12.png"/>
+
+3. **Click** on the email address suggestion for an organization name. It will be filled in for you as your organization name.
+4. **Select** the “Create” button.
+
+> **Note** - The email address that I used for my Bluemix account name is redacted to protect my email identity, yours will not be. A Bluemix organization has to be a unique name throughout Bluemix. By selecting your Bluemix email address account name as your oganization name ensures you have a unique organization name within Bluemix. It also synchs your Bluemix account and organizatin name to keep things simple.
+
+<img src="./media/Step2-image-13.png"/>
+
+5. **Enter** “Watson Data Platform" (without quotes) as your Bluemix space name.
+6. **Select** the "Create" button.
+
+> **Note** - Again, the email addres that I used for my organization has been redacted to protect my email identity, yours will not be.
+
+<img src="./media/Step2-image-14.png"/>
+
+7. **Select** the "I'm Ready" button.
 
 ## Step 3: Create the Watson Data Platform Services
 
