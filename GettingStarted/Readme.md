@@ -103,7 +103,7 @@ You will be taken to a web page confirming that you sucessfully signed up for a 
 3. **Click** on the email address suggestion for an organization name. It will be filled in for you as your organization name.
 4. **Select** the “Create” button.
 
-> **Note** - I have redacted my email address on several of the following screen shots to protect my identity, yours will not be.
+> **Note** - I have redacted my email address on some screen shots to protect my identity, yours will not be.
 
 <img src="./media/Step2-image-13.png"/>
 
