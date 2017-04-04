@@ -5,7 +5,7 @@ As a Data Engineer, you are constantly challenged with the constant and expediat
 
 The IBM Bluemix Data Connect service, an intergral component of the Watson Data Platform, helps tackle these challenges.
 
-Bluemix Data Connect is a fully managed, self-service, data preparation and integration service that enables you to easily make data fit for use. It provides instant access to your data wherever it resides, on the cloud or on-premises. You can blend data together from multiple relevant data sources to create powerful insights and then refinine and cleanse it using a robust catalog of transformation operations and then deliver it, with confidence, to one of many supported cloud or on-premises targets.
+Bluemix Data Connect is a fully managed self-service, data preparation and integration service that empowers users to easily streamline analytical and application development projects to deliver insights faster and with increased accuracy. It provides a wide range of data access connectors to your most essential data sources wherever they reside; on the cloud or on-premises, so you can explore, combine, and shape your data to prepare it for analytics. Use it to positively impact the way your organization leverages valuable data resources - all from the convenience of the cloud.
 
 Data Connect is managed by IBM in the cloud, so you can sleep better at night, with Pay-as-you-go and subscription pricing options to get started quickly. It’s powered by Spark for a speedy and responsive experience and can easily integrate data across different platforms and is seamlessly integrated with Watson Analytics. Bluemix Data Connect empowers non-technical and technical users to simply put data to work.
 
