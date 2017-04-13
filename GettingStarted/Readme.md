@@ -1,7 +1,7 @@
 
 ## Before You Begin
 
-The "Watson Data Platform" labs are done using the IBM cloud. It uses a set of fully managed cloud data services; Cloudant and dashDB for Analytics to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform as a service (PaaS). It also uses Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, several of the labs require that you download a few files that are used as source datasets and to assist in building an application.
+The "Watson Data Platform" labs are done using the IBM cloud. They use a set of fully managed cloud data services; Cloudant and dashDB for Analytics to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform. They also use Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, several of the labs require that you download a few files that are used as source datasets and to assist in building an application.
 
 ## Workflow
 
@@ -17,11 +17,11 @@ Step | Description
 
 ## Step 1: Download the Lab Files
 
-Please **download** the Great Outdoor Customer Orders CSV file, that is used in the Data Engineer and Business Analysis labs, to your workstation and remember where you saved it:
+**Download** the Great Outdoor Customer Orders CSV file, that is used in the Data Engineer and Business Analysis labs, to your workstation and remember where you saved it:
 
 ### [Click Here to Download the "Great Outdoor Customer Orders.csv" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
-Please **download** the nodejsDashboard Zip file that is used in the Application Developer lab to your workstation and remember where you saved it:
+**Download** the nodejsDashboard Zip file that is used in the Application Developer lab to your workstation and remember where you saved it:
 
 ### [Click Here to Download the "nodejsDashboard.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
 
@@ -53,7 +53,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 3. **Enter** “Watson Data Platform” (without quotes) for the space name.  
 4. **Select** the “Create” button.  
 
-> The new space will be created and you will be taken into the new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house all of the Watson Data Platform services and the application that you will be creating in the following sections.
+> The new space will be created and you will be placed into the space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house all of the Watson Data Platform services and the application you will be creating in the Application Developer lab.
 
 **Proceed to Step 3**
 
@@ -71,7 +71,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 <img src="./media/Step2-image-06.png"/>
 
-> **Note** - You may be asked to verify multiple images using a wizard type approach with a Next button. You may also see a Skip button to not select anything if there are no images that meet the criteria you are asked to select. Select the Skip or Next button as instructed until you get to a screen (as shown aboove) with a Verify button.
+> **Note** - You may be asked to verify multiple images. Select the Skip or Next button as instructed until you get to a screen (as shown above) with a Verify button.
 
 2. **Select** the images you are instructed to select. For instance, Select all squares with street signs. 
 3. **Select** the "Verify" button.
@@ -83,7 +83,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 <img src="./media/Step2-image-08.png"/>
 
-A page will appear notifying you to check your email to complete your registraion. Check your email account that you just used to register for your Bluemix account and open the email.
+A page will appear notifying you to check your email to complete your registraion. Check the email account that you supplied to register for your Bluemix account and open the email.
 
 <img src="./media/Step2-image-09.png"/>
 
@@ -91,7 +91,7 @@ A page will appear notifying you to check your email to complete your registraio
 
 <img src="./media/Step2-image-10.png"/>
 
-You will be taken to a web page confirming that you sucessfully signed up for a Bluemix account and that it is now activated.
+You will be taken to a web page confirming that you sucessfully signed up for Bluemix and that it is now activated.
 
 7. **Click** on the "Log in" link to log into your new Bluemix account.
 
