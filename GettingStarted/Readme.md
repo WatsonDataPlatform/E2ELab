@@ -179,6 +179,6 @@ Click on the “TRY IT FOR FREE” button. You have the option to click on “Vi
 
 <img src="./media/Step5-image-05.png"/>
 
-6.  At this point, you will see a status screen saying “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as below confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!
+6.  At this point, you will see a status screen saying “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as below confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
 
 <img src="./media/Step5-image-06.png"/>
