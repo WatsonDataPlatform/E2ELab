@@ -133,19 +133,20 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
 7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.  
 
-<img src="./media/Step3-image-03.png" />
+<img src="./media/Step3-image-01.png" />
 
-8. **Select** the “LAUNCH” button to start using Bluemix Data Connect - It will open in a new tab in your browser.
+8. **Select** the "Catalog" menu at the top of the Bluemix home page.
 
-<img src="./media/Step3-image-04.png"/>
 
-> The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
+2. **Select** the "Data and Analytics" category from the categories on the left.  
+3. **Click on** the “Data Connect” service from the list of services on the right.  
 
-> **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
+<img src="./media/Step3-image-02.png" />
 
-1. **Select** the menu control button. The menu will disappear. Select it again and the menu will reappear.  
-2. **Select** the Activities menu item. It will take you to the Activities section of the interface.  
-3. **Select** the Data Connect service name to get back to the home page.
+4. **Enter** "dashDB for Analytics” (without quotes) for the Service name.  
+5. **Enter** “Data Connect” (without quotes) for the Credential name.  
+6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
+7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
 
 ## Step 4: Create a Watson Data Platform Application
 
