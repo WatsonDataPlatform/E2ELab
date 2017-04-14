@@ -124,7 +124,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step3-image-02.png" />
 
-2. **Enter** "data connect" in the search area.  
+2. **Enter** "data connect" (without quotes) in the catalog search area.  
 3. **Click on** the “Data Connect” service.  
 
 <img src="./media/Step3-image-03.png" />
@@ -133,21 +133,6 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 5. **Enter** “Data Connect” (without quotes) for the Credential name.  
 6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
 7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.  
-
-<img src="./media/Step3-image-01.png" />
-
-8. **Select** the "Catalog" menu at the top of the Bluemix home page.
-
-
-2. **Select** the "Data and Analytics" category from the categories on the left.  
-3. **Click on** the “Data Connect” service from the list of services on the right.  
-
-<img src="./media/Step3-image-02.png" />
-
-4. **Enter** "dashDB for Analytics” (without quotes) for the Service name.  
-5. **Enter** “Data Connect” (without quotes) for the Credential name.  
-6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
-7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
 
 ## Step 4: Create a Watson Data Platform Application
 
