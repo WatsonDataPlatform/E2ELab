@@ -122,11 +122,12 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 1. **Select** the "Catalog" menu at the top of the Bluemix home page.
 
-
-2. **Select** the "Data and Analytics" category from the categories on the left.  
-3. **Click on** the “Data Connect” service from the list of services on the right.  
-
 <img src="./media/Step3-image-02.png" />
+
+2. **Enter** "data connect" in the search area.  
+3. **Click on** the “Data Connect” service.  
+
+<img src="./media/Step3-image-03.png" />
 
 4. **Enter** "Data Connect” (without quotes) for the Service name.  
 5. **Enter** “Data Connect” (without quotes) for the Credential name.  
