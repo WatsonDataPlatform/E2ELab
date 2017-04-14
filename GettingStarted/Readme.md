@@ -118,8 +118,6 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 ## Step 3: Create the Watson Data Platform Services
 
-# Create Object Storage
-
 <img src="./media/Step3-image-01.png" />
 
 1. **Select** the "Catalog" menu at the top of the Bluemix home page.
