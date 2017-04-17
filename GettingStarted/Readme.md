@@ -237,20 +237,24 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 > Notice that my application name is "WDP Lab Rick Buglio Application" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name has to be a unique in Bluemix. Using your First and Last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
 
-5. **Select** the "Create" button.
+5. **Select** the "Create" button and the application creation process will begin. 
 
 <img src="./media/Step4-image-04.png" />
 
-The application creation process will begin. You are taken to the application page and Bluemix will begin starting the application. Wait until you see that the application is running.
+> You are taken to the application page and Bluemix will begin starting the application. You will see a starting status with a spinning wheel. Wait until you see that the application is a running status.
 
-6. **Select** the "Dashboard" button in the left side main menu when the application is in a running state.
+6. **Select** the "Dashboard" button in the left side main menu when the application is in a running state. This will take you back to your Bluemix account dashboard.
+
+<img src="./media/Step4-image-05.png" />
+
+> You should see your newly created application in the All Apps section of your Bluemix dashboard.
 
 ## Step 5: Create a Watson Analytics Account
 
 You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
 
-  > https://watson.analytics.ibmcloud.com/product
-  >
+### [Click Here to Register for a Watson Analytics account](https://watson.analytics.ibmcloud.com/product)
+
 
 Click on the “TRY IT FOR FREE” button. You have the option to click on “View pricing and buy” from the next screen. Watson Analytics provides 2 paid editions “Plus” and “Professional” with monthly license charges of $30 and $80, with included storage of 2GB and 100GB respectively. For now, you will go with the “Free” license and click on “Try free edition”.
 
