@@ -174,7 +174,25 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 <img src="./media/Step3-image-11.png" />
 
 8. **Enter** "WDP Lab dashDB” (without quotes) for the Credential name.   
-9. **Select** the the "Add" button. The service will be created and the launch page is displayed.
+9. **Select** the the "Add" button. The service credentials will be created.
+
+<img src="./media/Step3-image-12.png" />
+
+10. **Select** the "View credentials v" down arrow to view the newly created credentials.
+
+> **Note** - These are the WDP Lab dashDB service credentials you will need to access the dashDB service in the Data Engineering and Data Science labs. Remember how to get back to this area of the service. I have redacted my password,  to protect my identity, yours will be visible.
+
+11. **Select** the "Catalog" menu at the top of the Bluemix home page.
+
+<img src="./media/Step3-image-13.png" />
+
+2. **Enter** "dashdb" (without quotes) in the catalog search area.  
+3. **Click on** the “dashDB for Analytics” service.  
+
+<img src="./media/Step3-image-14.png" />
+
+4. **Enter** "WDP Lab dashDB” (without quotes) for the Service name.   
+5. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
 
 ## Step 4: Create a Watson Data Platform Application
 
