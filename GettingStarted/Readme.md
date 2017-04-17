@@ -135,8 +135,11 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 4. **Enter** "WDP Lab Data Connect” (without quotes) for the Service name.  
 5. **Enter** “WDP Lab Data Connect” (without quotes) for the Credential name.  
-6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
-7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.  
+6. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+
+<img src="./media/Step3-image-04.png" />
+
+1. **Select** the "Catalog" menu at the top of the Bluemix home page.
 
 ## Step 4: Create a Watson Data Platform Application
 
