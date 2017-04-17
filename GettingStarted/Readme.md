@@ -158,14 +158,23 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step3-image-08.png" />
 
-2. **Enter** "data connect" (without quotes) in the catalog search area.  
-3. **Click on** the “Data Connect” service.  
+2. **Enter** "dashdb" (without quotes) in the catalog search area.  
+3. **Click on** the “dashDB for Analytics” service.  
 
 <img src="./media/Step3-image-09.png" />
 
-4. **Enter** "WDP Lab Data Connect” (without quotes) for the Service name.  
-5. **Enter** “WDP Lab Data Connect” (without quotes) for the Credential name.  
-6. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+4. **Enter** "WDP Lab dashDB” (without quotes) for the Service name.   
+5. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+
+<img src="./media/Step3-image-10.png" />
+
+6. **Select** the "Service Credentials” tab from the dashDB for Analytics launch page.   
+7. **Select** the the "New Credential +" button.
+
+<img src="./media/Step3-image-11.png" />
+
+8. **Enter** "WDP Lab dashDB” (without quotes) for the Credential name.   
+9. **Select** the the "Add" button. The service will be created and the launch page is displayed.
 
 ## Step 4: Create a Watson Data Platform Application
 
