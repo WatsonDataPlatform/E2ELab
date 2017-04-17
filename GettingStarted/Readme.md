@@ -226,6 +226,23 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 1. **Select** the "Catalog" menu at the top of the Bluemix home page.
 
+<img src="./media/Step4-image-02.png" />
+
+2. **Enter** "cloud foundry" (without quotes) in the catalog search area.  
+3. **Click on** the “SDK for Node.js" Application.
+
+<img src="./media/Step4-image-03.png" />
+
+4. **Enter** "WDP Lab Your Name Application” (without quotes), with Your Name equal to your First and Last Name. The Host name will be filled in automatically for you with dashed in place of spaces.
+
+> Notice that my application name is "WDP Lab Rick Buglio Application" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name has to be a unique in Bluemix. Using your First and Last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
+
+5. **Select** the "Create" button.
+
+<img src="./media/Step4-image-04.png" />
+
+The application will begin to create and you will be taken to the application page and Bluemix will begin starting the application. Wait until you see that the application is running.
+
 ## Step 5: Create a Watson Analytics Account
 
 You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
