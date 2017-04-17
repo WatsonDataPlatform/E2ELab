@@ -222,6 +222,10 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 ## Step 4: Create the Watson Data Platform Lab Application
 
+<img src="./media/Step4-image-01.png" />
+
+1. **Select** the "Catalog" menu at the top of the Bluemix home page.
+
 ## Step 5: Create a Watson Analytics Account
 
 You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
