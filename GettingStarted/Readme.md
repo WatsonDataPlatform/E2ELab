@@ -193,9 +193,28 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step3-image-15.png" />
 
-4. **Enter** "WDP Apache Spark” (without quotes) for the Service name.
-5. **Enter** “WDP Apache Spark” (without quotes) for the Credential name. 
-5. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+4. **Enter** "WDP Lab Apache Spark” (without quotes) for the Service name.
+5. **Enter** “WDP Lab Apache Spark” (without quotes) for the Credential name. 
+5. **Select** the "CREATE" button. The service will be created and the launch page is displayed.
+
+<img src="./media/Step3-image-16.png" />
+
+1. **Select** the "Catalog" menu at the top of the Bluemix home page.
+
+<img src="./media/Step3-image-17.png" />
+
+2. **Enter** "cloud data store" (without quotes) in the catalog search area.  
+3. **Click on** the “Object Storage” service.  
+
+<img src="./media/Step3-image-18.png" />
+
+4. **Enter** "WDP Lab Object Storage” (without quotes) for the Service name.
+5. **Scroll down** the service page to the Pricing area.
+
+<img src="./media/Step3-image-19.png" />
+
+6. **Select** the "Free" service plan.
+7. **Select** the "CREATE" button. You receive a message that the service is being created and that it may take a few minutes. The message will disappear and you will be taken to the services dashboard of your Bluemix account.
 
 ## Step 4: Create a Watson Data Platform Application
 
