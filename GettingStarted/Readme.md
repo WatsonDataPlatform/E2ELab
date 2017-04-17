@@ -135,7 +135,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 4. **Enter** "WDP Lab Data Connect” (without quotes) for the Service name.  
 5. **Enter** “WDP Lab Data Connect” (without quotes) for the Credential name.  
-6. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+6. **Select** the the "Create" button. The service will be created and the launch page is displayed.
 
 <img src="./media/Step3-image-04.png" />
 
@@ -148,9 +148,9 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step3-image-06.png" />
 
-4. **Enter** "WDP Lab Cloudant” (without quotes) for the Service name.  
-5. **Enter** “WDP Lab Cloudant” (without quotes) for the Credential name.  
-6. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+4. **Enter** "WDP Lab Cloudant NoSQL DB” (without quotes) for the Service name.  
+5. **Enter** “WDP Lab Cloudant NoSQL DB” (without quotes) for the Credential name.  
+6. **Select** the the "Create" button. The service will be created and the launch page is displayed.
 
 <img src="./media/Step3-image-07.png" />
 
@@ -163,8 +163,8 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step3-image-09.png" />
 
-4. **Enter** "WDP Lab dashDB” (without quotes) for the Service name.   
-5. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+4. **Enter** "WDP Lab dashDB for Analytics” (without quotes) for the Service name.   
+5. **Select** the the "Create" button. The service will be created and the launch page is displayed.
 
 <img src="./media/Step3-image-10.png" />
 
@@ -173,7 +173,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step3-image-11.png" />
 
-8. **Enter** "WDP Lab dashDB” (without quotes) for the Credential name.   
+8. **Enter** "WDP Lab dashDB for Analytics” (without quotes) for the Credential name.   
 9. **Select** the the "Add" button. The service credentials will be created.
 
 <img src="./media/Step3-image-12.png" />
@@ -195,7 +195,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 4. **Enter** "WDP Lab Apache Spark” (without quotes) for the Service name.
 5. **Enter** “WDP Lab Apache Spark” (without quotes) for the Credential name. 
-5. **Select** the "CREATE" button. The service will be created and the launch page is displayed.
+5. **Select** the "Create" button. The service will be created and the launch page is displayed.
 
 <img src="./media/Step3-image-16.png" />
 
@@ -214,7 +214,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 <img src="./media/Step3-image-19.png" />
 
 6. **Select** the "Free" service plan.
-7. **Select** the "CREATE" button. You receive a message that the service is being created and that it may take a few minutes. The message will disappear and you will be taken to the services dashboard of your Bluemix account.
+7. **Select** the "Create" button. You receive a message that the service is being created and that it may take a few minutes. The message will disappear and you will be taken to the services dashboard of your Bluemix account.
 
 <img src="./media/Step3-image-20.png" />
 
@@ -241,7 +241,9 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step4-image-04.png" />
 
-The application will begin to create and you will be taken to the application page and Bluemix will begin starting the application. Wait until you see that the application is running.
+The application creation process will begin. You are taken to the application page and Bluemix will begin starting the application. Wait until you see that the application is running.
+
+6. **Select** the "Dashboard" button in the left side main menu when the application is in a running state.
 
 ## Step 5: Create a Watson Analytics Account
 
