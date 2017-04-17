@@ -251,17 +251,15 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 ## Step 5: Create a Watson Analytics Account
 
-You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
+You will need a Watson Analytics account. If you **don't** have an account:
 
 ### [Click Here to Register for a Watson Analytics account](https://watson.analytics.ibmcloud.com/product)
 
+<img src="./media/Step5-image-01.png" />
 
-Click on the “TRY IT FOR FREE” button. You have the option to click on “View pricing and buy” from the next screen. Watson Analytics provides 2 paid editions “Plus” and “Professional” with monthly license charges of $30 and $80, with included storage of 2GB and 100GB respectively. For now, you will go with the “Free” license and click on “Try free edition”.
+1. Click on the “Try it for free” button.
 
-
-1.  Open a browser and go to “watsonanalytics.com”. This will redirect you to the URL: <https://watson.analytics.ibmcloud.com/product> and click on “TRY IT FOR FREE” button as shown below:
-
-<img src="./media/Step5-image-01.png"/>
+<img src="./media/Step5-image-02.png"/>
    
 2.  You have the option to click on “View pricing and buy” from the next screen. Watson Analytics provides 2 paid editions “Plus” and “Professional” with monthly license charges of $30 and $80, with included storage of 2GB and 100GB respectively. For now, let’s go with the “Free” license and click on “Try free edition”. To read more about the editions, please check out: <https://www.ibm.com/analytics/watson-analytics/us-en/solution/editions>
 
