@@ -261,19 +261,9 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 <img src="./media/Step5-image-02.png"/>
    
-2.  You should already have an IBM account. It was created for you when you created a Bluemix account. **Select** the "Log in" link to begin creating your Watson Analtics account using the same exact email address you used to create your Bluemix account, this will be your IBM account.
-
-3.  You will be taken to the “Purchase” page, from where click on “Try free edition”. This will set up a “Free” account that supports 1MB of storage for a single user for an indefinite period and a 30-day trial of the Professional single user account. The “Free” account only allows text files to be uploaded into Watson Analytics, whereas from Professional Account you can bring in a variety of data sources on the cloud and on-premise with up to 100GB of storage (additional storage can be purchased at $50 per month per 50GB).
-
-<img src="./media/Step5-image-02.png"/>
-
-3.  You will be taken to the “Purchase” page, from where click on “Try free edition”. This will set up a “Free” account that supports 1MB of storage for a single user for an indefinite period and a 30-day trial of the Professional single user account. The “Free” account only allows text files to be uploaded into Watson Analytics, whereas from Professional Account you can bring in a variety of data sources on the cloud and on-premise with up to 100GB of storage (additional storage can be purchased at $50 per month per 50GB).
+2.  You will now be prompted to setup an IBM account using the sign-up form as shown above. However, if you already have an IBM account, which you should haveid, one was created for you when you created a Bluemix account, **Select** the "Log in" link to begin creating your Watson Analtics account using the same exact email address you used to create your Bluemix account, this will be your IBM account.
 
 <img src="./media/Step5-image-03.png"/>
-
-4.  You will now be prompted to setup an IBMid using the sign-up form as shown below. However, if you already have an IBMid, you can click on “Already have an IBMid” as highlighted below and sign-on with those credentials to request Watson Analytics account setup.
-
-<img src="./media/Step5-image-04.png"/>
 
 5.  To activate your IBMid, you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), that you can retrieve from your email box and type it on the sign-up page as shown below.
 
