@@ -13,32 +13,11 @@ With Data Connect, Data Engineers can enable self-service data access to end use
 
 This lab will demonstrate how a data engineer can easily utilize these capabilities of the Data Connect service: 
 
-* Creating and working with the Bluemix Data Connect service
-*	Creating and working with Bluemix Data Connect connections
+* Creating and working with Bluemix Data Connect connections
 *	Visualizing and understanding data quality and Content
 *	Preparing and transforming data
 *	Executing and monitoring data activities
 * Persiting data into Watson Analytics
-
-## Before You Begin
-
-> This lab is done from the web using Bluemix, IBM’s Cloud Infrastructure and Platform As-a-Service and Watson Analytics, IBM’s premiere analytical Software-As-a-Solution. It also uses a supplied CSV file as a source dataset. Please perform the following steps before you proceed any further:
-
-1. **Download** the Great Outdoor Customer Orders CSV file from the GitHub location below and save the file to a location of your choice on your workstation:
-
- > https://github.com/WatsonDataPlatform/E2ELab/blob/master/dataengineer/Great%20Outdoor%20Customer%20Orders.csv
-
-2. You will need a Bluemix account. If you don't have an account, click on the URL below to register for one:
-
-  > https://console.ng.bluemix.net/registration
-  >
-  > Fill in all information on the right side panel and then click on the *Create Account* button on the bottom of    the right side panel.
-
-3. You will need a Watson Analytics account. If you don't have an account, click on the URL below to create one:
-
-  > https://watson.analytics.ibmcloud.com/product
-  >
-  > Click on the “TRY IT FOR FREE” button. You have the option to click on “View pricing and buy” from the next screen. Watson Analytics provides 2 paid editions “Plus” and “Professional” with monthly license charges of $30 and $80, with included storage of 2GB and 100GB respectively. For now, you will go with the “Free” license and click on “Try free edition”.
 
 ## Workflow
 
@@ -48,14 +27,11 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 
 Step | Description
 ------------ | -------------
-1 | Login to Bluemix
-2	| Create a Bluemix Space
-3	| Create a Data Connect Service
-4	| Create a Watson Analytics Connection
-5	| Import the Source Data File
-6	| Refine the Data
-7	| Complete and Run the Data Activity
-8 | Validate the Results
+1	| Create a Watson Analytics Connection
+2	| Import the Source Dataset
+3	| Refine the Data
+4	| Complete and Run the Data Activity
+5 | Validate the Results
 
 ## Step 1: Login to Bluemix
 
@@ -79,20 +55,13 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 > Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
 
-## Step 3: Create a Data Connect Service
+## Step 3: Select the Data Connect Service
 
 <img src="./media/Step3-image-1.png" />
 
 1. **Select** the "Catalog" menu at the top of the Bluemix home page.  
 2. **Select** the "Data and Analytics" category from the categories on the left.  
 3. **Click on** the “Data Connect” service from the list of services on the right.  
-
-<img src="./media/Step3-image-2.png" />
-
-4. **Enter** "Data Connect” (without quotes) for the Service name.  
-5. **Enter** “Data Connect” (without quotes) for the Credential name.  
-6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
-7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.  
 
 <img src="./media/Step3-image-3.png" />
 
@@ -134,7 +103,7 @@ Using your preferred web browser, go to URL https://console.ng.bluemix.net
 
 <img src="./media/Step4-image-5.png"/>
 
-## Step 5: Import the Source File
+## Step 5: Import the Source Dataset
 
 <img src="./media/Step5-image-1.png"/>  
 
