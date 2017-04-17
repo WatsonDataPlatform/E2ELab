@@ -216,6 +216,10 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 6. **Select** the "Free" service plan.
 7. **Select** the "CREATE" button. You receive a message that the service is being created and that it may take a few minutes. The message will disappear and you will be taken to the services dashboard of your Bluemix account.
 
+<img src="./media/Step3-image-20.png" />
+
+> **Note** - You should have 5 services in your services dashboard. These are the services that will be used by the Watson Data Platform labs; Data Engineering, Business Analytics, Data Science and Application Development.
+
 ## Step 4: Create a Watson Data Platform Application
 
 ## Step 5: Create a Watson Analytics Account
