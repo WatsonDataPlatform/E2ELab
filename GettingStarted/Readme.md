@@ -17,15 +17,15 @@ Step | Description
 
 ## Step 1: Download the Lab Files
 
-**Download** the Great Outdoor Customer Orders CSV file that is used in the Data Engineering, Business Analysis and Data Sciene labs, to your workstation:
+**Download** the Great Outdoor Customer Orders CSV file to your workstation. This file is used in the Data Engineering, Business Analysis and Data Science labs. 
 
 ### [Click Here to Download the "Great Outdoor Customer Orders.csv" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
-**Download** the nodejsDashboard Zip file that is used in the Application Development lab to your workstation:
+**Download** the nodejsDashboard Zip file to your workstation. This file is used in the Application Development lab.
 
 ### [Click Here to Download the "nodejsDashboard.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/nodejsDashboard.zip)
 
-**Download** the Lab-DSX-ML Zip file that is used in the Data Science lab to your workstation:
+**Download** the Lab-DSX-ML Zip file to your workstation. This file is used in the Data Science lab.
 
 ### [Click Here to Download the "Lab-DSX-ML.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Lab-DSX-ML.zip)
 
