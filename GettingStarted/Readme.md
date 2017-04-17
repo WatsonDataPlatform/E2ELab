@@ -261,7 +261,7 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 <img src="./media/Step5-image-02.png"/>
    
-2.  You should already have an IBM ID. It was created for you when you created a Bluemix account. **Select** the "Log in" link to begin creating your Watson Analtics account using the same exact email address you used to create your Bluemix account.
+2.  You should already have an IBM account. It was created for you when you created a Bluemix account. **Select** the "Log in" link to begin creating your Watson Analtics account using the same exact email address you used to create your Bluemix account, this will be your IBM account.
 
 3.  You will be taken to the “Purchase” page, from where click on “Try free edition”. This will set up a “Free” account that supports 1MB of storage for a single user for an indefinite period and a 30-day trial of the Professional single user account. The “Free” account only allows text files to be uploaded into Watson Analytics, whereas from Professional Account you can bring in a variety of data sources on the cloud and on-premise with up to 100GB of storage (additional storage can be purchased at $50 per month per 50GB).
 
