@@ -27,7 +27,7 @@ Step | Description
 
 **Download** the Lab-DSX-ML Zip file that is used in the Data Science lab to your workstation:
 
-### [Click Here to Download the "nodejsDashboard.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Lab-DSX-ML.zip)
+### [Click Here to Download the "Lab-DSX-ML.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Lab-DSX-ML.zip)
 
 ## Step 2: Create a Bluemix Account
 
