@@ -193,7 +193,8 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step3-image-15.png" />
 
-4. **Enter** "WDP Apache Spark” (without quotes) for the Service name.   
+4. **Enter** "WDP Apache Spark” (without quotes) for the Service name.
+5. **Enter** “WDP Apache Spark” (without quotes) for the Credential name. 
 5. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
 
 ## Step 4: Create a Watson Data Platform Application
