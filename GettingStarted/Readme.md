@@ -57,7 +57,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 3. **Enter** “Watson Data Platform” (without quotes) for the space name.  
 4. **Select** the “Create” button.  
 
-> The new space will be created and you will be placed into the space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house all of the Watson Data Platform services and the application you will be creating in the Application Developer lab.
+> The new space will be created and you will be placed into it. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Watson Data Platform Lab services and application.
 
 **Proceed to Step 3**
 
@@ -133,8 +133,8 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step3-image-03.png" />
 
-4. **Enter** "Data Connect” (without quotes) for the Service name.  
-5. **Enter** “Data Connect” (without quotes) for the Credential name.  
+4. **Enter** "WDP Lab Data Connect” (without quotes) for the Service name.  
+5. **Enter** “WDP Lab Data Connect” (without quotes) for the Credential name.  
 6. **Select** the “Starter” plan from the Pricing Plans section (it is typically selected by default).  
 7. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.  
 
