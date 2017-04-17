@@ -120,7 +120,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 14. **Select** the "I'm Ready" button.
 
-## Step 3: Create the Watson Data Platform Services
+## Step 3: Create the Watson Data Platform Lab Services
 
 <img src="./media/Step3-image-01.png" />
 
@@ -220,7 +220,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 > **Note** - You should have 5 services in your services dashboard. These are the services that will be used by the Watson Data Platform labs; Data Engineering, Business Analytics, Data Science and Application Development.
 
-## Step 4: Create a Watson Data Platform Application
+## Step 4: Create the Watson Data Platform Lab Application
 
 ## Step 5: Create a Watson Analytics Account
 
