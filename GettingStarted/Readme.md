@@ -141,6 +141,32 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 1. **Select** the "Catalog" menu at the top of the Bluemix home page.
 
+<img src="./media/Step3-image-05.png" />
+
+2. **Enter** "cloudant" (without quotes) in the catalog search area.  
+3. **Click on** the “Cloudant NoSQL DB” service.  
+
+<img src="./media/Step3-image-06.png" />
+
+4. **Enter** "WDP Lab Cloudant” (without quotes) for the Service name.  
+5. **Enter** “WDP Lab Cloudant” (without quotes) for the Credential name.  
+6. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+
+<img src="./media/Step3-image-07.png" />
+
+1. **Select** the "Catalog" menu at the top of the Bluemix home page.
+
+<img src="./media/Step3-image-08.png" />
+
+2. **Enter** "data connect" (without quotes) in the catalog search area.  
+3. **Click on** the “Data Connect” service.  
+
+<img src="./media/Step3-image-09.png" />
+
+4. **Enter** "WDP Lab Data Connect” (without quotes) for the Service name.  
+5. **Enter** “WDP Lab Data Connect” (without quotes) for the Credential name.  
+6. **Select** the the "CREATE" button. The service will be created and the launch page is displayed.
+
 ## Step 4: Create a Watson Data Platform Application
 
 ## Step 5: Create a Watson Analytics Account
