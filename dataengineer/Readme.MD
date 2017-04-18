@@ -1,5 +1,6 @@
 ## Hands on Lab - Data Engineer
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DEE2E.png">](https://github.com/watsondataplatform/e2elab/)
+
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/DataPreparation.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
 As a Data Engineer, you are challenged with the constant and expediated task of delivering quality, trusted data to business analytsts, data scientists and application developers. Time is always of the essence, so you need the ablity to quickly and easily find, access, prepare, cleanse and standardize data and deliver it to those who need it when they need it in support of business analytical and application use cases. 
 
