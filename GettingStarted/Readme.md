@@ -278,7 +278,7 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 1. **Enter** an email address. 
 
-> If the email address you enter does not exist as an IBM account, Watson Analytics will keep you on this page to fill in all the required fields, so complete steps 2-4 below. If the email address already exists as an IBM account, Watson Analytics will switch to the page you see above with your email already designated, so complete steps 1-2 as shown above.
+> If the email address you enter does not exist as an IBM account, Watson Analytics will keep you on this page. If so, complete steps 2-4 below. If the email address already exists as an IBM account, Watson Analytics will switch to the page you see above with your email already designated. If so, complete steps 1-2 as shown above.
 
 2. **Enter** all the required fields; Password, First and Last Name, Company, Phone Number, Contry and State.
 3. **Check** or **Uncheck** the box to keep informed of products and services and offerings from IBM worldwide.
