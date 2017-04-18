@@ -307,12 +307,28 @@ To activate your account, **Go to** your email inbox that you used to register y
 
 <img src="./media/Step5-image-07.png"/>
 
-At this point, you will see a status screen informing you that “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as shown above confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
+> At this point, you will see a screen informing you that “Your new service subscription is being setup. You will receive an email when service provisioning has been completed”.
 
 <img src="./media/Step5-image-08.png"/>
 
+> Once provisioned you will be brought into a screen that plays a video introducing you to Watson Analytics. 
+
 <img src="./media/Step5-image-09.png"/>
+
+1. **Select** the Continue to Watson Analytics ->" arrow.
 
 <img src="./media/Step5-image-10.png"/>
 
+2. **Select** the "Get Started ->" arrow.
+
 <img src="./media/Step5-image-11.png"/>
+
+3. **Click through** the exploration tour.
+
+<img src="./media/Step5-image-12.png"/>
+
+4. **Select** "Got it".
+
+<img src="./media/Step5-image-13.png"/>
+
+> Your Watson Analytics account is now ready for use. You have completed all of the GettingStarted steps and are ready to begin doing the Watson Data Platform labs. You can do the labs in any order you wish but we strongly suggest you start by doing the Data Engineering lab first.
