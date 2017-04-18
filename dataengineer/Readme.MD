@@ -79,7 +79,7 @@ Step | Description
 
 <img src="./media/Step2-image-01.png"/>
 
-1. **Select** the “CONNECTIONS” button in the middle of the home page on the right.  
+1. **Select** the “Connections” button at the bottom of the home page.  
  
 <img src="./media/Step2-image-02.png"/>
 
