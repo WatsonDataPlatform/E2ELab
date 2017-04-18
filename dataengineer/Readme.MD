@@ -40,11 +40,11 @@ Step | Description
 
 <img src="./media/Step1-image-01.png"/>
 
-> You should be logged into your Bluemix account if you just completed the GettingStarted section. If not, select the Log in button, supply your credentials when prompted and log into your Bluemix account.
+> You should be logged into your Bluemix account if you just completed the GettingStarted section. If not, select the Log in button. When prompted, supply your credentials to log into your Bluemix account.
 
 <img src="./media/Step1-image-02.png"/>
 
-> Make sure you are in the "Watson Data Platform" space. If you are a beginner to the labs you should only have the "Watson Data Platform" space.
+> Make sure you are in the "Watson Data Platform" space.
 
 <img src="./media/Step1-image-03.png"/>
 
