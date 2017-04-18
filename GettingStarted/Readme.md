@@ -286,7 +286,7 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 > If the email address already exists as an IBM account, Watson Analytics will switch to the page you see below with your email already designated. If so, complete steps 1-2 below.
 
-<img src="./media/Step5-image-03.png"/>
+<img src="./media/Step5-image-02.png"/>
 
 1. **Enter** the password for the IBM account displayed. My IBMid is redacted to protect my identity.
 2. **Select** the "Sign Up" button.
