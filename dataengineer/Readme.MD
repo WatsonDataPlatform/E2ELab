@@ -173,7 +173,7 @@ Step | Description
 5.	**Select** the “More information” link to get a more detailed explanation of the quality exceptions.
 6.	**Select** the "Toggle Metrics" button on the shaper tool bar to get back to the data view.
 
-### Prepare the Data
+### Refine the Data
 
 <img src="./media/Step4-image-09.png" />
 
