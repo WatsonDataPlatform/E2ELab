@@ -13,7 +13,7 @@ With Data Connect, Data Engineers can enable self-service data access to end use
 
 This lab will demonstrate how a data engineer can easily utilize these capabilities of the Data Connect service: 
 
-* Creating and working with Bluemix Data Connect connections
+* Creating and working with Data Connect connectors
 *	Visualizing and understanding data quality and Content
 *	Preparing and transforming data
 *	Executing and monitoring data activities
@@ -27,33 +27,25 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 
 Step | Description
 ------------ | -------------
-1	| Create a Watson Analytics Connection
-2	| Import the Source Dataset
-3	| Refine the Data
-4	| Complete and Run the Data Activity
-5 | Validate the Results
+1 | Launch the Data Connect service
+2	| Create a Watson Analytics connection
+3	| Import the source dataset
+4	| Prepare the data
+5	| Complete and run the data activity
+6 | Validate the results
 
-## Step 1: Login to Bluemix
+## Step 1: Launch the Data Connect service
 
-Using your preferred web browser, go to URL https://console.ng.bluemix.net
+> **Note** - You should still be logged into your Bluemix account from the GettingStarted excercise.
 
-<img src="./media/Step1-image-1.png"/>
+### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
 
-1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
+> If you are not logged in, log in with the Bluemix ID you used to create your account in GettingStarted.
 
-## Step 2: Create a Bluemix Space
+<img src="./media/Step1-image-01.png"/>
 
-<img src="./media/Step2-image-1.png"/>  
-
-1. **Select** the Account information area in the top right corner of your Bluemix account home page.
-2. **Select** the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
-
-  <img src="./media/Step2-image-2.png"/>
-
-3. **Enter** “Watson Data Platform” (without quotes) for the space name.  
-4. **Select** the “Create” button.  
-
-> Your space will be created and you will be taken into your new space. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Data Connect service that you will be creating in the following section.
+1. **Scroll down** to the "Services" section of your dashboard. 
+2. **Click** on the "WDP Lab Data Connect" service.
 
 ## Step 3: Select the Data Connect Service
 
