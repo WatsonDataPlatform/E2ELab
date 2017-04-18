@@ -48,11 +48,11 @@ Step | Description
 
 <img src="./media/Step1-image-03.png"/>
 
-> If you are not in the "Watson Data Platform" space, that was created in the GettingStarted section, switch to it by **selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
+> If you are not in the "Watson Data Platform" space, that you were instructed to create in the GettingStarted section, switch to it by **Selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
 
 <img src="./media/Step1-image-04.png"/>
 
-1. **Scroll down** to the "Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service.
+1. Once you are logged into your Bluemix account, **Scroll down** to the "Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service.
 
 <img src="./media/Step1-image-05.png" />
 
@@ -60,11 +60,10 @@ Step | Description
 
 <img src="./media/Step1-image-06.png"/>
 
-> The first time you enter the service user interface you are provided with a getting started tour to introduce you to the functionality provided by the service.
+> The first time you enter the Data Connect service interface you are presented with a Welcome message and a Getting Started tour to introduce you to the functionality provided by the service.
 
-1. **Click through** the Welcome experience using the arrow at the botton of the wizard.  
-2. **Select** the Activities menu item. It will take you to the Activities section of the interface.  
-3. **Select** the Data Connect service name to get back to the home page.
+1. **Click through** the Welcome experience using the arrows at the botton of the dialog.  
+2. **Select** the "X" in the top right corner of the dialog when you are finished exploring.  
 
 <img src="./media/Step1-image-07.png"/>
 
