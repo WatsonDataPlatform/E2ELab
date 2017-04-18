@@ -288,12 +288,12 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 <img src="./media/Step5-image-03.png"/>
 
-1. **Enter** the password for the IBM account displayed. My account is redacted to protect my identity.
+1. **Enter** the password for the IBM account displayed. My IBMid is redacted to protect my identity.
 2. **Select** the "Sign Up" button.
 
 <img src="./media/Step5-image-04.png"/>
 
-> At this point, you will be brought to the Sign Up page informing you that “We have sent a confirmation code to verify your IBMId email address."
+> You will be brought to the Sign Up page informing you “We have sent a confirmation code to verify your IBMId email address."
 
 <img src="./media/Step5-image-05.png"/>
 
