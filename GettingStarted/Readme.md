@@ -259,9 +259,20 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 1. **Select** the “Try it for free” button.
 
+> Watson Analytics is IBM account aware. It knows if the email address you specify to register for a Watson Analytics account already exists as an IBM account. That is the reason these instructions had you create a Bluemix account prior to creating a Watson Analytics account. Creating a Bluemix account creates an IBM account. Therefore, depending on whether or not your email address is already an IBM account you will see one of the two scenarios below to register for a Watson Analytics account.
+
+## If your email address already exists as an IBM account...
+
+### You will see this registration page: 
+
 <img src="./media/Step5-image-02.png"/>
    
-2.  You will be prompted to setup an IBM account using the sign-up form as shown above. If you already have an IBM account, which you should, one was created for you when you created a Bluemix account, **Select** the "Log in" link to begin creating your Watson Analtics account using the same email address you used to create your Bluemix account.
+1. **Enter** the password for the IBM account displayed. My account is redacted to protect my identity.
+2. **Select** the "Sign Up" button.
+
+## If your email address does not exist as an IBM account...
+
+### You will see this registration page:
 
 <img src="./media/Step5-image-03.png"/>
 
