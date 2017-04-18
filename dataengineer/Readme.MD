@@ -38,33 +38,35 @@ Step | Description
 
 ### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
 
-> You should still be logged into your Bluemix account from completing the GettingStarted excercise.If you are not, select the Log in button, supply your credentials when prompted and log into your Bluemix account.
-
 <img src="./media/Step1-image-01.png"/>
 
-> Make sure you are in the "Watson Data Platform" space.
+> You should be logged into your Bluemix account if you just completed the GettingStarted section. If not, select the Log in button, supply your credentials when prompted and log into your Bluemix account.
 
 <img src="./media/Step1-image-02.png"/>
 
-> If you are not in the "Watson Data Platform" space that was created in GettingStarted, switch to it by **selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
+> Make sure you are in the "Watson Data Platform" space.
 
 <img src="./media/Step1-image-03.png"/>
 
+> If you are not in the "Watson Data Platform" space that was created in GettingStarted, switch to it by **selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
+
+<img src="./media/Step1-image-04.png"/>
+
 1. **Scroll down** to the "Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service.
 
-## Step 3: Select the Data Connect Service
+<img src="./media/Step1-image-05.png" />
 
-<img src="./media/Step3-image-1.png" />
+2. **Select** the “LAUNCH” button to start using the Data Connect service. It will open in a new tab in your browser.
 
-1. **Select** the "Catalog" menu at the top of the Bluemix home page.  
-2. **Select** the "Data and Analytics" category from the categories on the left.  
-3. **Click on** the “Data Connect” service from the list of services on the right.  
+<img src="./media/Step1-image-06.png"/>
 
-<img src="./media/Step3-image-3.png" />
+> The first time you enter the service user interface you are provided with a getting started tour to introduce you to the functionality provided by the service.
 
-8. **Select** the “LAUNCH” button to start using Bluemix Data Connect - It will open in a new tab in your browser.
+1. **Click through** the Welcome experience using the arrow at the botton of the wizard.  
+2. **Select** the Activities menu item. It will take you to the Activities section of the interface.  
+3. **Select** the Data Connect service name to get back to the home page.
 
-<img src="./media/Step3-image-4.png"/>
+<img src="./media/Step1-image-07.png"/>
 
 > The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
