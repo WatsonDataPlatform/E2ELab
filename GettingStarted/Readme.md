@@ -291,10 +291,18 @@ You will need a Watson Analytics account. If you **don't** have an account:
 1. **Enter** the password for the IBM account displayed. My account is redacted to protect my identity.
 2. **Select** the "Sign Up" button.
 
-3.  To activate your account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address. **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
-
 <img src="./media/Step5-image-04.png"/>
 
-4.  At this point, you will see a status screen informing you that “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as shown above confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
+> At this point, you will be brought to the Sign Up page informing you that “We have sent a confirmation code to verify your IBMId email address."
+
+<img src="./media/Step5-image-05.png"/>
+
+To activate your account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address. **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
 
 <img src="./media/Step5-image-06.png"/>
+
+To activate your account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address. **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
+
+<img src="./media/Step5-image-07.png"/>
+
+At this point, you will see a status screen informing you that “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as shown above confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
