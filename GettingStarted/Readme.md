@@ -15,7 +15,7 @@ Step | Description
 4 | Create the Watson Data Platform lab application
 5 | Create a Watson Analytics account
 
-## Step 1: Download the Lab Files
+## Step 1: Download the lab files
 
 **Download** the Great Outdoor Customer Orders CSV file to your workstation. This file is used in the Data Engineering, Business Analysis and Data Science labs. 
 
@@ -29,7 +29,7 @@ Step | Description
 
 ### [Click Here to Download the "Lab-DSX-ML.zip" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Lab-DSX-ML.zip)
 
-## Step 2: Create a Bluemix Account
+## Step 2: Create a Bluemix account
 
 You will need a Bluemix account. Follow the instructions in one of the sections below depending on whether or not you have a Bluemix account.
 
@@ -45,7 +45,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 1. **Select** the "Log In" button. When prompted, enter your Bluemix ID and password.
 
-### Create a Bluemix Space
+### Create a Bluemix space
 
 <img src="./media/Step2-image-02.png"/>  
 
@@ -120,7 +120,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 14. **Select** the "I'm Ready" button.
 
-## Step 3: Create the Watson Data Platform Lab Services
+## Step 3: Create the Watson Data Platform lab services
 
 <img src="./media/Step3-image-01.png" />
 
@@ -220,7 +220,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 > **Note** - You should have 5 services in your services dashboard. These are the services that will be used by the Watson Data Platform labs; Data Engineering, Business Analytics, Data Science and Application Development.
 
-## Step 4: Create the Watson Data Platform Lab Application
+## Step 4: Create the Watson Data Platform lab application
 
 <img src="./media/Step4-image-01.png" />
 
@@ -249,7 +249,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 > You should see your newly created application in the All Apps section of your Bluemix dashboard.
 
-## Step 5: Create a Watson Analytics Account
+## Step 5: Create a Watson Analytics account
 
 You will need a Watson Analytics account. If you **don't** have an account:
 
