@@ -180,7 +180,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 10. **Select** the "View credentials v" down arrow to view the newly created credentials.
 
-> **Note** - These are the WDP Lab dashDB service credentials you will need to access the dashDB service in the Data Engineering and Data Science labs. Remember how to get back to this area of the service. I have redacted my password,  to protect my identity, yours will be visible.
+> **Note** - These are the WDP Lab dashDB for Analytics service credentials you will need to access the dashDB service in the Data Engineering and Data Science labs. Remember how to get back to this area of the service. I have redacted my password,  to protect my identity, yours will be visible.
 
 <img src="./media/Step3-image-13.png" />
 
@@ -229,19 +229,19 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 <img src="./media/Step4-image-02.png" />
 
 2. **Enter** "cloud foundry" (without quotes) in the catalog search area.  
-3. **Click on** the “SDK for Node.js" Application.
+3. **Click on** the “SDK for Node.js" application.
 
 <img src="./media/Step4-image-03.png" />
 
-4. **Enter** "WDP Lab Your Name Application” (without quotes), with Your Name equal to your First and Last Name. The Host name will be filled in automatically for you with dashed in place of spaces.
+4. **Enter** "WDP Lab Your Name Application” (without quotes), with "Your Name" equal to your First and Last Name. The Host name will be filled in automatically for you with dashes in place of spaces.
 
-> Notice that my application name is "WDP Lab Rick Buglio Application" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name has to be a unique in Bluemix. Using your First and Last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
+> Notice that my application name is "WDP Lab Rick Buglio Application" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name has to be a unique in Bluemix. Using your first and last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
 
 5. **Select** the "Create" button and the application creation process will begin. 
 
 <img src="./media/Step4-image-04.png" />
 
-> You are taken to the application page and Bluemix will begin starting the application. You will see a starting status with a spinning wheel. Wait until you see that the application is a running status.
+> You are brought to the application page and Bluemix will begin starting the application. You will see a starting status with a spinning wheel. Wait until you see that the application is a running status.
 
 6. **Select** the "Dashboard" button in the left side main menu when the application is in a running state. This will take you back to your Bluemix account dashboard.
 
@@ -261,14 +261,14 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 <img src="./media/Step5-image-02.png"/>
    
-2.  You will now be prompted to setup an IBM account using the sign-up form as shown above. However, if you already have an IBM account, which you should haveid, one was created for you when you created a Bluemix account, **Select** the "Log in" link to begin creating your Watson Analtics account using the same exact email address you used to create your Bluemix account, this will be your IBM account.
+2.  You will now be prompted to setup an IBM account using the sign-up form as shown above. If you already have an IBM account, which you should, one was created for you when you created a Bluemix account, **Select** the "Log in" link to begin creating your Watson Analtics account using the same email address you used to create your Bluemix account.
 
 <img src="./media/Step5-image-03.png"/>
 
-5.  To activate your IBMid, you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), that you can retrieve from your email box and type it on the sign-up page as shown below.
+3.  To activate your IBM account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), that you can retrieve from your email inbox. Copy and paste it or type it in the sign-up page as shown above.
+
+<img src="./media/Step5-image-04.png"/>
+
+4.  At this point, you will see a status screen saying “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as shown above confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
 
 <img src="./media/Step5-image-05.png"/>
-
-6.  At this point, you will see a status screen saying “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as below confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
-
-<img src="./media/Step5-image-06.png"/>
