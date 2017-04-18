@@ -1,9 +1,8 @@
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/EventHeader.png">](https://github.com/ibmdataworks/datafirst/)
-#Hands on Lab - Application Developer.
-[<img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/ADE2E.png">](https://github.com/ibmdataworks/datafirst/tree/master/appdeveloper)
+## Hands on Lab - Application Development
+
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Deploy.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
 As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. Perform hands-on exercises to quickly build and deploy a live dashboard with Node.js connceted to a document data service, IBM Cloudant NoSQL DB.
-
 
 ##Lab Components: IBM Bluemix Cloud Offering Used
 
