@@ -259,9 +259,9 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 1. **Select** the “Try it for free” button.
 
-> Watson Analytics is IBM account aware. It is also Bluemix aware and knows if you are logged into Bluemix from within the same browser session. That is the reasons these instructions have you create a Bluemix account prior to creating a Watson Analytics account. Creating a Bluemix account creates an IBM account. Therefore, depending on whether or not your email address is already an IBM account, and whehter or not you are logged into Bluemix in the same browser session you are requesting to create a Watson Analytics account, you will see one of the two scenarios below to register for a Watson Analytics account.
+> Watson Analytics is IBM account aware. It is also Bluemix aware and knows if you are logged into Bluemix from within the same browser session. This can be very beneficial and is one of the reasons these instructions had you create a Bluemix account prior to creating a Watson Analytics account using the same browser session. Creating a Bluemix account creates an IBM account. Therefore, depending on whether or not you are logged into Bluemix in the same browser session you are requesting to create a Watson Analytics account, you will see one of the two scenarios below to register for a Watson Analytics account:
 
-## If your email address already exists as an IBM account...
+## If you are logged into Bluemix in the same browser session...
 
 ### You will see this registration page: 
 
@@ -270,11 +270,19 @@ You will need a Watson Analytics account. If you **don't** have an account:
 1. **Enter** the password for the IBM account displayed. My account is redacted to protect my identity.
 2. **Select** the "Sign Up" button.
 
-## If your email address does not exist as an IBM account...
+## If you are not logged into Bluemix in the same browser session...
 
 ### You will see this registration page:
 
 <img src="./media/Step5-image-03.png"/>
+
+1. **Enter** an email address. 
+
+> If the email address you enter does not exist as an IBM account, Watson Analytics will keep you on this page to fill in all the required fields, so complete steps 2-4 below. If the email address already exists as an IBM account Watson Analytics will switch to the page you see above with your email already designated, so proceed to step 1 above.
+
+2. **Enter** all the required fields; Password, First and Last Name, Company, Phone Number, Contry and State.
+3. **Check** or **Uncheck** the box to keep informed of products and services and offerings from IBM worldwide.
+4. **Select** the "Continue" button.
 
 3.  To activate your account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address. **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
 
