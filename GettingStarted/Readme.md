@@ -1,7 +1,7 @@
 
 ## Before You Begin
 
-The Watson Data Platform labs are conducted using the IBM cloud. They use the suite of fully managed cloud data services; Cloudant NoSQL DB, dashDB for Analytics and Object Storage to persist data and Data Connect to ingest data. These services are available in Bluemix, IBM’s cloud platform. They also use Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, several of the labs require that you download a few files that are used as source datasets and to assist in building an application.
+The Watson Data Platform labs are conducted using the IBM cloud. They utilize the suite of fully managed cloud data services; Cloudant NoSQL DB, dashDB for Analytics and Object Storage to persist data and Data Connect to ingest data. These services are available and deployed from Bluemix, IBM’s cloud platform. They also use Watson Analytics, IBM’s smart data discovery service on the cloud and the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. Lastly, several of the labs require that you download files that are used as source datasets and to assist in building an application.
 
 ## Workflow
 
@@ -33,7 +33,7 @@ Step | Description
 
 You will need a Bluemix account. Follow the instructions in one of the sections below depending on whether or not you have a Bluemix account.
 
-## If you alredy have a Bluemix account...
+## If you have a Bluemix account...
 
 ### Log Into Bluemix 
 
@@ -49,15 +49,15 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 <img src="./media/Step2-image-02.png"/>  
 
-1. **Select** the Account information area in the top right corner of your Bluemix account home page.
-2. **Select** the "Create a Space" link next to “Manage Organizations” below the Space drop down list box.
+1. **Select** the account information area in the top right corner of your Bluemix home page.
+2. **Select** the "Create a Space" link next to “Manage Organizations” below the space drop down list box.
 
   <img src="./media/Step2-image-03.png"/>
 
 3. **Enter** “Watson Data Platform” (without quotes) for the space name.  
 4. **Select** the “Create” button.  
 
-> The new space will be created and you will be placed into it. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Watson Data Platform Lab services and application.
+> The space will be created and you will be brought into it. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Watson Data Platform lab services and application.
 
 **Proceed to Step 3**
 
@@ -87,7 +87,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 <img src="./media/Step2-image-08.png"/>
 
-A page will appear notifying you to check your email to complete your registraion. Check the email account that you supplied to register for your Bluemix account and open the email.
+A page will appear notifying you to check your email to complete your registraion. Check the inbox of the email address that you supplied to register for your Bluemix account and open the email.
 
 <img src="./media/Step2-image-09.png"/>
 
@@ -95,9 +95,9 @@ A page will appear notifying you to check your email to complete your registraio
 
 <img src="./media/Step2-image-10.png"/>
 
-You will be taken to a web page confirming that you sucessfully signed up for Bluemix and that it is now activated.
+You will be brought to a web page confirming that you sucessfully signed up for Bluemix and that it is now activated.
 
-7. **Click** on the "Log in" link to log into your new Bluemix account.
+7. **Click** on the "Log in" link to log into your Bluemix account.
 
 <img src="./media/Step2-image-11.png"/>
 
@@ -108,7 +108,7 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 <img src="./media/Step2-image-12.png"/>
 
-10. **Click** on the email address suggestion for an organization name. It will be filled in for you as your organization name.
+10. **Click** on the email address suggestion for an organization name. It will be automatically filled in for you as your organization name.
 11. **Select** the “Create” button.
 
 <img src="./media/Step2-image-13.png"/>
@@ -174,13 +174,13 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 <img src="./media/Step3-image-11.png" />
 
 8. **Enter** "WDP Lab dashDB for Analytics” (without quotes) for the Credential name.   
-9. **Select** the the "Add" button. The service credentials will be created.
+9. **Select** the the "Add" button. The service credential will be created.
 
 <img src="./media/Step3-image-12.png" />
 
 10. **Select** the "View credentials v" down arrow to view the newly created credentials.
 
-> **Note** - These are the WDP Lab dashDB for Analytics service credentials you will need to access the dashDB service in the Data Engineering and Data Science labs. Remember how to get back to this area of the service. I have redacted my password,  to protect my identity, yours will be visible.
+> **Note** - These are the WDP Lab dashDB for Analytics service credentials you will need to access the dashDB service in the Data Engineering and Data Science labs. Remember how to get back to this area of the service to access the credentials. I have redacted my password, to protect my identity, yours will be visible.
 
 <img src="./media/Step3-image-13.png" />
 
@@ -214,11 +214,11 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 <img src="./media/Step3-image-19.png" />
 
 6. **Select** the "Free" service plan.
-7. **Select** the "Create" button. You receive a message that the service is being created and that it may take a few minutes. The message will disappear and you will be taken to the services dashboard of your Bluemix account.
+7. **Select** the "Create" button. You will receive a message that the service is being created and that it may take a few minutes. The message will disappear and you will be brought to the services dashboard of your Bluemix account.
 
 <img src="./media/Step3-image-20.png" />
 
-> **Note** - You should have 5 services in your services dashboard. These are the services that will be used by the Watson Data Platform labs; Data Engineering, Business Analytics, Data Science and Application Development.
+> **Note** - You should have 5 services in your services dashboard. These are the services that will be used across the Watson Data Platform labs; Data Engineering, Business Analytics, Data Science and Application Development.
 
 ## Step 4: Create the Watson Data Platform lab application
 
@@ -235,19 +235,19 @@ You will be taken to a web page confirming that you sucessfully signed up for Bl
 
 4. **Enter** "WDP Lab Your Name Application” (without quotes), with "Your Name" equal to your First and Last Name. The Host name will be filled in automatically for you with dashes in place of spaces.
 
-> Notice that my application name is "WDP Lab Rick Buglio Application" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name has to be a unique in Bluemix. Using your first and last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
+> Notice that my application name is "WDP Lab Rick Buglio Application" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name of the application has to be unique in Bluemix. Using your first and last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
 
-5. **Select** the "Create" button and the application creation process will begin. 
+5. **Select** the "Create" button. The application creation process will begin. 
 
 <img src="./media/Step4-image-04.png" />
 
-> You are brought to the application page and Bluemix will begin starting the application. You will see a starting status with a spinning wheel. Wait until you see that the application is a running status.
+> You are brought to the application page and see that Bluemix has begun starting the application. You will see a starting status with a spinning wheel. Wait until you see that the application is a running status.
 
-6. **Select** the "Dashboard" button in the left side main menu when the application is in a running state. This will take you back to your Bluemix account dashboard.
+6. **Select** the "Dashboard" button from the left side menu after you see that the application is in a running state. This will take you back to your Bluemix account dashaboard.
 
 <img src="./media/Step4-image-05.png" />
 
-> You should see your newly created application in the All Apps section of your Bluemix dashboard.
+> You should see your application in the All Apps section of your Bluemix dashboard.
 
 ## Step 5: Create a Watson Analytics account
 
