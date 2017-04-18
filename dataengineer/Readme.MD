@@ -44,11 +44,11 @@ Step | Description
 
 <img src="./media/Step1-image-02.png"/>
 
-> Make sure you are in the "Watson Data Platform" space.
+> Make sure you are in the "Watson Data Platform" space. If you are a beginner to the labs you should only have the "Watson Data Platform" space.
 
 <img src="./media/Step1-image-03.png"/>
 
-> If you are not in the "Watson Data Platform" space that was created in GettingStarted, switch to it by **selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
+> If you are not in the "Watson Data Platform" space, that was created in the GettingStarted section, switch to it by **selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
 
 <img src="./media/Step1-image-04.png"/>
 
