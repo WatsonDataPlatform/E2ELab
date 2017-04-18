@@ -52,7 +52,7 @@ Step | Description
 
 <img src="./media/Step1-image-04.png"/>
 
-1. Once you are logged into your Bluemix account, **Scroll down** to the "All Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service.
+1. Once you are logged into your Bluemix account, **Scroll down** to the "All Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service. You will be brought to the Data Connect launch page.
 
 <img src="./media/Step1-image-05.png" />
 
@@ -60,32 +60,32 @@ Step | Description
 
 <img src="./media/Step1-image-06.png"/>
 
-> The first time you enter the Data Connect service interface you are presented with a Welcome message and a Getting Started tour to introduce you to the functionality provided by the service.
+> The first time you enter the Data Connect service interface you are presented with a "Welcome to Data Connect!" getting started tour to introduce you to the functionality provided by the service.
 
-1. **Click through** the Welcome experience using the arrows at the botton of the dialog.  
+1. **Click through** the Welcome experience using the arrows in the bottom right corner of the dialog.  
 2. **Select** the "X" in the top right corner of the dialog when you are finished exploring.  
 
 <img src="./media/Step1-image-07.png"/>
 
 > The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
 
-> **Notice** that there is a menu control button to the right of the Data Connect logo. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
+> **Notice** that there is a menu control button to the right of the Data Connect service name. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
 
 1. **Select** the menu control button. The menu will disappear. Select it again and the menu will reappear.  
 2. **Select** the Activities menu item. It will take you to the Activities section of the interface.  
 3. **Select** the Data Connect service name to get back to the home page.
 
-## Step 4: Create a Watson Analytics Connection
+## Step 2: Create a Watson Analytics connection
 
-<img src="./media/Step4-image-1.png"/>
+<img src="./media/Step2-image-01.png"/>
 
 1. **Select** the “CONNECTIONS” button in the middle of the home page on the right.  
  
-<img src="./media/Step4-image-2.png"/>
+<img src="./media/Step2-image-02.png"/>
 
 2. **Select** the “IBM Watson Analytics” connector from the list of supported connectors.
 
-<img src="./media/Step4-image-3.png"/>
+<img src="./media/Step2-image-03.png"/>
 
 3. **Enter** "Watson Analytics" (without quotes) for the Connection name.  
 4. **Enter** "My Watson Analytic Account" (without quotes) for the Description.  
@@ -95,23 +95,23 @@ Step | Description
 >
 > If you have a Watson Analytics account that uses the same ID and password as your Bluemix account, Data Connect will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
 
-<img src="./media/Step4-image-4.png"/>
+<img src="./media/Step2-image-04.png"/>
 
 > If successful, you will receive a message that “The connection Watson Analytics was created.”
 
-<img src="./media/Step4-image-5.png"/>
+<img src="./media/Step2-image-05.png"/>
 
-## Step 5: Import the Source Dataset
+## Step 3: Import the Source Dataset
 
-<img src="./media/Step5-image-1.png"/>  
+<img src="./media/Step3-image-01.png"/>  
 
 1. **Select** the “File Storage” menu item from the left hand side main menu.
 
-<img src="./media/Step5-image-2.png"/>  
+<img src="./media/Step3-image-02.png"/>  
 
 2. **Select** the + Plus sign at the bottom of the “File Storage” page to add files.
 
-<img src="./media/Step5-image-3.png" />  
+<img src="./media/Step3-image-03.png" />  
 
 3. **Navigate** to the location where you stored the lab source file "Great Outdoor Customer Orders.csv".  
 4. **Select** the "Great Outdoor Customer Orders.csv" file.  
