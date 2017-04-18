@@ -27,14 +27,14 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 
 Step | Description
 ------------ | -------------
-1 | Launch the Data Connect service
-2	| Create a Watson Analytics connection
-3	| Import the source dataset
-4	| Prepare the data
-5	| Complete and run the data activity
-6 | Validate the results
+1 | Launch the Data Connect Service
+2	| Create a Watson Analytics Connection
+3	| Import the Source Dataset
+4	| Prepare the Data
+5	| Complete and Run the Data Activity
+6 | Validate the Results
 
-## Step 1: Launch the Data Connect service
+## Step 1: Launch the Data Connect Service
 
 ### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
 
@@ -75,7 +75,7 @@ Step | Description
 2. **Select** the Activities menu item. It will take you to the Activities section of the interface.  
 3. **Select** the Data Connect service name to get back to the home page.
 
-## Step 2: Create a Watson Analytics connection
+## Step 2: Create a Watson Analytics Connection
 
 <img src="./media/Step2-image-01.png"/>
 
@@ -117,28 +117,28 @@ Step | Description
 4. **Select** the "Great Outdoor Customer Orders.csv" file.  
 5. **Select** the “Open” button to import the file into Data Connect's object storage container.
 
-## Step 6: Refine the Data
+## Step 4: Prepare the Data
 
-<img src="./media/Step6-image-01.png" />  
+<img src="./media/Step4-image-01.png" />  
 
 1. **Select** the “Refine & Copy” menu item from the left side main menu.
 
-<img src="./media/Step6-image-02.png" />  
+<img src="./media/Step4-image-02.png" />  
 
 2. **Hover over** the name area in the top left corner and **Select** the edit button that looks like a pencil.
 
-<img src="./media/Step6-image-03.png" />  
+<img src="./media/Step4-image-03.png" />  
 
 3. **Click into** the name area and **Enter** a name of "Data Engineer Lab" (without quotes).  
 4. **Select** the small check mark button next to the Activity name you just entered to save the new name.  
 
-<img src="./media/Step6-image-04.png" />  
+<img src="./media/Step4-image-04.png" />  
 
 5. **Select** the “Files” section from Connections menu.  
 6. **Select** the check box next to the "Great Outdoor Customer Orders.csv" file from the Files section.  
 7. **Select** the the “Refine Data” button.
 
-<img src="./media/Step6-image-05.png" />
+<img src="./media/Step4-image-05.png" />
 
 > You are brought into the Data Connect shaper. The file, Great Outdoor Customer Orders.csv, is selected by default and you are immediately presented with a quality score and some data metrics to help you understand the quality and content of the dataset before you begin refining it.
 >
@@ -146,7 +146,7 @@ Step | Description
  
 ### Review Quality and Content
 
-<img src="./media/Step6-image-06.png" />
+<img src="./media/Step4-image-06.png" />
 
 > The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
 
@@ -156,13 +156,13 @@ Step | Description
  
 ### Review Column Metrics
 
-<img src="./media/Step6-image-07.png" />
+<img src="./media/Step4-image-07.png" />
 
 > The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
 
 1.	**Select** the “Toggle Metrics” button, the far right button on the shaper tool bar.
 
-<img src="./media/Step6-image-08.png" />
+<img src="./media/Step4-image-08.png" />
 
 2.	**Select** the PRODUCT_LINE column - The column is highlighted and brought into context.
 3.	**Notice** the Details section of the object menu changes to the PRODUCT_LINE column details.
@@ -175,55 +175,55 @@ Step | Description
 
 ### Prepare the Data
 
-<img src="./media/Step6-image-09.png" />
+<img src="./media/Step4-image-09.png" />
 
 1.	**Select** the "Great Outdoor Customer Orders.csv" file to bring it into context.
 2. **Select** the "Operations" button from the right side panel.
 3.	**Select** the "Organize" menu from the object operations menu.
 4.	**Select** the "Change schema" operation from the "Organize" menu.
 
-<img src="./media/Step6-image-10.png" />
+<img src="./media/Step4-image-10.png" />
 
 1.	**Hover over** the name area of the PRODUCT_LINE column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE replacing all underscores with spaces.
 2. **Hover over** the name area of the PRODUCT_TYPE column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE replacing all underscores with spaces.
 3. **Hover over** the name area of the CUST_ORDER_NUMBER column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER changing CUST to CUSTOMER and replacing all underscores with spaces.
 4. **Hover over** the name area of the MARITAL_STATUS column and Select the edit button that looks like a pencel to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS replacing all underscores with spaces.
 
-<img src="./media/Step6-image-11.png" />
+<img src="./media/Step4-image-11.png" />
 
 > **Notice** that the column names have been changed and that each column name you changed has an edit icon next to it that looks like a pencil indicating that is has been edited.
 
 5.	**Select** the "Apply" button at the bottom of the list of columns.
 
-<img src="./media/Step6-image-12.png" />
+<img src="./media/Step4-image-12.png" />
 
 1.	**Select** the "Gender" column in the dataset grid.
 2. **Select** the "String" menu from the object operations menu.
 4.	**Select** the "Replace substring" operation from the "String" menu.
 
-<img src="./media/Step6-image-13.png" />
+<img src="./media/Step4-image-13.png" />
 
 4.	**Enter** "M" (in upper case and without quotes) in the "From Text:" field.
 5. **Enter** "MALE" (in upper case and without quotes) in the "To Text:" field.
 6. **Select** the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step6-image-14.png" />
+<img src="./media/Step4-image-14.png" />
 
 7.	**Select** the "Replace substring" operation from the "String" menu.
 
-<img src="./media/Step6-image-15.png" />
+<img src="./media/Step4-image-15.png" />
 
 8.	**Enter** "F" (in upper case and without quotes) in the "From Text:" field.
 9. **Enter** "FEMALE" (in upper case and without quotes) in the "To Text:" field.
 10. **Select** the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step6-image-16.png" />
+<img src="./media/Step4-image-16.png" />
 
 > **Notice** that the Gender column values have been changed and that "M" is now "MALE" and "F" is now "FEMALE".
 
 ### Review History
 
-<img src="./media/Step6-image-17.png" />
+<img src="./media/Step4-image-17.png" />
 
 > You can review the history of your shaping actions at any time by invoking the History view. You can also undo and restore actions from the History view.
  
@@ -234,37 +234,37 @@ Step | Description
 
 3. **Select** the "Next" button in the top right corner to move onto the next step to complete and run the activity.
 
-## Step 7: Complete and Run the Data Activity
+## Step 5: Complete and Run the Data Activity
 
-<img src="./media/Step7-image-1.png" />
+<img src="./media/Step5-image-01.png" />
 
 1.	**Select** the "Watson Analytics" connection you created earlier from the list of connections as the target.
 2. **Select** the "Run" button in the top right corner to execute the data activities recipe.
 
-<img src="./media/Step7-image-2.png" />
+<img src="./media/Step5-image-02.png" />
 
 > You will see a message that "Your activity is running"
 
 3.	**Select** the "X" on the message to close the message dialog.
 4. **Select** the "View Activity Status" button on the toolbar.
 
-<img src="./media/Step7-image-3.png" />
+<img src="./media/Step5-image-03.png" />
 
 5.	**Select** the "Refresh" button that looks like an arrow pointing to the right on the toolbar of the Activity Status monitor. Continue to do this multiple times to get an update on the activities progress. Continue refreshing the status until you see a 100% Completed status.
 
-<img src="./media/Step7-image-4.png" />
+<img src="./media/Step5-image-04.png" />
 
 6.	**Select** the "X" on the Activity Status monitor window to close the window.
 7. **Select** the menu control button on the far left side to bring back the Data Connect main menu.
 
-## Step 8: Validate the Results
+## Step 6: Validate the Results
 
-<img src="./media/Step8-image-1.png" />
+<img src="./media/Step6-image-01.png" />
 
 1. **Select** the ellipse in the top right corner of the activity. *Hover over* each icon and you will see which functions you can perform; Details, Delete, Schedule, Run and Edit.
 2.	**Select** the "Details" function that looks like a page in a book.
 
-<img src="./media/Step8-image-2.png" />
+<img src="./media/Step6-image-02.png" />
 
 3. **Select** the arrow next to "View 6 Actions" in the "Activity Input" section.
 
