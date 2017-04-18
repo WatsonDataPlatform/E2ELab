@@ -36,16 +36,23 @@ Step | Description
 
 ## Step 1: Launch the Data Connect service
 
-> **Note** - You should still be logged into your Bluemix account from the GettingStarted excercise.
+> You should still be logged into your Bluemix account from completing the GettingStarted excercise.
 
 ### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
 
-> If you are not logged in, log in with the Bluemix ID you used to create your account in GettingStarted.
+> If you are not logged in, supply your credentials and log into your Bluemix aaccount.
 
 <img src="./media/Step1-image-01.png"/>
 
-1. **Scroll down** to the "Services" section of your dashboard. 
-2. **Click** on the "WDP Lab Data Connect" service.
+> Make sure you are in the "Watson Data Platform" space.
+
+<img src="./media/Step1-image-02.png"/>
+
+> If you are not in the "Watson Data Platform" space that was created in GettingStarted, switch to it by **selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
+
+<img src="./media/Step1-image-03.png"/>
+
+1. **Scroll down** to the "Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service.
 
 ## Step 3: Select the Data Connect Service
 
