@@ -278,11 +278,18 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 1. **Enter** an email address. 
 
-> If the email address you enter does not exist as an IBM account, Watson Analytics will keep you on this page. If so, complete steps 2-4 below. If the email address already exists as an IBM account, Watson Analytics will switch to the page you see above with your email already designated. If so, complete steps 1-2 as shown above.
+> If the email address you enter does not exist as an IBM account, Watson Analytics will keep you on this page. If so, complete steps 2-4 below.
 
 2. **Enter** all the required fields; Password, First and Last Name, Company, Phone Number, Country/region and State.
 3. **Check** or **Uncheck** the box to keep informed of products and services and offerings from IBM worldwide.
 4. **Select** the "Continue" button.
+
+> If the email address already exists as an IBM account, Watson Analytics will switch to the page you see below with your email already designated. If so, complete steps 1-2 below.
+
+<img src="./media/Step5-image-03.png"/>
+
+1. **Enter** the password for the IBM account displayed. My account is redacted to protect my identity.
+2. **Select** the "Sign Up" button.
 
 3.  To activate your account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address. **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
 
