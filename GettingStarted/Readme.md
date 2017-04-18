@@ -297,12 +297,22 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 <img src="./media/Step5-image-05.png"/>
 
-To activate your account, **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
+To activate your account, **Go to** your email inbox that you used to register your Watson Analytics account to retrieve the confirmation code.
 
 <img src="./media/Step5-image-06.png"/>
 
-To activate your account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address. **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
+1. **Enter** the confirmation code you received in the email by typing it in or copy and pasting it from the email.
+2. **Enter** your Company and Phone Number and select your State.
+3. **Select** the "Sign Up" button.
 
 <img src="./media/Step5-image-07.png"/>
 
 At this point, you will see a status screen informing you that “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as shown above confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
+
+<img src="./media/Step5-image-08.png"/>
+
+<img src="./media/Step5-image-09.png"/>
+
+<img src="./media/Step5-image-10.png"/>
+
+<img src="./media/Step5-image-11.png"/>
