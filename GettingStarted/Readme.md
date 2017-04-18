@@ -5,15 +5,15 @@ The Watson Data Platform labs are conducted using the IBM cloud. They use the su
 
 ## Workflow
 
-On the following pages are a series of steps you will perform before you do any of the labs. Each step outlines an easy to follow set of instructions that will walk you through preparing your IBM cloud environment so you can do any of the labs you choose. It is a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+On the following pages are a series of steps you need to complete before you do any of the labs. Each step outlines an easy to follow set of instructions that walks you through preparing your IBM cloud environment so you can do any of the labs you choose. It is a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
 
 Step | Description
 ------------ | -------------
-1 | Download the Lab Files
-2 | Create a Bluemix Account
+1 | Download the lab files
+2 | Create a Bluemix account
 3 | Create the Watson Data Platform lab services
 4 | Create the Watson Data Platform lab application
-5 | Create a Watson Analytics Account
+5 | Create a Watson Analytics account
 
 ## Step 1: Download the Lab Files
 
