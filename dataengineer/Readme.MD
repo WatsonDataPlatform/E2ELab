@@ -36,11 +36,9 @@ Step | Description
 
 ## Step 1: Launch the Data Connect service
 
-> You should still be logged into your Bluemix account from completing the GettingStarted excercise.
-
 ### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
 
-> If you are not logged in, supply your credentials and log into your Bluemix aaccount.
+> You should still be logged into your Bluemix account from completing the GettingStarted excercise.If you are not, select the Log in button, supply your credentials when prompted and log into your Bluemix account.
 
 <img src="./media/Step1-image-01.png"/>
 
