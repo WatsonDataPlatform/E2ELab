@@ -327,8 +327,8 @@ To activate your account, **Go to** your email inbox that you used to register y
 
 <img src="./media/Step5-image-12.png"/>
 
-4. **Select** "Got it".
+4. **Select** "Got it" when you get to the end of the exploration tour.
 
 <img src="./media/Step5-image-13.png"/>
 
-> Your Watson Analytics account is now ready for use. You have completed all of the GettingStarted steps and are ready to begin doing the Watson Data Platform labs. You can do the labs in any order you wish but we strongly suggest you start by doing the Data Engineering lab first.
+> Your Watson Analytics account is now ready for use. You have completed all of the Getting Started prerequisites and are ready to begin the Watson Data Platform labs. You can do the labs in any order you like but we strongly suggest you start by doing the Data Engineering lab first followd by Business Analysis, Data Science and then Application Development.
