@@ -257,18 +257,18 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 <img src="./media/Step5-image-01.png" />
 
-1. Click on the “Try it for free” button.
+1. **Select** the “Try it for free” button.
 
 <img src="./media/Step5-image-02.png"/>
    
-2.  You will now be prompted to setup an IBM account using the sign-up form as shown above. If you already have an IBM account, which you should, one was created for you when you created a Bluemix account, **Select** the "Log in" link to begin creating your Watson Analtics account using the same email address you used to create your Bluemix account.
+2.  You will be prompted to setup an IBM account using the sign-up form as shown above. If you already have an IBM account, which you should, one was created for you when you created a Bluemix account, **Select** the "Log in" link to begin creating your Watson Analtics account using the same email address you used to create your Bluemix account.
 
 <img src="./media/Step5-image-03.png"/>
 
-3.  To activate your IBM account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), that you can retrieve from your email inbox. Copy and paste it or type it in the sign-up page as shown above.
+3.  To activate your account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address. **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
 
 <img src="./media/Step5-image-04.png"/>
 
-4.  At this point, you will see a status screen saying “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as shown above confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
+4.  At this point, you will see a status screen informing you that “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as shown above confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
 
 <img src="./media/Step5-image-05.png"/>
