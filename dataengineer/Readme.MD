@@ -83,7 +83,7 @@ Step | Description
  
 <img src="./media/Step2-image-02.png"/>
 
-2. **Select** the “IBM Watson Analytics” connector from the list of supported connectors.
+2. **Select** the “IBM Watson Analytics” connector from the list of connectors.
 
 <img src="./media/Step2-image-03.png"/>
 
