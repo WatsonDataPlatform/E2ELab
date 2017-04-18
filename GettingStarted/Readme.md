@@ -282,4 +282,4 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 4.  At this point, you will see a status screen informing you that “Your services are being setup” but within a few seconds your account will be setup and you’ll see a page as shown above confirming your 30-day trial subscription to “IBM Watson Analytics Professional Single User”!...
 
-<img src="./media/Step5-image-05.png"/>
+<img src="./media/Step5-image-06.png"/>
