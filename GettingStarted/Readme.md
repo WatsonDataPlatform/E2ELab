@@ -293,11 +293,11 @@ You will need a Watson Analytics account. If you **don't** have an account:
 
 <img src="./media/Step5-image-04.png"/>
 
-> You will be brought to the Sign Up page informing you “We have sent a confirmation code to verify your IBMId email address."
+> You will be brought to the Sign Up page informing you “We have sent a confirmation code to verify your IBMId email address." You will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address.
 
 <img src="./media/Step5-image-05.png"/>
 
-To activate your account you will be sent an email by ibmacct@us.ibm.com with a “Confirmation code” (7 digit number), to verify your email address. **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
+To activate your account, **Go to** your email inbox that you used to register your Watson Analytics account and copy and paste or type in the confirmation code on the sign-up page as shown above.
 
 <img src="./media/Step5-image-06.png"/>
 
