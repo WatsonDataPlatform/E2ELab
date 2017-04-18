@@ -311,11 +311,11 @@ To activate your account, **Go to** your email inbox that you used to register y
 
 <img src="./media/Step5-image-08.png"/>
 
-> Once provisioned you will be brought into a screen that plays a video introducing you to Watson Analytics. 
+> In a few seconds you will be brought into a Welcom page that plays a video introducing you to Watson Analytics with a status of "Setting up your account" at the bottom of the page. 
 
 <img src="./media/Step5-image-09.png"/>
 
-1. **Select** the Continue to Watson Analytics ->" arrow.
+1. When you are able, **Select** the Continue to Watson Analytics ->" arrow.
 
 <img src="./media/Step5-image-10.png"/>
 
