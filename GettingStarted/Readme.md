@@ -3,7 +3,6 @@
 
 The Watson Data Platform labs are conducted using the IBM cloud. They utilize the suite of fully managed cloud data services; Cloudant NoSQL DB, dashDB for Analytics and Object Storage to persist data and Data Connect to ingest data. These services are available and deployed from Bluemix, IBM’s cloud platform. This lab also leverages Watson Analytics, IBM’s smart data discovery and visualization service on the cloud. Finally, this lab will also utilize the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. 
 
-These labs will require you to set up accounts and download files that will used as source datasets and to assist in building an application. This Getting Started section will prepare you for running all of the labs in this end-to-end demo.
 
 ## Workflow
 
