@@ -129,19 +129,19 @@ Step | Description
 
 ## Step 3: Prepare the Watson Data Platform Application
 
- > Go back to your Bluemix account. It should still be opened in your browser and you should be on the Cloudant NoSQL DB launch page.
+ > Go back to your Bluemix account. It should still be opened in your browser and you should be logged in and on the Cloudant NoSQL DB launch page.
 
 <img src="./media/Step3-image-01.png" />
 
-1. **Select** the "Databases" tab from on the left side menu.
+1. **Select** the Hamburger in the top left corner of Bluemix to view the Bluemix menu items.
 
 <img src="./media/Step3-image-02.png" />
 
-2. **Select** "Create Databases" from the top navigation bar.
+2. **Select** the "Apps" meu item.
 
 <img src="./media/Step3-image-03.png" />
 
-3. **Enter** "greatoutdoors" (in lowercase, database names are case sensitive) for the database name.
+3. **Select** the "Dashboard" sub-menu to get back to your Bluemix dashboard.
 
 6.  Click on the “**Connections**” tab in the top navigation bar when staging is complete.
 
