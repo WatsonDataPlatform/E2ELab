@@ -27,7 +27,7 @@ Step | Description
 5	| Complete and Run the Data Activity
 6 | Validate the Results
 
-## Step 1: Launch the Data Connect Service
+## Step 1: Launch the Cloudant NoSQL DB Service
 
 ### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
 
@@ -45,12 +45,11 @@ Step | Description
 
 <img src="./media/Step1-image-04.png"/>
 
-1. Once you are logged into your Bluemix account, **Scroll down** to the "All Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service. You will be brought to the Data Connect launch page.
+1. Once you are logged into your Bluemix account, **Scroll down** to the "All Services" section of your dashboard and **Click** on the "WDP Lab Cloudant NoSQL DB" service. You will be brought to the Cloudant NoSQL DB launch page.
 
 <img src="./media/Step1-image-05.png" />
 
-2. **Select** the “LAUNCH” button to start using the Data Connect service. It will open in a new tab in your browser.
-
+2. **Select** the “LAUNCH” button to start using the Cloudant NoSQL DB service. It will open in a new tab in your browser.
 
 ##Lab Components: IBM Bluemix Cloud Offering Used
 
