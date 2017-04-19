@@ -153,15 +153,13 @@ Step | Description
 
 > You should now see your application in a staging status with a spinning wheel.
 
+> Binding services to an application allows the Node.js service to authenticate to Cloudant without hard coding credentials in the JavaScript code. It uses environment variables on the server-side to share the credentials between services.
+
 <img src="./media/Step3-image-09.png" />
 
 10. **Select** the "Overview" tab from the left side menu.
 11. **Scroll down** to the bottom of the "Overview" page.
-12. **Select** the "Enable" button from the Continuous Delivery section in the bottm right corner.
-
-    e.  Binding services allows the Node.js service to authenticate to Cloudant without hard coding credentials in the JavaScript code. It uses environment variables on the server-side to share the credentials between services.
-
-7.  In the top, navigation bar click the “**Overview**” tab.
+12. **Select** the "Enable" button from the Continuous Delivery section in the bottm right corner
 
     a.  In the Continuous Delivery panel select “**Add Git Repo and Pipeline**”
 
