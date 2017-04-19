@@ -131,19 +131,23 @@ Step | Description
 
 <img src="./media/Step3-image-04.png" />
 
-4. **Select** the "WDP Lab Your Name Application" name (not the URL link) where Your Name is your First and Last name,that you created in GettingStarted.
+4. **Click on** the "WDP Lab *Your Name* Application" Name (not the Route URL) where Your Name is your First and Last name, that you created in GettingStarted.
 
 <img src="./media/Step3-image-05.png" />
 
 5. **Select** the “Connections” tab from the left side menu.
+6. **Select** the "Connect existing" button.
 
-    a.  Click on the blue “**Connect Existing**” button on the top, right side of the page.
+<img src="./media/Step3-image-06.png" />
 
-    b.  Click on the **NoSQL Cloudant DB** service you created in section 4 and click **Connect**
+7. **Click on** the "WDP Lab Cloudant NoSQL DB" service existing" button.
+8. **Select** the "Connect" button.
 
-    c.  You will be prompted to restage your application. Click **Restage**.
+<img src="./media/Step3-image-06.png" />
 
-    d.  *Note: Allow 30-40 seconds for your application to restage.*
+9. **Select** the "Restage" button when prompted.
+
+> Note: Allow 30-40 seconds for your application to restage.
 
     e.  Binding services allows the Node.js service to authenticate to Cloudant without hard coding credentials in the JavaScript code. It uses environment variables on the server-side to share the credentials between services.
 
