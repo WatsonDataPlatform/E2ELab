@@ -99,9 +99,13 @@ Step | Description
 
 5. **Select** the "Create Index” button.
 
-15.  Click on the **greatoutdoors** database to return to the database page.
+<img src="./media/Step2-image-05.png" />
 
-16.  Create another index by selecting all the text in the existing index box and replacing it with the following text:
+6. **Click** in the "Index" text box and select all the text.
+
+<img src="./media/Step2-image-06.png" />
+
+7. **Replace** the text with the following text:
 
  > {
  >
@@ -113,7 +117,7 @@ Step | Description
  >
  > }
 
-17.  Click “**Create Index**”
+8. **Select** the "Create Index” button.
 
  > *Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the cut-and-paste process. They should be standard double quotes and not inverted.*
 
