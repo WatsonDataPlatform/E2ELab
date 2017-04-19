@@ -119,7 +119,7 @@ Step | Description
 
 8. **Select** the "Create Index” button.
 
- > Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the copy-and-paste process. They should be standard double quotes and not inverted.*
+ > Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the copy-and-paste process. They should be standard double quotes and not inverted.
 
 <img src="./media/Step2-image-07.png" />
 
@@ -128,6 +128,20 @@ Step | Description
  > You shoud now see the two indicies you just created.
 
 ## Step 3: Prepare the Watson Data Platform Application
+
+ > Go back to your Bluemix account. It should still be opened in your browser and you should be on the Cloudant NoSQL DB launch page.
+
+<img src="./media/Step3-image-01.png" />
+
+1. **Select** the "Databases" tab from on the left side menu.
+
+<img src="./media/Step3-image-02.png" />
+
+2. **Select** "Create Databases" from the top navigation bar.
+
+<img src="./media/Step3-image-03.png" />
+
+3. **Enter** "greatoutdoors" (in lowercase, database names are case sensitive) for the database name.
 
 6.  Click on the “**Connections**” tab in the top navigation bar when staging is complete.
 
