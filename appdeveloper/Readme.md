@@ -4,17 +4,10 @@
 
 As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. Perform these hands-on exercises to quickly build and deploy a live dashboard with Node.js connceted to a document data service, IBM Cloudant NoSQL DB.
 
-This lab will demonstrate how an application developer can use the capabilities listed below to easily build and deploy the live dashboard application: 
-
-* Accessing the Cloudant NoSQL DB Service
-* Creating a Cloudant NoSQL Database
-* Persisting data into a Cloudant NoSQL database
-* Preparing the Watson Data Platform Application
-
 ## Prerequisites
 
 > Make sure you have completed the prerequisites in the GettingStarted section for the labs before you proceed.
-> ## [Click Here to go to Getting Started](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
+> ## [Click Here to go to GettingStarted](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
 
 ## Workflow
 
@@ -27,9 +20,6 @@ Step | Description
 1 | Launch the Cloudant NoSQL DB Service
 2 | Create and Setup a Cludant NoSQL Database
 3 | Prepare the Watson Data Platform Application
-4 | Prepare the Data
-5 | Complete and Run the Data Activity
-6 | Validate the Results
 
 ## Step 1: Launch the Cloudant NoSQL DB Service
 
@@ -139,9 +129,13 @@ Step | Description
 
 3. **Select** the "Dashboard" sub-menu to go to the All Apps section of your Bluemix dashboard.
 
-4. **Select** the "WDP Lab Your Name Application" that you created in GettingStarted.
+<img src="./media/Step3-image-04.png" />
 
-6.  Click on the “**Connections**” tab in the top navigation bar when staging is complete.
+4. **Select** the "WDP Lab Your Name Application" name (not the URL link) where Your Name is your First and Last name,that you created in GettingStarted.
+
+<img src="./media/Step3-image-05.png" />
+
+5. **Select** the “Connections” tab from the left side menu.
 
     a.  Click on the blue “**Connect Existing**” button on the top, right side of the page.
 
