@@ -2,23 +2,14 @@
 
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Deploy.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
-As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. Perform hands-on exercises to quickly build and deploy a live dashboard with Node.js connceted to a document data service, IBM Cloudant NoSQL DB.
+As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. Perform these hands-on exercises to quickly build and deploy a live dashboard with Node.js connceted to a document data service, IBM Cloudant NoSQL DB.
 
-##Lab Components: IBM Bluemix Cloud Offering Used
+This lab will demonstrate how an application developer can use the capabilities listed below to easily build and deploy the live dashboard application: 
 
-1.  **Source Data Repository**: **Cloudant NoSQL DB**
-
-2.  **Software Development Tools**: **DevOps Services and Git **
-
-3.  **Runtime Environment**: **SDK for Node.js**
-
-This lab will demonstrate how an applicaiton developer can easily build and deploy a Bluemix application using: 
-
-* Working with a Cloudant NoSQL database
+* Accessing the Cloudant NoSQL DB Service
+* Creating a Cloudant NoSQL Database
 * Persisting data into a Cloudant NoSQL database
-* Preparing the WDP Lab Application
-* Executing and monitoring data activities
-* Persiting data into Watson Analytics
+* Preparing the Watson Data Platform Application
 
 ## Workflow
 
@@ -29,7 +20,7 @@ This lab will demonstrate how an applicaiton developer can easily build and depl
 Step | Description
 ------------ | -------------
 1 | Launch the Cloudant NoSQL DB Service
-2 | Setup the Cludant NoSQL Database
+2 | Create and Setup a Cludant NoSQL Database
 3 | Prepare the Watson Data Platform Application
 4 | Prepare the Data
 5 | Complete and Run the Data Activity
@@ -59,7 +50,7 @@ Step | Description
 
 2. **Select** the “LAUNCH” button to start using the Cloudant NoSQL DB service. It will open in a new tab in your browser.
 
-## Step 2: Setup the Cloudant NoSQL Database
+## Step 2: Create and Setup a Cloudant NoSQL Database
 
 <img src="./media/Step2-image-01.png" />
 
@@ -133,15 +124,19 @@ Step | Description
 
 <img src="./media/Step3-image-01.png" />
 
-1. **Select** the Hamburger in the top left corner of Bluemix to view the Bluemix menu items.
+1. **Select** the Hamburger in the top left corner of Bluemix to view the Bluemix navigation menu.
 
 <img src="./media/Step3-image-02.png" />
 
-2. **Select** the "Apps" meu item.
+2. **Select** the "Apps" menu item.
 
 <img src="./media/Step3-image-03.png" />
 
-3. **Select** the "Dashboard" sub-menu to get back to your Bluemix dashboard.
+3. **Select** the "Dashboard" sub-menu to go to the All Apps section of your Bluemix dashboard.
+
+4. **Select** the "WDP Lab Your Name Application" that you created in GettingStarted. If you have not done this, click on the link below to complete the GettingStarted section.
+
+## [Getting Started - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
 
 6.  Click on the “**Connections**” tab in the top navigation bar when staging is complete.
 
