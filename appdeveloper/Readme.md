@@ -97,7 +97,7 @@ Step | Description
  >
  > }
 
-5. **Select** "Create Index”.
+5. **Select** the "Create Index” button.
 
 15.  Click on the **greatoutdoors** database to return to the database page.
 
