@@ -1,15 +1,15 @@
 #Hands on Lab - Data Scientist
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/MachineLearning.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
-As a Data Scientist, you have to turn raw data into meaning using state-of-the-art techniques leveraging open source and enterprise applications. Perform hands-on exercises leveraging Apache Spark, Jupyter, Python, and R to derive sales performance for a specific product line, then build an advanced Machine Learning model in R.
+As a Data Scientist, you have to turn raw data into meaning using state-of-the-art techniques leveraging open source and enterprise applications. This hands-on lab leverages Apache Spark, Jupyter, Python, and R to derive sales performance for a specific product line, then build an advanced Machine Learning model in R.
 
 ##Welcome to IBM Data Science Experience (DSX) - datascience.ibm.com
 
-IBM Data Science Experience (DSX) is the premier offering that seamlessly allows data scientists and data engineers to connect data from multiple domains, to analyze it, and visually to explore the data for insights. The solutions that were not possible previously or required months of development effort can now be done in DSX in a very fast and intuitive manner.
+IBM Data Science Experience (DSX) is the premier offering that seamlessly allows data scientists and data engineers to connect data from multiple domains, analyze it, and visually explore the data for insights. Learn how quickly you can surface insights using the intuitive tooling found in DSX. 
 
-R has become the de-facto standard in the domain of data science: it supports multiple machine learning algorithms and ability to visualize the outcomes of the research.
+R has become the de-facto standard in the domain of data science: it supports multiple machine learning algorithms and has the ability to visualize the outcomes of the research.
 
-DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, intuitive data connectivity and processing capabilities of Spark, and the state-of-art dynamic visualization technology using Brunel, Pixiedust, and RStudio.
+DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, along withe the intuitive data connectivity and processing capabilities of Spark, and displays the outcomes using state-of-art dynamic visualization technology found in Brunel, Pixiedust, and RStudio.
 
 #Step 1. Get on IBM Data Science Experience (DSX).
 ##Create a BlueMix Account.
