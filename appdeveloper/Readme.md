@@ -11,6 +11,12 @@ This lab will demonstrate how an application developer can use the capabilities 
 * Persisting data into a Cloudant NoSQL database
 * Preparing the Watson Data Platform Application
 
+## Before you Begin
+
+Make sure you have completed the GettingStarted lab before you proceed. If you have not done so, click on the link below to complete the prerequisites.
+
+## [Clock Here to go to Getting Started](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
+
 ## Workflow
 
 > On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions that demonstrate the capabilities of the Bluemix Data Connect cloud service. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
@@ -134,9 +140,7 @@ Step | Description
 
 3. **Select** the "Dashboard" sub-menu to go to the All Apps section of your Bluemix dashboard.
 
-4. **Select** the "WDP Lab Your Name Application" that you created in GettingStarted. If you have not done this, click on the link below to complete the GettingStarted section.
-
-## [Getting Started - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
+4. **Select** the "WDP Lab Your Name Application" that you created in GettingStarted.
 
 6.  Click on the “**Connections**” tab in the top navigation bar when staging is complete.
 
