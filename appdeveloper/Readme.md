@@ -11,11 +11,10 @@ This lab will demonstrate how an application developer can use the capabilities 
 * Persisting data into a Cloudant NoSQL database
 * Preparing the Watson Data Platform Application
 
-## Before you Begin
+## Prerequisites
 
-> Make sure you have completed the GettingStarted section for the labs before you proceed. If you have not done so:
-
-## [Clock Here to go to Getting Started](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
+> Make sure you have completed the prerequisites in the GettingStarted section for the labs before you proceed.
+> ## [Clock Here to go to Getting Started](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
 
 ## Workflow
 
