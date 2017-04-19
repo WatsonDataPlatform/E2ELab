@@ -143,7 +143,7 @@ Step | Description
 7. **Click on** the "WDP Lab Cloudant NoSQL DB" service existing" button.
 8. **Select** the "Connect" button.
 
-<img src="./media/Step3-image-06.png" />
+<img src="./media/Step3-image-07.png" />
 
 9. **Select** the "Restage" button when prompted.
 
