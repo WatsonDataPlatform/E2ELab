@@ -149,9 +149,16 @@ Step | Description
 
 > Note: Allow 30-40 seconds for your application to restage.
 
-<img src="./media/Step3-image-07.png" />
+<img src="./media/Step3-image-08.png" />
 
-9. **Select** the "Restage" button when prompted.
+> You should now see your application in a staging status with a spinning wheel.
+
+<img src="./media/Step3-image-09.png" />
+
+10. **Select** the "Overview" tab from the left side menu.
+11. **Scroll down** to the bottom of the "Overview" page.
+12. **Select** the "Enable" button from the Continuous Delivery section in the bottm right corner.
+
     e.  Binding services allows the Node.js service to authenticate to Cloudant without hard coding credentials in the JavaScript code. It uses environment variables on the server-side to share the credentials between services.
 
 7.  In the top, navigation bar click the “**Overview**” tab.
