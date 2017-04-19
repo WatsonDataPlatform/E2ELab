@@ -3,7 +3,7 @@
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/WDP-Architecture.png">](https://github.com/WatsonDataPlatform/E2ELab)
 ### Where teams can collaboratively work together...
 
-[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Team.png">](https://github.com/WatsonDataPlatform/E2ELab)
+[<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Personas.png">](https://github.com/WatsonDataPlatform/E2ELab)
 ### Accelerating End to End Analytics from months to minutes...
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Demo%20Flow.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
