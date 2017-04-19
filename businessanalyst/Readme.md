@@ -42,7 +42,7 @@ Perform these hands-on exercises using guided data exploration capabilities foun
 
  > <img src="./media/image15.png" />
 
-11.  Since each row of the spreadsheet is a customer transaction, the size of the rectangles in the treemap represents the number of transactions for each product type such as “Tents”, “Sleeping Bags”, “Eyewear” etc. We can clearly see that the most popular item for Great Outdoors is “Eyewear” and if you hover your mouse over that brown rectangle under “Personal Accessories”, it tells you that there were a total of 8,264 transactions (out of a total of 62K transactions) for “Eyewear”! The next best selling items in terms of total volume are “Tents” and then “Sleeping Bags”.
+11.  Since each row of the spreadsheet is a customer transaction, the size of the rectangles in the treemap represents the number of transactions for each product type such as “Tents”, “Sleeping Bags”, “Eyewear” etc. We can clearly see that the most popular item for Great Outdoors is “Eyewear” and if you hover your mouse over that brown rectangle under “Personal Accessories”, it tells you that there were a total of 8,264 transactions (out of a total of 62K transactions) for “Eyewear”. The next best selling items in terms of total volume are “Tents” and then “Sleeping Bags”.
 
  > <img src="./media/image16.png" />
 
