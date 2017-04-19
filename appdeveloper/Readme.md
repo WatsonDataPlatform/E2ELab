@@ -119,11 +119,9 @@ Step | Description
 
 8. **Select** the "Create Index” button.
 
- > *Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the cut-and-paste process. They should be standard double quotes and not inverted.*
+ > *Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the copy-and-paste process. They should be standard double quotes and not inverted.*
 
-18.  You are now ready to move to the next service – SDK for Node.js Runtime. Return to the previous browser tab and click on the **catalog** button in the top navigation bar.
-
-## Step 3: Setup the Watson Data Platform Application
+## Step 3: Prepare the Watson Data Platform Application
 
 6.  Click on the “**Connections**” tab in the top navigation bar when staging is complete.
 
