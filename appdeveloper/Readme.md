@@ -119,7 +119,13 @@ Step | Description
 
 8. **Select** the "Create Index” button.
 
- > *Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the copy-and-paste process. They should be standard double quotes and not inverted.*
+ > Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the copy-and-paste process. They should be standard double quotes and not inverted.*
+
+<img src="./media/Step2-image-07.png" />
+
+9. **Scroll down** the list of indicies on the right hand side.
+
+ > You shoud now see the two indicies you just created.
 
 ## Step 3: Prepare the Watson Data Platform Application
 
