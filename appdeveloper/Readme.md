@@ -4,6 +4,54 @@
 
 As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. Perform hands-on exercises to quickly build and deploy a live dashboard with Node.js connceted to a document data service, IBM Cloudant NoSQL DB.
 
+This lab will demonstrate how a data engineer can easily utilize these capabilities of the Data Connect service: 
+
+* Creating and working with Data Connect connectors
+* Visualizing and understanding data quality and Content
+* Preparing and transforming data
+* Executing and monitoring data activities
+* Persiting data into Watson Analytics
+
+## Workflow
+
+> On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions that demonstrate the capabilities of the Bluemix Data Connect cloud service. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+
+### Lab Steps
+
+Step | Description
+------------ | -------------
+1 | Launch the Data Connect Service
+2	| Create a Watson Analytics Connection
+3	| Import the Source Dataset
+4	| Prepare the Data
+5	| Complete and Run the Data Activity
+6 | Validate the Results
+
+## Step 1: Launch the Data Connect Service
+
+### [Click Here to Go to Bluemix](https://console.ng.bluemix.net/)
+
+<img src="./media/Step1-image-01.png"/>
+
+> You should be logged into your Bluemix account if you just completed the GettingStarted section. If not, select the Log in button. When prompted, supply your credentials to log into your Bluemix account.
+
+<img src="./media/Step1-image-02.png"/>
+
+> Make sure you are in the "Watson Data Platform" space.
+
+<img src="./media/Step1-image-03.png"/>
+
+> If you are not in the "Watson Data Platform" space, that you were instructed to create in the GettingStarted section, switch to it by **Selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
+
+<img src="./media/Step1-image-04.png"/>
+
+1. Once you are logged into your Bluemix account, **Scroll down** to the "All Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service. You will be brought to the Data Connect launch page.
+
+<img src="./media/Step1-image-05.png" />
+
+2. **Select** the “LAUNCH” button to start using the Data Connect service. It will open in a new tab in your browser.
+
+
 ##Lab Components: IBM Bluemix Cloud Offering Used
 
 1.  **Source Data Repository**: **Cloudant NoSQL DB**
