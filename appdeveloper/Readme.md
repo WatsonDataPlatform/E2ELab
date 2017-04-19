@@ -4,11 +4,19 @@
 
 As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. Perform hands-on exercises to quickly build and deploy a live dashboard with Node.js connceted to a document data service, IBM Cloudant NoSQL DB.
 
-This lab will demonstrate how a data engineer can easily utilize these capabilities of the Data Connect service: 
+##Lab Components: IBM Bluemix Cloud Offering Used
 
-* Creating and working with Data Connect connectors
-* Visualizing and understanding data quality and Content
-* Preparing and transforming data
+1.  **Source Data Repository**: **Cloudant NoSQL DB**
+
+2.  **Software Development Tools**: **DevOps Services and Git **
+
+3.  **Runtime Environment**: **SDK for Node.js**
+
+This lab will demonstrate how an applicaiton developer can easily build and deploy a Bluemix application using: 
+
+* Working with a Cloudant NoSQL database
+* Persisting data into a Cloudant NoSQL database
+* Preparing the WDP Lab Application
 * Executing and monitoring data activities
 * Persiting data into Watson Analytics
 
@@ -20,11 +28,11 @@ This lab will demonstrate how a data engineer can easily utilize these capabilit
 
 Step | Description
 ------------ | -------------
-1 | Launch the Data Connect Service
-2	| Create a Watson Analytics Connection
-3	| Import the Source Dataset
-4	| Prepare the Data
-5	| Complete and Run the Data Activity
+1 | Launch the Cloudant NoSQL DB Service
+2 | Setup the Cludant NoSQL Database
+3 | Prepare the Watson Data Platform Application
+4 | Prepare the Data
+5 | Complete and Run the Data Activity
 6 | Validate the Results
 
 ## Step 1: Launch the Cloudant NoSQL DB Service
@@ -51,38 +59,29 @@ Step | Description
 
 2. **Select** the “LAUNCH” button to start using the Cloudant NoSQL DB service. It will open in a new tab in your browser.
 
-##Lab Components: IBM Bluemix Cloud Offering Used
+## Step 2: Setup the Cloudant NoSQL Database
 
-1.  **Source Data Repository**: **Cloudant NoSQL DB**
+<img src="./media/Step2-image-01.png" />
 
-2.  **Software Development Tools**: **DevOps Services and Git **
+1. **Select** the "Databases" tab from on the left side menu.
+2. **Select** "Create Databases" from the top navigation bar.
+3. **Enter** "greatoutdoors" (in lowercase, database names are case sensitive) for the database name.
+4. **Select** the "Create" button.
 
-3.  **Runtime Environment**: **SDK for Node.js**
+> Note - In the following steps we will create two indices to allow queries against the data set. Any parameter which is used in a query must be indexed.
 
- <img src="./media/image1.png" width="487" height="175" />
+<img src="./media/Step2-image-02.png" />
 
-Watch Full Lab Video (Optional): https://youtu.be/jhFo47juTFI
- > [<img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/AD Video.png" width="382">](https://youtu.be/jhFo47juTFI "Business Analyst")
+1. **Select** the "+" sign on "Design Documents" menu.
+2. **Select** the "Query Indexes" menu item.
 
-4.  In the top, right corner of the page click **Launch**
+<img src="./media/Step2-image-03.png" />
 
-5.  The Cloudant page will open in a new tab. Select the new tab.
+3. **Click** in the "Index" text box and select all the text.
 
-6.  Select the **Databases** tab on the left-hand navigation bar
+<img src="./media/Step2-image-04.png" />
 
-7.  In the top navigation bar select “**Create Database**”
-
-8.  Create a new database named “**greatoutdoors**” (*Note: database names are case sensitive*). Click **create** to finalize the creation.
-
-9.  In the following steps we will create two indices to allow queries against the data set. Note: Any parameter which is used in a query must be indexed.
-
-10.  Click the + symbol on **Design Documents**.
-
-11.  Select **Query Indexes**
-
-12.  Click in the **Index** text box and select all the text
-
-13.  Replace the text with the following text:
+4. **Replace** the text with the following text:
 
  > {
  >
@@ -98,7 +97,7 @@ Watch Full Lab Video (Optional): https://youtu.be/jhFo47juTFI
  >
  > }
 
-14.  Click “**Create Index**”
+5. **Select** "Create Index”.
 
 15.  Click on the **greatoutdoors** database to return to the database page.
 
@@ -120,20 +119,7 @@ Watch Full Lab Video (Optional): https://youtu.be/jhFo47juTFI
 
 18.  You are now ready to move to the next service – SDK for Node.js Runtime. Return to the previous browser tab and click on the **catalog** button in the top navigation bar.
 
-Step 4. Create Application - SDK for Node.js Runtime Service
-==================================================================
-
-1.  From the Bluemix catalog menu search for “**foundry**”.
-
-2.  Click on the **Cloud Foundry Applications** icon <img src="./media/image7.png" width="41" height="33" />
-
-3.  Click on the **SDK for Node.js** icon <img src="./media/image8.png" width="37" height="37" />
-
-4.  Create a name the service and the host. *Note: The host name needs to be unique. If you receive an error message it is likely that the host name you created is already in use.*
-
-5.  Choose the default pricing plan and click “**Create**” at the bottom of the page.
-
- > *Note: Allow your new SDK for Node.js runtime service to stage. This could take 30-40 seconds.*
+## Step 3: Setup the Watson Data Platform Application
 
 6.  Click on the “**Connections**” tab in the top navigation bar when staging is complete.
 
