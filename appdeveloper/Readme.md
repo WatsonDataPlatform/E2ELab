@@ -65,44 +65,6 @@ Step | Description
 Watch Full Lab Video (Optional): https://youtu.be/jhFo47juTFI
  > [<img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/AD Video.png" width="382">](https://youtu.be/jhFo47juTFI "Business Analyst")
 
-
-#Step 1. Get on BlueMix...
-
-> NOTE: If you already have a Bluemix account then skip this steps:
-
-1.  Go to [www.bluemix.net](http://www.bluemix.net)
-
-2.  Click the signup button on the top right
-
- > <img src="./media/image2.png" width="624" height="171" />
-
-3.  On the next page fill in the corresponding fields and click “Create Account”
-
- > <img src="./media/image3.png" width="624" height="300" />
-
-4.  You will see a page asking you to check your email for next steps. Check your email that you used to sign up for Bluemix
-
- > <img src="./media/image4.png" width="237" height="219" />
-
-5.  Click on the “confirm your account” link
-
- > <img src="./media/image5.png" width="396" height="330" />
-
-#Step 2. Dowload Data Files
-
-1.  Download Lab-NodejsDashboard.zip archive from the github.com location below and save to your laptop:
-
-2.  https://github.com/ibmdataworks/datafirst/tree/master/appdeveloper/nodejsDashboard.zip
-
-Step 3. Create Data Source - Cloudant NoSQL DB Service
-============================================================
-
-1.  From the Bluemix dashboard catalog menu search for “Cloudant”
-
-2.  Click on the Cloudant Icon <img src="./media/image6.png" width="31" height="27" /> under the Data & Analytics section.
-
-3.  Choose the default pre-filled values in the fields (optionally rename the “Service name:” to AD-Greatoutdoors-DB), select the “Lite Pricing Plan” and click “Create” at the bottom of the page.
-
 4.  In the top, right corner of the page click **Launch**
 
 5.  The Cloudant page will open in a new tab. Select the new tab.
