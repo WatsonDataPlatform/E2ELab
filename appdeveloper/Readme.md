@@ -149,6 +149,9 @@ Step | Description
 
 > Note: Allow 30-40 seconds for your application to restage.
 
+<img src="./media/Step3-image-07.png" />
+
+9. **Select** the "Restage" button when prompted.
     e.  Binding services allows the Node.js service to authenticate to Cloudant without hard coding credentials in the JavaScript code. It uses environment variables on the server-side to share the credentials between services.
 
 7.  In the top, navigation bar click the “**Overview**” tab.
