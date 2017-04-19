@@ -13,7 +13,7 @@ Perform these hands-on exercises using guided data exploration capabilities foun
 
 2.  If you completed the [Data Engineer Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/) you should have the "Great Outdoor Customer Orders.csv" file in your "Personal" folder as shown in the image below step 8. If this file does not exist or you do not wish to complete the Data Engineer lab, proceed to Step 3 to upload the file. If this file does exist, proceed to Step 9. 
 
-3. Download this file <https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv> to a local directory. 
+3. Download this file <https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv> to a local directory. When you choose download, the file will open in a browser window. Use the "File" > "Save Page As..." and ensure you maintain the .csv file extention.
 
 4. From Watson Analytics, click on “+ New data” button towards the top left. 
 
