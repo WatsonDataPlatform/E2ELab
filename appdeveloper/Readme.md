@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Deploy.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
-As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. The hands-on exercises in this lab will instruct you on how to quickly build and deploy a live dashboard application with Node.js connceted to a document data service, IBM Cloudant NoSQL DB. It analyzes data stored in the Cloudant document database and displays a graph depicting where time is being spent across the different departments of the Great Outdoors retail store.
+As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. The hands-on exercises in this lab will instruct you on how to quickly build and deploy a live dashboard application with Node.js connceted to a document data service, IBM Cloudant NoSQL DB. It analyzes data stored in the Cloudant document data service and renders a web interface that displays a graph depicting where time is being spent across the different departments of the Great Outdoors retail store.
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ Step | Description
 ------------ | -------------
 1 | Launch the Cloudant NoSQL DB Service
 2 | Create and Setup a Cludant NoSQL Database
-3 | Prepare the Watson Data Platform Application
+3 | Build and Deploy the Watson Data Platform Application
 
 ## Step 1: Launch the Cloudant NoSQL DB Service
 
@@ -116,7 +116,7 @@ Step | Description
 
  > You shoud now see the two indicies you just created.
 
-## Step 3: Prepare the Watson Data Platform Application
+## Step 3: Build and Deploy the Watson Data Platform Application
 
  > Go back to your Bluemix account. It should still be opened in your browser and you should be logged in and on the Cloudant NoSQL DB launch page.
 
@@ -156,13 +156,17 @@ Step | Description
 
 > You should now see your application in a staging status with a spinning wheel.
 
-> Binding services to an application allows the Node.js service to authenticate to Cloudant without hard coding credentials in the JavaScript code. It uses environment variables on the server-side to share the credentials between services.
+> Binding services to an application allows the Node.js service to authenticate to the Cloudant NoSQL DB service without hard coding credentials in the JavaScript code. It uses environment variables on the server side to share the credentials between services.
 
 <img src="./media/Step3-image-09.png" />
 
 10. **Select** the "Overview" tab from the left side menu.
 11. **Scroll down** to the bottom of the "Overview" page.
 12. **Select** the "Enable" button from the Continuous Delivery section in the bottm right corner
+
+> A new tab will open in your browser and you will be brought into IBM Bluemix DevOps.
+
+<img src="./media/Step3-image-10.png" />
 
     a.  In the Continuous Delivery panel select “**Add Git Repo and Pipeline**”
 
