@@ -182,46 +182,37 @@ Step | Description
 
 If you already have a GitHub account:
 
-4. **Enter** your GitHub Username or email address.
-5. **Enter** your password.
-6. **Select** the "Sign in" button.
+1. **Enter** your GitHub Username or email address.
+2. **Enter** your password.
+3. **Select** the "Sign in" button.
 
 <img src="./media/Step3-image-13.png" />
 
-7. **Select** the "Authorize application" button.
+4. **Select** the "Authorize application" button.
 
 If you are New to GitHub and **do not** have a GitHub account:
 
-1. **Select** the "Create an account" button.
-
-<img src="./media/Step3-image-13.png" />
-
-8. **Enter** the required information; Username, Email Address and Password
-9. **Select** the "Create an account" button.
-
 <img src="./media/Step3-image-14.png" />
 
-4. **Select** the "Create" button at the botton of the page to create the toolchain.
+1. **Select** the "Create an account" button.
 
 <img src="./media/Step3-image-15.png" />
 
-5. **Select** the "Create" button at the botton of the page to create the toolchain.
+2. **Enter** the required information; Username, Email Address and Password
+3. **Select** the "Create an account" button.
 
 <img src="./media/Step3-image-16.png" />
 
+4. **Select** the "Create" button at the botton of the page to create the toolchain.
+
+<img src="./media/Step3-image-17.png" />
+
+5. **Select** the "Create" button at the botton of the page to create the toolchain.
+
+<img src="./media/Step3-image-18.png" />
+
 6. **Select** the "Create" button at the botton of the page to create the toolchain.
 
-    a.  In the Continuous Delivery panel select “**Add Git Repo and Pipeline**”
-
-    b.  If you already have a jazz.net account bind with that account. Otherwise, enter a n alias (account name) to allow Bluemix to create a Dev Ops account for you.
-
-    c.  Accept the DevOps Services terms by ticking the box.
-
-    d.  Click **Create**
-
-    e.  Once your Git account has been created you will be notified. Click **Continue**
-
-    f.  Once the Git repo has been create you will be prompted:
 
  > *Populate the repo with the starter app package and enable the Build & Deploy pipeline?*
 
