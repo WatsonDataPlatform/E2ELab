@@ -209,7 +209,7 @@ If you are New to GitHub and **do not** have a GitHub account:
 
 5. **Select** the "Create" button at the botton of the page to create the toolchain.
 
-<img src="./media/Step3-image-18.png" />
+<img src="./media/Step3-image-19.png" />
 
 6. **Select** the "Create" button at the botton of the page to create the toolchain.
 
