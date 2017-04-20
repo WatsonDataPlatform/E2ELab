@@ -7,7 +7,7 @@ As an Application Developer, you need multiple application and data services tha
 ## Prerequisites
 
 > Make sure you have completed the prerequisites in the GettingStarted section for the labs before you proceed.
-> ## [Click Here to go to GettingStarted](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
+> ### [Click Here to go to GettingStarted](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)
 
 ## Workflow
 
