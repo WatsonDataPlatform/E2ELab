@@ -172,15 +172,32 @@ Step | Description
 
 <img src="./media/Step3-image-11.png" />
 
-1. **Select** the "Create" button at the botton of the page to create the toolchain.
+1. **Scroll down** the page until you see the Tool Integrations section.
+2. **Click on** the GitHub integration link.
+3. **Select** the "Authorize" button. This will take you into a login page to log into or create a GitHub account. 
 
 <img src="./media/Step3-image-12.png" />
 
-2. **Select** the "Create" button at the botton of the page to create the toolchain.
+> You will need a GitHub account to manage your application code.  Follow one of the paths below depending on whether or not you have an existing GitHub account or not.
+
+If you already have a GitHub account:
+
+4. **Enter** your GitHub Username or email address.
+5. **Enter** your password.
+6. **Select** the "Sign in" button.
 
 <img src="./media/Step3-image-13.png" />
 
-3. **Select** the "Create" button at the botton of the page to create the toolchain.
+7. **Select** the "Authorize application" button.
+
+If you are New to GitHub and **do not** have a GitHub account:
+
+1. **Select** the "Create an account" button.
+
+<img src="./media/Step3-image-13.png" />
+
+8. **Enter** the required information; Username, Email Address and Password
+9. **Select** the "Create an account" button.
 
 <img src="./media/Step3-image-14.png" />
 
