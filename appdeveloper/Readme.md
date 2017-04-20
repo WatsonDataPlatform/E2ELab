@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/Deploy.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
-As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. Perform these hands-on exercises to quickly build and deploy a live dashboard with Node.js connceted to a document data service, IBM Cloudant NoSQL DB.
+As an Application Developer, you need multiple application and data services that facilitate a modern architecture and delivery practices around mobile, microservices, DevOps and continuous delivery. The hands-on exercises in this lab will instruct you on how to quickly build and deploy a live dashboard application with Node.js connceted to a document data service, IBM Cloudant NoSQL DB. It analyzes data stored in the Cloudant document database and displays a graph depicting where time is being spent across the different departments of the Great Outdoors retail store.
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ As an Application Developer, you need multiple application and data services tha
 
 ## Workflow
 
-> On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions that demonstrate the capabilities of the Bluemix Data Connect cloud service. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
+> On the following pages are a series of steps to complete this lab sucessfully. Each step outlines an easy to follow set of instructions that demonstrates how to build and deploy the "Watson Data Platform" application in Bluemix. It has been designed as a serial process so it’s important that you follow each step in sequence and do not deviate from the workflow or skip any steps in the process.
 
 ### Lab Steps
 
