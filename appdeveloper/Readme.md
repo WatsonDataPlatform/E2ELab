@@ -31,11 +31,14 @@ Step | Description
 
 <img src="./media/Step1-image-02.png"/>
 
-> Make sure you are in the "Watson Data Platform" space.
+> Make sure you are in the "Watson Data Platform" space that you were instructed to create in GettingStarted.
 
 <img src="./media/Step1-image-03.png"/>
 
-> If you are not in the "Watson Data Platform" space, that you were instructed to create in the GettingStarted section, switch to it by **Selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
+> If you are not in the "Watson Data Platform" space, switch to it.
+1. **Click on** the Bluemix "Organization | Region" area in the top right corner of the Bluemix home page.
+2. **Click on** the Space dop down arrow.
+3. **Select** the "Watson Data Platform" space.
 
 <img src="./media/Step1-image-04.png"/>
 
@@ -54,7 +57,7 @@ Step | Description
 3. **Enter** "greatoutdoors" (in lowercase, database names are case sensitive) for the database name.
 4. **Select** the "Create" button.
 
-> Note - In the following steps we will create two indices to allow queries against the data set. Any parameter which is used in a query must be indexed.
+> **Note** - In the following steps we will create two indices to allow queries against the data set. Any parameter which is used in a query must be indexed.
 
 <img src="./media/Step2-image-02.png" />
 
@@ -105,7 +108,7 @@ Step | Description
 
 8. **Select** the "Create Index” button.
 
- > Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the copy-and-paste process. They should be standard double quotes and not inverted.
+ > Note: If the creation of either index fails, check to be sure that the double quotes have not been mangled by the copy and paste process. They should be standard double quotes and not inverted.
 
 <img src="./media/Step2-image-07.png" />
 
@@ -119,7 +122,7 @@ Step | Description
 
 <img src="./media/Step3-image-01.png" />
 
-1. **Select** the Hamburger in the top left corner of Bluemix to view the Bluemix navigation menu.
+1. **Select** the Hamburger in the top left corner of the Bluemix home page to view the Bluemix navigation menu.
 
 <img src="./media/Step3-image-02.png" />
 
@@ -127,11 +130,11 @@ Step | Description
 
 <img src="./media/Step3-image-03.png" />
 
-3. **Select** the "Dashboard" sub-menu to go to the All Apps section of your Bluemix dashboard.
+3. **Select** the "Dashboard" sub-menu to go to the "All Apps" section of your Bluemix dashboard.
 
 <img src="./media/Step3-image-04.png" />
 
-4. **Click on** the "WDP Lab *Your Name* Application" Name (not the Route URL) where Your Name is your First and Last name, that you created in GettingStarted.
+4. **Click on** the "WDP Lab *Your Name* Application" Name (not the Route URL) where *Your Name* is your First and Last name, that you created in GettingStarted.
 
 <img src="./media/Step3-image-05.png" />
 
