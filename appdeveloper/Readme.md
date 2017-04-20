@@ -162,11 +162,37 @@ Step | Description
 
 10. **Select** the "Overview" tab from the left side menu.
 11. **Scroll down** to the bottom of the "Overview" page.
-12. **Select** the "Enable" button from the Continuous Delivery section in the bottm right corner
-
-> A new tab will open in your browser and you will be brought into IBM Bluemix DevOps.
+12. **Select** the "Enable" button from the Continuous Delivery section in the bottm right corner.
 
 <img src="./media/Step3-image-10.png" />
+
+> A new tab will open in your browser and you will be brought into IBM Bluemix DevOps to create a toolchain. This toolchain includes tools to develop and deploy your app. Depending on your app, when you create the toolchain, the GitHub repository will either be empty or will contain source code from your app. 
+
+> This toolchain uses tools that are part of the Continuous Delivery service. If an instance of that service isn't already in your organization, when you click Create, it is automatically added at no cost to you.
+
+<img src="./media/Step3-image-11.png" />
+
+1. **Select** the "Create" button at the botton of the page to create the toolchain.
+
+<img src="./media/Step3-image-12.png" />
+
+2. **Select** the "Create" button at the botton of the page to create the toolchain.
+
+<img src="./media/Step3-image-13.png" />
+
+3. **Select** the "Create" button at the botton of the page to create the toolchain.
+
+<img src="./media/Step3-image-14.png" />
+
+4. **Select** the "Create" button at the botton of the page to create the toolchain.
+
+<img src="./media/Step3-image-15.png" />
+
+5. **Select** the "Create" button at the botton of the page to create the toolchain.
+
+<img src="./media/Step3-image-16.png" />
+
+6. **Select** the "Create" button at the botton of the page to create the toolchain.
 
     a.  In the Continuous Delivery panel select “**Add Git Repo and Pipeline**”
 
