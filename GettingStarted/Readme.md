@@ -1,5 +1,5 @@
 
-The Watson Data Platform labs are conducted using the IBM cloud. They utilize the suite of fully managed cloud data services; Cloudant NoSQL DB, dashDB for Analytics and Object Storage to persist data and Data Connect to ingest data. These services are available and deployed from Bluemix, IBM’s cloud platform. This lab also leverages Watson Analytics, IBM’s smart data discovery and visualization service on the cloud. Finally, this lab will also utilize the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. 
+The Watson Data Platform lab is conducted using the IBM cloud. It utilizes the suite of fully managed cloud data services; Cloudant NoSQL DB, dashDB for Analytics and Object Storage to persist data and Data Connect to ingest data. These services are available and deployed from Bluemix, IBM’s cloud platform. This lab also leverages Watson Analytics, IBM’s smart data discovery and visualization service on the cloud. Finally, this lab will also utilize the IBM Data Science Experience, an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to activate their insights. 
 
 ## Workflow
 
@@ -310,15 +310,15 @@ To activate your account, **Go to** your email inbox that you used to register y
 
 <img src="./media/Step5-image-08.png"/>
 
-> In a few seconds you will be brought into a Welcom page that plays a video introducing you to Watson Analytics with a status of "Setting up your account" at the bottom of the page. 
+> In a few seconds you will be brought into a Welcome page that plays a video introducing you to Watson Analytics with a status of "Setting up your account" at the bottom of the page. 
 
 <img src="./media/Step5-image-09.png"/>
 
-1. When you are able, **Select** the Continue to Watson Analytics ->" arrow.
+1. When you are able, **Select** the "Continue to Watson Analytics" link.
 
 <img src="./media/Step5-image-10.png"/>
 
-2. **Select** the "Get Started ->" arrow.
+2. **Select** the "Get Started ->" button.
 
 <img src="./media/Step5-image-11.png"/>
 
