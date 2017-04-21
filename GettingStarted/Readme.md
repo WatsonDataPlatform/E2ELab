@@ -16,7 +16,7 @@ Step | Description
 
 ## Step 1: Download the lab files
 
-**Download** the Great Outdoor Customer Orders CSV file to your workstation. This file is used in the Data Engineering, Business Analysis and Data Science labs. When downloading this file, you will be brought to a browser tab that exposes the content of the file. Use the "File" > "Save Page As ..." menu item to save this file. Be sure to use the .csv file extention.
+**Download** the Great Outdoor Customer Orders CSV file to your workstation. This file is used in the Data Engineering, Business Analysis and Data Science sections of the lab. When downloading this file, you will be brought to a browser tab that exposes the content of the file. Use the "File" > "Save Page As ..." menu item to save this file. Be sure to use the .csv file extention.
 
 ### [Click Here to Download the "Great Outdoor Customer Orders.csv" file](https://github.com/WatsonDataPlatform/E2ELab/blob/master/GettingStarted/Great%20Outdoor%20Customer%20Orders.csv)
 
