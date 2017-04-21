@@ -9,8 +9,8 @@ Step | Description
 ------------ | -------------
 1 | Download the lab files
 2 | Create a Bluemix account
-3 | Create the Watson Data Platform services
-4 | Create the Watson Data Platform application
+3 | Create the Watson Data Platform lab services
+4 | Create the Watson Data Platform lab application
 5 | Create a Watson Analytics account
 
 ## Step 1: Download the lab files
@@ -118,7 +118,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 14. **Select** the "I'm Ready" button.
 
-## Step 3: Create the Watson Data Platform services
+## Step 3: Create the Watson Data Platform lab services
 
 <img src="./media/Step3-image-01.png" />
 
@@ -218,7 +218,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 > **Note** - You should have 5 services in your services dashboard. These are the services that will be used across the Watson Data Platform labs; Data Engineering, Business Analytics, Data Science and Application Development.
 
-## Step 4: Create the Watson Data Platform application
+## Step 4: Create the Watson Data Platform lab application
 
 <img src="./media/Step4-image-01.png" />
 
