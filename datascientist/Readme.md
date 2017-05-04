@@ -1,7 +1,7 @@
 #Hands on Lab - Data Scientist
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/blob/master/Media/MachineLearning.png">](https://github.com/WatsonDataPlatform/E2ELab)
 
-As a Data Scientist, you have to turn raw data into meaning using state-of-the-art techniques leveraging open source and enterprise applications. This hands-on lab leverages Apache Spark, Jupyter, Python, and R to derive sales performance for a specific product line, then build an advanced Machine Learning model in R.
+As a Data Scientist, you have to turn raw data into meaning using state-of-the-art techniques leveraging open source and enterprise applications. This hands-on lab leverages Apache Spark, Jupyter, Python, and R to derive sales performance for a specific product line, then builds an advanced Machine Learning model in R.
 
 DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, along with the intuitive data connectivity and processing capabilities of Spark, and displays the outcomes using state-of-art dynamic visualization technology found in Brunel, Pixiedust, and RStudio.
 
