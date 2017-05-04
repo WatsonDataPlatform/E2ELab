@@ -6,8 +6,6 @@ This lab exercise uses an IPython Notebook in Data Science Experience to connect
 
 ![overview](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/overview.gif.gif)
 
-Lab Video: https://youtu.be/sHm4IHHZq2w
- > [<img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/media/DS Video.png" width="382">](https://youtu.be/sHm4IHHZq2w "Data Science")
 
 #Step 1. Provision dashDB
 
