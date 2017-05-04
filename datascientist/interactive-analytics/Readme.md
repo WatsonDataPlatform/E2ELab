@@ -1,5 +1,5 @@
-#Data Scientist 
-#Part 1 - Root Cause Analysis..
+Data Scientist 
+Excercise 1 - Root Cause Analysis..
 [<img src="https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/media/DSE2E1.png">](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/)
 
 This lab exercise uses an IPython Notebook in Data Science Experience to connect with dashDB, explores sales, product data and analyze sales performance for a specific product line. Pixiedust, a Python based visualization package is used to visualize the results.
@@ -7,34 +7,16 @@ This lab exercise uses an IPython Notebook in Data Science Experience to connect
 ![overview](https://github.com/WatsonDataPlatform/E2ELab/raw/master/datascientist/interactive-analytics/media/overview.gif.gif)
 
 
-#Step 1. Provision dashDB
-
-1.	Login to IBM Bluemix
-
-  a.	For existing accounts use  https://new-console.ng.bluemix.net/login
-
-  b.	Sign-up for a free trial account at https://console.ng.bluemix.net/registration/
-
-2.	Provision dashDB
-
-  a.	From the Bluemix catalog menu search for “dashdb”
-
-  b.	Click on the "dashDB for Analytics" Icon
-
-  c.	Accept the default values and rename “Service name:” to ‘DS_Sales_DataStore’
-
-  d.	Select “Entry Pricing Plan” (default) and click “Create” on the right hand panel.
-
-The dashDB service is provisioned along with sample database and lab exercise will use the sample database.
+If you have not visited the Getting Started section - please do so now and create your "dashDB for Analytics" service.
 
 ---
-#Step 2. Create a project and a connection to DashDB
+Step 1. Create a project and a connection to DashDB
 
 1.	Login to IBM Data Science Experience @ http://datascience.ibm.com/
 
 2.	Create a new project
 
-        You may have to come back to creating a project a few times if you need to 
+        You may have to come back to creating this project if you need to 
         create a Spark service and an ObjectStore repository.
 
   a.	Click on the "+" sign in the upper right of the screen and select "Create project”
