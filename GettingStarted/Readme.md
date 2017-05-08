@@ -339,29 +339,38 @@ You will need a GitHub account. If you **don't** have an account:
 
 <img src="./media/Step6-image-01.png" />
 
-1. When you are able, **Select** the "Continue to Watson Analytics" link.
-2. **Enter** all the required fields; Password, First and Last Name, Company, Phone Number, Country/region and State.
-3. **Check** or **Uncheck** the box to keep informed of products and services and offerings from IBM worldwide.
-4. **Select** the "Continue" button.
+1. **Enter** a Username.
+2. **Enter** an Email. I recommend using the same Email Address you used for your Bluemix account.
+3. **Enter** a Password. Again, I recommend using the same password you used for your Bluemix account.
+4. **Select** the "Sign up for GitHub" button.
 
 <img src="./media/Step6-image-02.png"/>
 
-5. **Select** the "Get Started ->" button.
+5. **Choose** the "Unlimited repositories for free" plan (It should be selected by default).
+6. **Select** the "Continue" button.
 
 <img src="./media/Step6-image-03.png"/>
 
-6. **Click through** the exploration tour.
+7. **Review** the "Tailor your experience" choices. Optionally select those you wish to supply or none of them.
+8. **Select** the "Submit" button.
 
 <img src="./media/Step6-image-04.png"/>
 
-7. **Select** "Got it" when you get to the end of the exploration tour.
+9. **Select** the "Start a project" button.
 
 <img src="./media/Step6-image-05.png"/>
 
-8. **Select** "Got it" when you get to the end of the exploration tour.
+10. **Go to** the Email account you supplied during signup. Open the verification email sent to you by GitHub.
 
 <img src="./media/Step6-image-06.png"/>
 
-9. **Select** "Got it" when you get to the end of the exploration tour.
+11. **Click On** the "Verify email address" link.
 
 <img src="./media/Step6-image-07.png"/>
+
+> You will be brought to a web page notifying you that your email was verified. 
+
+12. **Select** the "X" in the top right corner to close the verification message.
+
+> Your have completed all of the required pre-requisite steps. You can now proceed to the 
+## [Data Engineer Lab - Click Here](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
