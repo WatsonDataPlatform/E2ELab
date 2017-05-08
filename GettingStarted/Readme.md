@@ -56,7 +56,7 @@ You will need a Bluemix account. Follow the instructions in one of the sections 
 
 > The space will be created and you will be brought into it. You should now see, in the top right corner, that you are in the “Watson Data Platform” space in your Bluemix organization. You will use this space to house the Watson Data Platform lab services and application.
 
-**Proceed to Step 3**
+**Proceed to Step 3: Create the Watson Data Platform lab services**
 
 ## If you don't have a Bluemix account...
 
