@@ -338,3 +338,30 @@ You will need a GitHub account. If you **don't** have an account:
 ### [Click Here to Register for a GitHub account](https://github.com/)
 
 <img src="./media/Step6-image-01.png" />
+
+1. When you are able, **Select** the "Continue to Watson Analytics" link.
+2. **Enter** all the required fields; Password, First and Last Name, Company, Phone Number, Country/region and State.
+3. **Check** or **Uncheck** the box to keep informed of products and services and offerings from IBM worldwide.
+4. **Select** the "Continue" button.
+
+<img src="./media/Step6-image-02.png"/>
+
+5. **Select** the "Get Started ->" button.
+
+<img src="./media/Step6-image-03.png"/>
+
+6. **Click through** the exploration tour.
+
+<img src="./media/Step6-image-04.png"/>
+
+7. **Select** "Got it" when you get to the end of the exploration tour.
+
+<img src="./media/Step6-image-05.png"/>
+
+8. **Select** "Got it" when you get to the end of the exploration tour.
+
+<img src="./media/Step6-image-06.png"/>
+
+9. **Select** "Got it" when you get to the end of the exploration tour.
+
+<img src="./media/Step6-image-07.png"/>
