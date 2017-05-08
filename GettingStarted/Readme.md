@@ -11,6 +11,7 @@ Step | Description
 3 | Create the Watson Data Platform lab services
 4 | Create the Watson Data Platform lab application
 5 | Create a Watson Analytics account
+6 | Create a GitHub account
 
 ## Step 1: Download the lab files
 
