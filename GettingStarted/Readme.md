@@ -334,6 +334,6 @@ To activate your account, **Go to** your email inbox that you used to register y
 
 You will need a GitHub account. If you **don't** have an account:
 
-### [Click Here to Register for a Watson Analytics account](https://github.com/)
+### [Click Here to Register for a GitHub account](https://github.com/)
 
 <img src="./media/Step6-image-01.png" />
