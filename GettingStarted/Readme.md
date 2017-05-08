@@ -329,3 +329,11 @@ To activate your account, **Go to** your email inbox that you used to register y
 <img src="./media/Step5-image-13.png"/>
 
 > Your Watson Analytics account is now ready for use. You have completed all of the Getting Started prerequisites and are ready to begin the Watson Data Platform labs. You can do the labs in any order you like but we strongly suggest you start by doing the Data Engineering lab first followd by Business Analysis, Data Science and then Application Development.
+
+## Step 5: Create a GitHub account
+
+You will need a GitHub account. If you **don't** have an account:
+
+### [Click Here to Register for a Watson Analytics account](https://github.com/)
+
+<img src="./media/Step6-image-01.png" />
