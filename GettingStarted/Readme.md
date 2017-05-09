@@ -376,6 +376,6 @@ You will need a GitHub account. If you **don't** have an account:
 
 12. **Select** the "X" in the top right corner to close the verification message.
 
-> Your have completed all of the required pre-requisite steps. You can now proceed to the Data Enginner lab to get started.
+> Your have completed the pre-requisite steps. You can now begin completing the labs. Please proceed to the Data Enginner lab first to begin preparing your data.
 
 ## [Click Here to go to the Data Engineer Lab](https://github.com/WatsonDataPlatform/E2ELab/tree/master/dataengineer/)
