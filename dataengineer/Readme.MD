@@ -49,7 +49,11 @@ Step | Description
 
 <img src="./media/Step1-image-03.png"/>
 
-> If you are not in the "Watson Data Platform" space, that you were instructed to create in the GettingStarted section, switch to it by **Selecting** the Bluemix region / organization area in the top right corner of the Bluemix home page as decpicted in the screen shot above.
+> If you are not in the "Watson Data Platform" space, that you were instructed to create in the GettingStarted section, switch to it by followimg the instructions below.
+
+1. **Select** the Bluemix region / organization area in the top right corner of the Bluemix home page.
+2. **Select** the arrow in the Space drop down list box.
+3. **Select** the "Watson Data Platform" space. Bluemix will switch yuo to the selected space.
 
 <img src="./media/Step1-image-04.png"/>
 
