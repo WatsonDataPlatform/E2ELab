@@ -103,7 +103,7 @@ Step | Description
 
 <img src="./media/Step2-image-05.png"/>
 
-> Otherwise, you will see the error screen above. There can be several reasons for this:
+> Otherwise, you may receive the error screen above. There can be several reasons for this:
 
 > 1. You don't have a Watson Analytics account with credentials that match your Bluemix account. If so, go back to the GettingStarted section and follow the instructions to create a Watson Analytics account using your Bluemix credentials.
 >
