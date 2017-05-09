@@ -71,7 +71,7 @@ Step | Description
 <img src="./media/Step1-image-07.png"/>
 
 > The Data Connect user interface provides easy access to all functions from a main menu located on the left side and a few primary functions that are displayed in the middle of the home page that allow you to navigate to the different areas of the interface.
-
+> 
 > **Notice** that there is a menu control button to the right of the Data Connect service name. It controls the appearance of the menu on the left side. By selecting this button you can hide or view the left side menu. Also, clicking on the service name you can always get back to the home page. Let’s experiment with these controls.
 
 1. **Select** the menu control button. The menu will disappear. Select it again and the menu will reappear.  
