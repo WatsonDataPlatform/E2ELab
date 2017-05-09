@@ -166,19 +166,23 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step3-image-10.png" />
 
-6. **Select** the "Service Credentials” tab from the dashDB for Analytics launch page.   
-7. **Select** the the "New Credential +" button.
+6. **Click On** the "WDP dashDB for Analytics" service you just created from the list of services.
+
+<img src="./media/Step3-image-10-1.png" />
+
+7. **Select** the "Service credentials” section on the left from the WDP dashDB for Analytics launch page.   
+8. **Select** the the "New credential +" button.
 
 <img src="./media/Step3-image-11.png" />
 
-8. **Enter** "WDP dashDB for Analytics” (without quotes) for the Credential name.   
-9. **Select** the the "Add" button. The service credential will be created.
+9. **Enter** "WDP dashDB for Analytics” (without quotes) for the credential name.   
+10. **Select** the the "Add" button. The service credential will be created.
 
 <img src="./media/Step3-image-12.png" />
 
-10. **Select** the "View credentials v" down arrow to view the newly created credentials.
+11. **Select** the "View credentials v" down arrow to view the newly created credentials.
 
-> **Note** - These are the WDP Lab dashDB for Analytics service credentials you will need to access the dashDB service in the Data Engineering and Data Science labs. Remember how to get back to this area of the service to access the credentials. I have redacted my password, to protect my identity, yours will be visible.
+> **Note** - These are the "WDP dashDB for Analytics" service credentials you will need to access the dashDB service in the Data Engineering and Data Science labs. Remember how to get back to this area of the service to access the credentials. I have redacted my password, to protect my identity, yours will be visible.
 
 <img src="./media/Step3-image-13.png" />
 
