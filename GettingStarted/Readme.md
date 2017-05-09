@@ -245,7 +245,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 > You are brought to the application page and see that Bluemix has begun starting the application. You will see a starting status with a spinning wheel. Wait until you see that the application is a running status.
 
-6. **Select** the "IBM Bluemix" folder in the top left corner of the menu after you see that the application is in a running state. This will take you back to your Bluemix account dashaboard.
+6. **Click On** the "IBM Bluemix" menu, to the left of the "Cloud Foundry Apps" menu from the Bluemix toolbar after you see that the application is in a running state. This will take you back to your Bluemix dashaboard.
 
 <img src="./media/Step4-image-05.png" />
 
