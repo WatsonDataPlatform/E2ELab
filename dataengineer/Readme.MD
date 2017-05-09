@@ -92,12 +92,16 @@ Step | Description
 
 3. **Enter** "Watson Analytics" (without quotes) for the Connection name.  
 4. **Enter** "My Watson Analytic Account" (without quotes) for the Description.
-5. **Select** a Watson Analytics Data Center from the list of data centers. Choose "US1-Dallas" as your first choice. 
+5. **Select** the "CA1-Toronto" Data Center. 
 6. **Select** the "Create Connection" button.
 
 > **Note** - Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix credentials to log into Watson Analytics to authenticate you. During authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
 >
-> If you have a Watson Analytics account that uses the same ID and password as your Bluemix account, Data Connect will validate your credentials and create the connection. If the ID is the same but the password is different you will be prompted to enter your password on a Watson Analytics login page, validate the credentials and create the connection. If you do not have a Watson Analytics account that matches your Bluemix ID you will get the error screen show below and you will not be allowed to create a Watson Analytics connection.
+> You may see this screen when trying to create your Watson Analytics connection. There are several reasons for this:
+>
+> 1. You don't have a Watson Analytics account with credentials that match your Bluemix account. If so, go back to the GettingStarted section and follow the instructions to create a Watson Analytics account using your Bluemix credentials.
+>
+> 2. You have a Watson Analytics account with credentials that match your Bluemix account. If so, the account is not hosted in the CA1-Toronto data center I instructed you to select. Close the browser window that contains the error and go back into the Data Conect service and select the US1-Dallas or EU1-Amsterdam data center.
 
 <img src="./media/Step2-image-04.png"/>
 
