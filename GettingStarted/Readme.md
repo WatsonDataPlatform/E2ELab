@@ -170,7 +170,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step3-image-10-1.png" />
 
-7. **Select** the "Service credentials” section on the left from the WDP dashDB for Analytics launch page.   
+7. **Select** the "Service credentials” section of the "WDP dashDB for Analytics" service launch page.   
 8. **Select** the the "New credential +" button.
 
 <img src="./media/Step3-image-11.png" />
@@ -237,7 +237,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 4. **Enter** "WDP Your Name” (without quotes), with "Your Name" equal to your First and Last Name. The Host name will be filled in automatically for you with dashes in place of spaces.
 
-> Notice that my application name is "WDP Lab Rick Buglio Application" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name of the application has to be unique in Bluemix. Using your first and last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
+> Notice that my application name is "WDP Rick Buglio" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name of the application has to be unique in Bluemix. Using your first and last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
 
 5. **Select** the "Create" button. The application creation process will begin. 
 
