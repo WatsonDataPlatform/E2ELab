@@ -91,8 +91,9 @@ Step | Description
 <img src="./media/Step2-image-03.png"/>
 
 3. **Enter** "Watson Analytics" (without quotes) for the Connection name.  
-4. **Enter** "My Watson Analytic Account" (without quotes) for the Description.  
-5. **Select** the "Create Connection" button.
+4. **Enter** "My Watson Analytic Account" (without quotes) for the Description.
+5. **Select** a Watson Analytics Data Center from the list of data centers. Choose "US1-Dallas" as your first choice. 
+6. **Select** the "Create Connection" button.
 
 > **Note** - Data Connect uses OAuth2 to validate your Watson Analytics credentials. It uses your Bluemix credentials to log into Watson Analytics to authenticate you. During authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
 >
