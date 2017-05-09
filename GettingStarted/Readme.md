@@ -131,8 +131,8 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step3-image-03.png" />
 
-4. **Enter** "WDP Lab Data Connect” (without quotes) for the Service name.  
-5. **Enter** “WDP Lab Data Connect” (without quotes) for the Credential name.  
+4. **Enter** "WDP Data Connect” (without quotes) for the Service name.  
+5. **Enter** “WDP Data Connect” (without quotes) for the Credential name.  
 6. **Select** the the "Create" button. The service will be created and the launch page is displayed.
 
 <img src="./media/Step3-image-04.png" />
@@ -146,8 +146,8 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step3-image-06.png" />
 
-4. **Enter** "WDP Lab Cloudant NoSQL DB” (without quotes) for the Service name.  
-5. **Enter** “WDP Lab Cloudant NoSQL DB” (without quotes) for the Credential name.  
+4. **Enter** "WDP Cloudant NoSQL DB” (without quotes) for the Service name.  
+5. **Enter** “WDP Cloudant NoSQL DB” (without quotes) for the Credential name.  
 6. **Select** the the "Create" button. The service will be created and the launch page is displayed.
 
 <img src="./media/Step3-image-07.png" />
@@ -161,7 +161,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step3-image-09.png" />
 
-4. **Enter** "WDP Lab dashDB for Analytics” (without quotes) for the Service name.   
+4. **Enter** "WDP dashDB for Analytics” (without quotes) for the Service name.   
 5. **Select** the the "Create" button. The service will be created and the launch page is displayed.
 
 <img src="./media/Step3-image-10.png" />
@@ -171,7 +171,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step3-image-11.png" />
 
-8. **Enter** "WDP Lab dashDB for Analytics” (without quotes) for the Credential name.   
+8. **Enter** "WDP dashDB for Analytics” (without quotes) for the Credential name.   
 9. **Select** the the "Add" button. The service credential will be created.
 
 <img src="./media/Step3-image-12.png" />
@@ -191,8 +191,8 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step3-image-15.png" />
 
-4. **Enter** "WDP Lab Apache Spark” (without quotes) for the Service name.
-5. **Enter** “WDP Lab Apache Spark” (without quotes) for the Credential name. 
+4. **Enter** "WDP Apache Spark” (without quotes) for the Service name.
+5. **Enter** “WDP Apache Spark” (without quotes) for the Credential name. 
 5. **Select** the "Create" button. The service will be created and the launch page is displayed.
 
 <img src="./media/Step3-image-16.png" />
@@ -206,7 +206,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step3-image-18.png" />
 
-4. **Enter** "WDP Lab Object Storage” (without quotes) for the Service name.
+4. **Enter** "WDP Object Storage” (without quotes) for the Service name.
 5. **Scroll down** the service page to the Pricing area.
 
 <img src="./media/Step3-image-19.png" />
@@ -231,7 +231,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 <img src="./media/Step4-image-03.png" />
 
-4. **Enter** "WDP Lab Your Name Application” (without quotes), with "Your Name" equal to your First and Last Name. The Host name will be filled in automatically for you with dashes in place of spaces.
+4. **Enter** "WDP Your Name” (without quotes), with "Your Name" equal to your First and Last Name. The Host name will be filled in automatically for you with dashes in place of spaces.
 
 > Notice that my application name is "WDP Lab Rick Buglio Application" with a Host Name of "WDP-Lab-Rick-Buglio-Application". The Host Name of the application has to be unique in Bluemix. Using your first and last name should make it unique. If you get an error that the name is not unique add your middle initial, if you have one, or use your Bluemix account email address instead.
 
@@ -241,7 +241,7 @@ You will be brought to a web page confirming that you sucessfully signed up for 
 
 > You are brought to the application page and see that Bluemix has begun starting the application. You will see a starting status with a spinning wheel. Wait until you see that the application is a running status.
 
-6. **Select** the "Dashboard" button from the left side menu after you see that the application is in a running state. This will take you back to your Bluemix account dashaboard.
+6. **Select** the "IBM Bluemix" folder in the top left corner of the menu after you see that the application is in a running state. This will take you back to your Bluemix account dashaboard.
 
 <img src="./media/Step4-image-05.png" />
 
