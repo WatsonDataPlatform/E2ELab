@@ -53,7 +53,7 @@ Step | Description
 
 <img src="./media/Step1-image-04.png"/>
 
-1. Once you are logged into your Bluemix account, **Scroll down** to the "All Services" section of your dashboard and **Click** on the "WDP Lab Data Connect" service. You will be brought to the Data Connect launch page.
+1. Once you are logged into your Bluemix account, **Scroll down** to the "All Services" section of your dashboard and **Click On** the "WDP Data Connect" service. You will be brought to the Data Connect launch page.
 
 <img src="./media/Step1-image-05.png" />
 
