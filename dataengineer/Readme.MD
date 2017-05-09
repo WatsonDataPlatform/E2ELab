@@ -98,13 +98,13 @@ Step | Description
 > **Note** - Data Connect uses OAuth2 to validate your Watson Analytics credentials. It always uses your Bluemix credentials to log into Watson Analytics to authenticate you. During authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
 
 <img src="./media/Step2-image-04.png"/>
->
+
 > If successful, you will receive a message that “The connection Watson Analytics was created.”
 
 <img src="./media/Step2-image-05.png"/>
 
 > Otherwise, you will see the error screen above. There can be several reasons for this:
->
+
 > 1. You don't have a Watson Analytics account with credentials that match your Bluemix account. If so, go back to the GettingStarted section and follow the instructions to create a Watson Analytics account using your Bluemix credentials.
 >
 > 2. You have a Watson Analytics account with credentials that match your Bluemix account. If so, the account is not hosted in the CA1-Toronto data center I instructed you to select. Close the browser window that contains the error and go back into the Data Conect service and select the US1-Dallas or EU1-Amsterdam data center.
