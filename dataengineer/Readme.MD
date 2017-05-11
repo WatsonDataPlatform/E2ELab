@@ -109,7 +109,7 @@ Step | Description
 > 
 > 1. You **don't** have a Watson Analytics account with credentials that match your Bluemix account. If so, close the browser window that contains the error and go back to the [GettingStarted](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/) section and follow the instructions to create a Watson Analytics account using your Bluemix credentials.
 >
-> 2. Your Watson Analytics account is not hosted in the **CA1-Toronto** data center I instructed you to select. Close the browser window that contains the error and go back to the Data Conect service interface and try the **US1-Dallas or EU1-Amsterdam** data center and then select the "Create Connection" button to try again until it succeeds.
+> 2. Your Watson Analytics account is not hosted in the **CA1-Toronto** data center I instructed you to select. Close the browser window that contains the error. Go back to the Data Conect service interface and try the **US1-Dallas** or **EU1-Amsterdam** data center and select the "Create Connection" button until it succeeds.
 
 ## Step 3: Import the Source Dataset
 
