@@ -158,7 +158,7 @@ Step | Description
 
 <img src="./media/Step4-image-06.png" />
 
-> The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
+> The object menu on the right simplifies the navigation process and provides easy access to Operations, Metrics, Details and History at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column and a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The Metrics section provides distribution frequency data at the column level. The History section is provided for you to review all actions you perform at the table, file and column level. 
 
 1.	**Select** the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
 2.	**Select** the down arrow next to the folder icon of the Details section to open up all of the sub-sections.
@@ -174,7 +174,7 @@ Step | Description
 > The metrics view provides detailed frequency distribution metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can see the metrics by selecting a column in the shaper. This view is not available at the table or file level.
 
 1.	**Select** the “PRODUCT_LINE” column to bring it into contenx.
-2. **Select** the "Metrics" button from the right side set of menu buttons.
+2. **Select** the "Metrics" button from the right side panel.
 3. **Hover over** the colored bar under the "Outdoor Protection" Frequency to see the number of distinct values. Do the same for the other values in the Frequency list.
 
 <img src="./media/Step4-image-09.png" />
