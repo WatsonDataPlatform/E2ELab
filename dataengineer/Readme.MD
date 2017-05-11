@@ -171,22 +171,17 @@ Step | Description
 
 <img src="./media/Step4-image-08.png" />
 
-> The metrics view provides detailed distribution metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can see the metrics by selecting a column in the shaper. This view is not available at the table or file level.
+> The metrics view provides detailed frequency distribution metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can see the metrics by selecting a column in the shaper. This view is not available at the table or file level.
 
 1.	**Select** the “PRODUCT_LINE” column to bring it into contenx.
-2. **Select** the "Metrics" button from the right hand side set of menu buttons.
+2. **Select** the "Metrics" button from the right side set of menu buttons.
 3. **Hover over** the colored bar under the "Outdoor Protection" Frequency to see the number of distinct values. Do the same for the other values in the Frequency list.
 
-<img src="./media/Step4-image-08.png" />
+<img src="./media/Step4-image-09.png" />
 
-2.	**Select** the PRODUCT_LINE column - The column is highlighted and brought into context.
-3.	**Notice** the Details section of the object menu changes to the PRODUCT_LINE column details.
-4.	**Place your mouse** over the High Quality text of the PRODUCT_LINE column.
-
-> **Note** You can do this for any column in the shaper.
-
-5.	**Select** the “More information” link to get a more detailed explanation of the quality exceptions.
-6.	**Select** the "Toggle Metrics" button on the shaper tool bar to get back to the data view.
+4.	**Select** the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
+5.	**Select** the down arrow next to the folder icon of the Details section to open up all of the sub-sections.
+6.	**Scroll down** to view all the content in the sub-sections of the Details section. **Notice** the **Quality Score** for the PRODUCT_LINE column in the **General** sub-section and the potential quality issues identified in the **Quality Issues** sub-section at the bottom of the Details section.
 
 ### Refine the Data
 
