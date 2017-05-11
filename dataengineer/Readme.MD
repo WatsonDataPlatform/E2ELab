@@ -165,15 +165,17 @@ Step | Description
 
 <img src="./media/Step4-image-07.png" />
 
-3.	**Scroll down** to view all the content in the sub-sections of the Details section. Observe all the information provided in the various sub-sections. Pay specific attention to the **Quality Score** for the file in the General section and the potential quality issues identified in the **Quality Issues** sub-section at th ebottom of the Details section.
+3.	**Scroll down** to view all the content in the sub-sections of the Details section. **Notice** the **Quality Score** for the file in the **General** sub-section and the potential quality issues identified in the **Quality Issues** sub-section at the bottom of the Details section.
 
 ### Review Column Metrics
 
-<img src="./media/Step4-image-07.png" />
+<img src="./media/Step4-image-08.png" />
 
-> The metrics view provides detailed quality and content metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can toggle to the metrics view for any table or file to view column metrics.
+> The metrics view provides detailed distribution metrics at the column level for every column in a table or file you have chosen to include in a refinement activity. You can see the metrics by selecting a column in the shaper. This view is not available at the table or file level.
 
-1.	**Select** the “Toggle Metrics” button, the far right button on the shaper tool bar.
+1.	**Select** the “PRODUCT_LINE” column to bring it into contenx.
+2. **Select** the "Metrics" button from the right hand side set of menu buttons.
+3. **Hover over** the colored bar under the "Outdoor Protection" Frequency to see the number of distinct values. Do the same for the other values in the Frequency list.
 
 <img src="./media/Step4-image-08.png" />
 
