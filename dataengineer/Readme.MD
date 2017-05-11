@@ -90,12 +90,14 @@ Step | Description
 
 <img src="./media/Step2-image-03.png"/>
 
+> **Note** - Data Connect does not require you to enter a Watson Analytics user ID or password when creating a connection to Watson Analytics. It communicates with Watson Analytics using the cloud OAuth2 API and always uses your Bluemix credentials to authenticate you. Therefore, the connection creation may fail if you do not have a Watson Analytics account with credentials (user and password) that matches the Bluemix account you used to launch Data Connect. 
+>
+>Also, during authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
+
 3. **Enter** "Watson Analytics" (without quotes) for the Connection name.  
 4. **Enter** "My Watson Analytic Account" (without quotes) for the Description.
 5. **Select** the "CA1-Toronto" Data Center. 
 6. **Select** the "Create Connection" button.
-
-> **Note** - Data Connect uses OAuth2 to validate your Watson Analytics credentials. It always uses your Bluemix credentials to log into Watson Analytics to authenticate you. During authentication, a new browser session will appear when Data Connect communicates with Watson Analytics to validate your credentials.
 
 <img src="./media/Step2-image-04.png"/>
 
