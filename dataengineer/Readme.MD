@@ -150,7 +150,7 @@ Step | Description
 
 <img src="./media/Step4-image-05.png" />
 
-> You are brought into the Data Connect shaper. The file, **Great Outdoor Customer Orders.csv**, is selected by default and you are presented with a column data to data type match assessment for each column to help you better understand the content of the dataset before you begin refining it.
+> You are brought into the Data Connect shaper. The file, **Great Outdoor Customer Orders.csv**, is selected by default and you are presented with a data to data type match assessment for each column to help you better understand the content of the dataset before you begin refining it.
 
 8.	**Select** the menu control button in the top left hand corner to hide the Data Connect main menu.
  
@@ -161,7 +161,8 @@ Step | Description
 > The object menu on the right simplifies the navigation process and provides easy access to Operations, History and Details at the table, file and column level. It provides a quality score for every table, file and column. The Operations section allows you to select and apply transformation functions at the table, file and column level. The History section is provided for you to review all actions you perform at the table, file and column level. The Detail section provides detailed quality and data content information for a table, file or column.
 
 1.	**Select** the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
-2.	**Select** the down arrow next to the folder icon of the Details section.
+2.	**Select** the down arrow next to the folder icon of the Details section to open up all of the sub-sections.
+3. **Scroll down** and notice the overall file **Quality Score** in the General section. Review all other quality, content and metrics provided in the sub-sections of the Details section.
  
 ### Review Column Metrics
 
