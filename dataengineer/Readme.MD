@@ -162,8 +162,11 @@ Step | Description
 
 1.	**Select** the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
 2.	**Select** the down arrow next to the folder icon of the Details section to open up all of the sub-sections.
-3. **Scroll down** and notice the overall file **Quality Score** in the General section. Review all other quality, content and metrics provided in the sub-sections of the Details section.
- 
+
+<img src="./media/Step4-image-07.png" />
+
+3.	**Scroll down** to view all the content in the sub-sections of the Details section. Observe all the information provided in the various sub-sections. Pay specific attention to the **Quality Score** for the file in the General section and the potential quality issues identified in the **Quality Issues** sub-section at th ebottom of the Details section.
+
 ### Review Column Metrics
 
 <img src="./media/Step4-image-07.png" />
