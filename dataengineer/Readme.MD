@@ -105,7 +105,7 @@ Step | Description
 
 > Otherwise, you will receive the error screen above. There can be several reasons for this:
 > 
-> 1. You don't have a Watson Analytics account with credentials that match your Bluemix account. If so, go back to the [GettingStarted](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/)section and follow the instructions to create a Watson Analytics account using your Bluemix credentials.
+> 1. You don't have a Watson Analytics account with credentials that match your Bluemix account. If so, go back to the [GettingStarted](https://github.com/WatsonDataPlatform/E2ELab/tree/master/GettingStarted/) section and follow the instructions to create a Watson Analytics account using your Bluemix credentials.
 >
 > 2. You have a Watson Analytics account with credentials that match your Bluemix account. If so, the account is not hosted in the CA1-Toronto data center I instructed you to select. Close the browser window that contains the error and go back into the Data Conect service and select the US1-Dallas or EU1-Amsterdam data center and select the "Create Connection" button and try again.
 
