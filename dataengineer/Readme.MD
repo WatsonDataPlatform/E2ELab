@@ -179,13 +179,13 @@ Step | Description
 
 <img src="./media/Step4-image-09.png" />
 
-4.	**Select** the Details section for the Great Outdoor Customer Orders.csv file to review its quality and content.
+4.	**Select** the "Details" button from the right side panel.
 5.	**Select** the down arrow next to the folder icon of the Details section to open up all of the sub-sections.
 6.	**Scroll down** to view all the content in the sub-sections of the Details section. **Notice** the **Quality Score** for the PRODUCT_LINE column in the **General** sub-section and the potential quality issues identified in the **Quality Issues** sub-section at the bottom of the Details section.
 
 ### Refine the Data
 
-<img src="./media/Step4-image-09.png" />
+<img src="./media/Step4-image-10.png" />
 
 1.	**Select** the "Great Outdoor Customer Orders.csv" file to bring it into context.
 2. **Select** the "Operations" button from the right side panel.
