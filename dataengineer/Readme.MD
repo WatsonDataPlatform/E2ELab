@@ -259,23 +259,24 @@ Step | Description
 <img src="./media/Step5-image-01.png" />
 
 1.	**Select** the "Watson Analytics" connection you created earlier from the list of connections as the target.
-2. **Select** the "Run" button in the top right corner to execute the data activities recipe.
+2. **Select** the "personal" folder from the list of folders.
+3. **Select** the "Run" button in the top right corner to execute the data refinement activity.
 
 <img src="./media/Step5-image-02.png" />
 
 > You will see a message that "Your activity is running"
 
-3.	**Select** the "X" on the message to close the message dialog.
-4. **Select** the "View Activity Status" button on the toolbar.
+4.	**Select** the "X" on the message to close the message dialog.
+5. **Select** the "View Activity Status" button on the toolbar.
 
 <img src="./media/Step5-image-03.png" />
 
-5.	**Select** the "Refresh" button that looks like an arrow pointing to the right on the toolbar of the Activity Status monitor. Continue to do this multiple times to get an update on the activities progress. Continue refreshing the status until you see a 100% Completed status.
+6.	**Select** the "Refresh" button that looks like an arrow pointing to the right on the toolbar of the Activity Status monitor. Continue to do this multiple times to get an update on the activities progress. Continue refreshing the status until you see a 100% Completed status.
 
 <img src="./media/Step5-image-04.png" />
 
-6.	**Select** the "X" on the Activity Status monitor window to close the window.
-7. **Select** the menu control button on the far left side to bring back the Data Connect main menu.
+7.	**Select** the "X" on the Activity Status monitor window to close the window.
+8. **Select** the menu control button on the far left side to bring back the Data Connect main menu.
 
 ## Step 6: Validate the Results
 
