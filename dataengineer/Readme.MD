@@ -242,16 +242,17 @@ Step | Description
 
 ### Review History
 
-<img src="./media/Step4-image-17.png" />
+<img src="./media/Step4-image-19.png" />
 
 > You can review the history of your shaping actions at any time by invoking the History view. You can also undo and restore actions from the History view.
  
 1. **Select** the "Great Outdoor Customer Orders.csv" file to bring it into context.
 2.	**Select** the "History" button from the right side panel to view the history of your activity operations.
+3. **Scroll** down to the bottom of the list of actions.
 
-> You should see that you have performed 6 operations; 4 columns were renamed and 2 Gender column changes with the last operation changing "F" to "Female".
+> You should see that you have performed 6 operations; 4 columns were renamed and 2 Gender column changes with the last operation changing the GENDER values from "F" to "Female".
 
-3. **Select** the "Next" button in the top right corner to move onto the next step to complete and run the activity.
+4. **Select** the "Next" button in the top right corner to move onto the next step to complete and run the activity.
 
 ## Step 5: Complete and Run the Data Activity
 
