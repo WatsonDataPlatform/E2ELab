@@ -208,25 +208,33 @@ Step | Description
 
 <img src="./media/Step4-image-14.png" />
 
-1.	**Select** the "Gender" column in the dataset grid.
-2. **Select** the "String" menu from the object operations menu.
-4.	**Select** the "Replace substring" operation from the "String" menu.
+1. **Scroll** to the right and find the "Gender" column.
+2.	**Select** the "Gender" column in the dataset grid.
+3. **Enter** the word "replace" in the operation search area.
+4.	**Select** the "Replace substring" operation from the Search results area.
 
 <img src="./media/Step4-image-15.png" />
 
-4.	**Enter** "M" (in upper case and without quotes) in the "From Text:" field.
-5. **Enter** "MALE" (in upper case and without quotes) in the "To Text:" field.
-6. **Select** the "Apply" button at the bottom of the operation panel.
+5.	**Enter** "M" (in upper case and without quotes) in the "From Text:" field.
+6. **Enter** "MALE" (in upper case and without quotes) in the "To Text:" field.
+
+> **Notice** that a Preview has appeared in the GENDER column to show you what rows will be affected by the change and what the values will be changed to.
+
+7. **Select** the "Apply" button at the bottom of the operation panel.
 
 <img src="./media/Step4-image-16.png" />
 
-7.	**Select** the "Replace substring" operation from the "String" menu.
+8. **Enter** the word "replace" in the operation search area.
+9.	**Select** the "Replace substring" operation from the Search results area.
 
 <img src="./media/Step4-image-17.png" />
 
-8.	**Enter** "F" (in upper case and without quotes) in the "From Text:" field.
-9. **Enter** "FEMALE" (in upper case and without quotes) in the "To Text:" field.
-10. **Select** the "Apply" button at the bottom of the operation panel.
+10.	**Enter** "F" (in upper case and without quotes) in the "From text:" field.
+11. **Enter** "FEMALE" (in upper case and without quotes) in the "To text:" field.
+
+> **Notice** that a Preview has appeared in the GENDER column to show you what rows will be affected by the change and what the values will be changed to.
+
+12. **Select** the "Apply" button at the bottom of the operation panel.
 
 <img src="./media/Step4-image-18.png" />
 
