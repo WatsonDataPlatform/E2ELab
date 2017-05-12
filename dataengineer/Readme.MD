@@ -275,8 +275,8 @@ Step | Description
 
 <img src="./media/Step5-image-04.png" />
 
-7.	**Select** the "X" on the Activity Status monitor window to close the window.
-8. **Select** the menu control button on the far left side to bring back the Data Connect main menu.
+7.	**Select** the "X" on the Activity Status monitor to close the monitor.
+8. **Select** the menu control button in the top left hand corner to bring back the Data Connect main menu.
 
 ## Step 6: Validate the Results
 
@@ -289,7 +289,7 @@ Step | Description
 
 3. **Select** the arrow next to "View 6 Actions" in the "Activity Input" section.
 
-> **Notice** that the 6 operations you performed on the dataset were implemented prior to the data being written to the target. Also notice in the "Activity Output" section that the "Selected Target" was Watson Analytics and that a file named "Great Outdoor Customer Orders.csv" was written to the target. Data Connect writes the output dataset to the Watson Analytics repository and then Watson Analytics registers the dataset in your Watson Analytics account. The dataset will appear on your Watson Analytics home page by the same name.
+> **Notice** that the 6 operations you performed on the dataset were implemented prior to the data being written to the target. Also notice in the "Activity Output" section that the "Selected Target" was Watson Analytics and that a file named "Great Outdoor Customer Orders.csv" was written to the target. Data Connect writes the output dataset to the Watson Analytics repository and Watson Analytics registers the dataset to your Watson Analytics account. The dataset will appear on your Watson Analytics home page by the same name.
 
 4.	**Select** the "Close" button at the top of the activity Details section to close the activity Details.
 
