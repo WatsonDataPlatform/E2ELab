@@ -167,11 +167,9 @@ Step | Description
 
 3.	**Scroll down** to view all the content in the sub-sections of the Details section. **Notice** the **Quality Score** for the file in the **General** sub-section and the potential quality issues identified in the **Quality Issues** sub-section at the bottom of the Details section.
 
-### Review Column Metrics
-
 <img src="./media/Step4-image-08.png" />
 
-> The metrics view provides detailed frequency distribution metrics at the column level for every column in a table or file you choose to include in a data refinement activity. You can see the metrics by selecting a column in the shaper. This view is not available at the table or file level.
+> The Metrics section provides frequency distribution metrics for every column in a table or file you bring into a data refinement activity. You can view the metrics by selecting a column in the shaper. This view is not available at the table or file level.
 
 1.	**Select** the “PRODUCT_LINE” column to bring it into context.
 2. **Select** the "Metrics" button from the right side panel.
@@ -181,53 +179,56 @@ Step | Description
 
 4.	**Select** the "Details" button from the right side panel.
 5.	**Select** the down arrow next to the folder icon in the Details section to open up all of the sub-sections.
+
+<img src="./media/Step4-image-10.png" />
+
 6.	**Scroll down** to view all the content in the sub-sections of the Details section. **Notice** the **Quality Score** for the PRODUCT_LINE column in the **General** sub-section and the potential quality issues identified in the **Quality Issues** sub-section at the bottom of the Details section.
 
 ### Refine the Data
 
-<img src="./media/Step4-image-10.png" />
+<img src="./media/Step4-image-11.png" />
 
 1.	**Select** the "Great Outdoor Customer Orders.csv" file to bring it into context.
 2. **Select** the "Operations" button from the right side panel.
 3.	**Select** the "Organize" menu from the object operations menu.
 4.	**Select** the "Change schema" operation from the "Organize" menu.
 
-<img src="./media/Step4-image-10.png" />
+<img src="./media/Step4-image-12.png" />
 
 1.	**Hover over** the name area of the PRODUCT_LINE column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT LINE replacing all underscores with spaces.
 2. **Hover over** the name area of the PRODUCT_TYPE column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to PRODUCT TYPE replacing all underscores with spaces.
 3. **Hover over** the name area of the CUST_ORDER_NUMBER column and Select the edit button that looks like a pencil to edit the name. Remove all the underscores from the column name and rename the column to CUSTOMER ORDER NUMBER changing CUST to CUSTOMER and replacing all underscores with spaces.
 4. **Hover over** the name area of the MARITAL_STATUS column and Select the edit button that looks like a pencel to edit the name. Remove all the underscoreS from the column name and rename the column to MARITAL STATUS replacing all underscores with spaces.
 
-<img src="./media/Step4-image-11.png" />
+<img src="./media/Step4-image-13.png" />
 
 > **Notice** that the column names have been changed and that each column name you changed has an edit icon next to it that looks like a pencil indicating that is has been edited.
 
 5.	**Select** the "Apply" button at the bottom of the list of columns.
 
-<img src="./media/Step4-image-12.png" />
+<img src="./media/Step4-image-14.png" />
 
 1.	**Select** the "Gender" column in the dataset grid.
 2. **Select** the "String" menu from the object operations menu.
 4.	**Select** the "Replace substring" operation from the "String" menu.
 
-<img src="./media/Step4-image-13.png" />
+<img src="./media/Step4-image-15.png" />
 
 4.	**Enter** "M" (in upper case and without quotes) in the "From Text:" field.
 5. **Enter** "MALE" (in upper case and without quotes) in the "To Text:" field.
 6. **Select** the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step4-image-14.png" />
+<img src="./media/Step4-image-16.png" />
 
 7.	**Select** the "Replace substring" operation from the "String" menu.
 
-<img src="./media/Step4-image-15.png" />
+<img src="./media/Step4-image-17.png" />
 
 8.	**Enter** "F" (in upper case and without quotes) in the "From Text:" field.
 9. **Enter** "FEMALE" (in upper case and without quotes) in the "To Text:" field.
 10. **Select** the "Apply" button at the bottom of the operation panel.
 
-<img src="./media/Step4-image-16.png" />
+<img src="./media/Step4-image-18.png" />
 
 > **Notice** that the Gender column values have been changed and that "M" is now "MALE" and "F" is now "FEMALE".
 
